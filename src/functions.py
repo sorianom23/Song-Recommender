@@ -10,6 +10,9 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from time import sleep
 from config import *
+from os.path import exists
+
+
 
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id= client_id,
                                                            client_secret= client_secret_id))
@@ -31,6 +34,34 @@ def search_uri(title):
     return uri
 
 
+
+def search_url(title):
+    query = title
+    seach = sp.search(q=query, type="track")
+    uri = search["tracks"]["items"][0]['spotify']['external_urls'][0] ## ------>
+    return url
+
+
+def get_cover(song_title):
+    result = sp.search(q=song_title, limit=1)
+    cover = result['tracks']['items'][0]['album']['images'][1]['url']
+    return cover
+
+
+#same as get image??
+def search_image(title):
+    query = title
+    search = sp.search(q=query, type='track')
+    image = search['tracks']['items'][0]['album']['images'][1]['url']
+    return image
+
+def search_image_user(title):
+    query = title
+    search = sp.search(q=query, type='track')
+    image = search['tracks']['items'][0]['album']['images'][1]['url']
+    return image
+
+
 def create_df(uri):
     feats_dict = sp.audio_features(uri)
     df_audio = pd.DataFrame(feats_dict)
@@ -39,10 +70,12 @@ def create_df(uri):
 
 
 
+
 def get_audio_feat(uri):
     feats_dict = sp.audio_features(uri)
     df_audio = pd.DataFrame(feats_dict)
     return df_audio
+
 
 
 
@@ -56,7 +89,6 @@ def load(filename = "filename.pickle"):
 
 
 def cluster_top_100(df):
-    from sklearn.preprocessing import StandardScaler
     
     hot100 = df
     scaler = load('/Users/mariasoriano/Desktop/Ironhack/lab-web-scraping-single-page/src/scalers/scaler.pkl')
@@ -78,11 +110,12 @@ def cluster_top_100(df):
 
 
 def cluster_nothot (df):
-    from sklearn.preprocessing import StandardScaler
     
+    if exists('nothot_df_final.csv'):
+        return pd.read_csv('nothot_df_final.csv')
     not_hot = get_audio_features(df['title'].tolist())
-    not_hot = final_concated_nothot
-    scaler = StandardScaler()
+    not_hot = df
+    scaler = load('/Users/mariasoriano/Desktop/Ironhack/lab-web-scraping-single-page/src/scalers/scaler.pkl')
     kmeans = load("/Users/mariasoriano/Desktop/Ironhack/lab-web-scraping-single-page/src/models/APIs9.pickle")
     nothot_feats = not_hot[['danceability', 'energy', 'key', 'loudness', 'mode',
        'speechiness', 'acousticness', 'instrumentalness', 'liveness',
@@ -92,8 +125,9 @@ def cluster_nothot (df):
     nothot_df_final = not_hot
     nothot_df_final["Cluster"] = cluster_nothot
     nothot_df_final = nothot_df_final.drop(columns=['type', 'id', 'uri', 'track_href', 'analysis_url'], axis=1)
+
     
-    #nothot_df_final.to_csv('nothot_df_final.csv')
+    nothot_df_final.to_csv('nothot_df_final.csv')
     return nothot_df_final
 
 
@@ -101,16 +135,16 @@ def cluster_nothot (df):
 
 
 def cluster_user_song(user_song):
-    from sklearn.preprocessing import StandardScaler
+    
     
     song_uri = search_uri(user_song)
     song_df = create_df(song_uri)
-    scaler = StandardScaler()
+    scaler = load('/Users/mariasoriano/Desktop/Ironhack/lab-web-scraping-single-page/src/scalers/scaler.pkl')
     kmeans = load("/Users/mariasoriano/Desktop/Ironhack/lab-web-scraping-single-page/src/models/APIs9.pickle")
     user_feats = song_df[['danceability', 'energy', 'key', 'loudness', 'mode',
        'speechiness', 'acousticness', 'instrumentalness', 'liveness',
        'valence', 'tempo', 'duration_ms', 'time_signature']]
-    scaled_user_song = pd.DataFrame(scaler.fit_transform(song_df),columns=song_df.columns)
+    scaled_user_song = pd.DataFrame(scaler.fit_transform(user_feats),columns=user_feats.columns)
     cluster_user_song = kmeans.predict(scaled_user_song)
     user_song_df_final = song_df
     user_song_df_final["Cluster"] = cluster_user_song

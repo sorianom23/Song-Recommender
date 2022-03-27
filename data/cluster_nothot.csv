@@ -1,0 +1,1048 @@
+Unnamed: 0,title,artist,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,Cluster
+0,Sketch,40 Winks,0.676,0.407,8,-16.932,1,0.152,0.308,0.939,0.11,0.372,89.955,160620,4,3
+1,EK ISHQ EK ROOH,Sufi Parveen,0.674,0.609,2,-7.849,1,0.167,0.0339,0.0,0.128,0.377,106.91,266203,4,4
+2,ComfyCozy,Luke Vibert,0.448,0.226,7,-16.805,1,0.0515,0.939,0.905,0.0806,0.0785,168.081,301714,4,1
+3,See You Later Fuckface,The Queers,0.51,0.952,7,-4.753,1,0.0347,0.000464,7.87e-05,0.301,0.856,98.973,118520,4,4
+4,Stop Running,cerulean,0.713,0.69,7,-7.387,1,0.206,0.356,0.0,0.0826,0.46,79.987,135168,4,8
+5,Threnos: Den Opfern von Hiroshima,"Krzysztof Penderecki', 'Dresdner Philharmonie', 'Rundfunk-Sinfonieorchester Leipzig', 'Herbert Kegel",0.0965,0.354,5,-20.77,0,0.0981,0.797,0.519,0.102,0.0368,71.326,517040,3,1
+6,Cid's Theme,TPR,0.389,0.488,3,-11.458,1,0.0329,0.191,0.939,0.457,0.155,89.643,191067,4,3
+7,Distant Drums Of War,Echo Kraft,0.568,0.702,7,-14.809,1,0.052,0.539,0.708,0.0985,0.414,109.998,368516,4,3
+8,Better Days,Tim Grimm,0.717,0.671,0,-5.077,0,0.0337,0.0018,2.54e-06,0.0921,0.699,110.054,160657,4,6
+9,When Love Has Gone Away (feat. Diva Avari),Uku Kuut,0.801,0.453,0,-10.726,1,0.0912,0.418,0.00277,0.214,0.698,125.003,432080,4,4
+10,Pennies from Heaven - Live,Louis Armstrong,0.475,0.542,10,-12.461,0,0.381,0.472,1.31e-06,0.951,0.656,121.578,221987,4,0
+11,A Noble Direction,"Steve Roach', 'Byron Metcalf",0.51,0.454,8,-23.947,1,0.0386,0.422,0.846,0.135,0.48,82.995,592973,4,3
+12,Hot Shit - Feat. Pat Rich,Triple Dose,0.816,0.791,1,-8.092,1,0.085,0.0256,1.62e-05,0.0568,0.68,124.553,323800,4,4
+13,"Pieces de clavecin, Book 1: 1st Ordre in G Minor-major: Les Silvains","François Couperin', 'Laurence Cummings",0.0896,0.297,6,-20.032,1,0.0362,0.787,0.913,0.0931,0.517,53.784,273667,4,1
+14,Discovery,Tracksonix,0.225,0.113,5,-21.764,1,0.0407,0.923,0.971,0.129,0.0324,111.59,118564,4,1
+15,Tot Bloedens Toe,"Frank Boeijen', 'Jack-O",0.549,0.409,6,-9.984,0,0.0923,0.853,2.2e-06,0.97,0.35,83.118,379840,4,0
+16,Living With The Black Dog,Emma Ruth Rundle,0.289,0.249,4,-9.833,1,0.0347,0.127,0.264,0.337,0.0487,123.412,282645,4,7
+17,I Love the Night,Blue Öyster Cult,0.693,0.708,0,-7.816,1,0.031,0.309,0.00305,0.0857,0.949,125.315,187973,4,4
+18,Monty Zoomers,Whiney,0.474,0.91,8,-3.346,0,0.04,0.000842,0.878,0.0929,0.151,174.982,272914,4,3
+19,Terror Paradise,Taragana Pyjarama,0.444,0.378,2,-5.89,1,0.0365,0.886,0.000254,0.118,0.219,174.085,103450,4,7
+20,Midnite Hour,Becky Barksdale,0.814,0.546,10,-4.925,0,0.229,0.0234,0.0,0.0654,0.682,93.802,224253,4,6
+21,"Al-Salam Al-Amiri (The Peace for the Amir) (Olympic version) (Qatar): Qatar [Al-Salam Al-Amiri (The Peace for the Amir), ""Swearing by God who erected the sky…""] (Olympic)","Slovak Radio Symphony Orchestra', 'Peter Breiner",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+22,"Sugar, Sugar - En Vivo En Buenos Aires",The Skatalites,0.534,0.572,0,-10.393,1,0.0582,0.466,3.8e-05,0.709,0.725,88.336,300387,4,0
+23,Software,Nick Lutsko,0.777,0.627,1,-7.45,1,0.184,0.00371,3.14e-06,0.177,0.237,98.09,79149,4,4
+24,"Der Tag der ist so freudenreich, BuxWV 182","Dietrich Buxtehude', 'Bine Bryndorf",0.0666,0.0154,8,-25.823,1,0.0504,0.735,0.805,0.097,0.139,75.587,207867,4,1
+25,"Santa, The Man - Parody by Dan Hicks based on Song For My Father","The Christmas Jug Band', 'Dan Hicks",0.687,0.609,7,-6.389,0,0.0269,0.316,2.37e-05,0.566,0.592,109.238,268627,4,0
+26,"Two Pieces for Six Handed Piano: No. 1, Valse","Sergei Rachmaninoff', 'Alfons Kontarsky', 'Anna Walachowski', 'Ines Walachowski",0.418,0.281,6,-20.388,0,0.0466,0.988,0.921,0.125,0.296,100.05,90000,4,1
+27,Rafmagn - Demo Version Bonus Track,Stafrænn Hákon,0.188,0.451,10,-9.98,1,0.0339,0.0217,0.777,0.111,0.167,138.092,446446,4,3
+28,Ain't Nobody Gonna Miss Me When I'm Gone,"Jim Greer', 'The Mac-O-Chee Valley Folks",0.626,0.646,10,-10.623,1,0.0313,0.59,0.00182,0.219,0.966,137.25,171040,4,4
+29,Signals,Flat Worms,0.741,0.76,5,-5.359,0,0.0447,0.415,4.27e-06,0.095,0.588,120.01,167999,4,6
+30,Farewell To Erin - Another Reel,"William Coulter & Friends', 'William Coulter",0.52,0.509,2,-9.887,1,0.0457,0.135,0.0392,0.0839,0.384,118.068,242267,4,4
+31,Crack Open the Barrel,Flavigula,0.439,0.351,2,-17.469,1,0.0385,0.467,0.819,0.13,0.337,179.945,144010,3,3
+32,Rats of Reality,Circle Jerks,0.449,0.787,4,-8.362,1,0.203,0.0134,2.12e-06,0.0952,0.305,125.643,199733,4,4
+33,Like Perfume on a Pig,Le Matos,0.828,0.618,10,-6.062,1,0.0999,0.00371,0.000169,0.0887,0.374,128.0,331706,4,4
+34,Together,Barbara Lea w/the Loren Schoenberg Big Band,0.389,0.784,0,-4.389,0,0.13,0.203,1.13e-05,0.201,0.484,178.093,206104,4,6
+35,"Act III - ""Tu che a Dio spiegasti l'ali""","Anton de Ridder, Siegfried Vogel, Giuseppe Patane, Berlin Staatskapelle, German Staatsoper Berlin Choir",0.353,0.171,1,-14.092,1,0.0506,0.986,0.00103,0.21,0.144,117.005,288013,4,7
+36,Pleasure Pains,Caleb Hinz,0.673,0.539,5,-7.648,0,0.0293,0.0249,0.0,0.188,0.333,117.689,256960,4,6
+37,Only in Your Heart,"America', 'George Martin",0.453,0.579,0,-9.055,1,0.0441,0.591,0.0218,0.323,0.441,82.034,197000,4,4
+38,What's Next,"South Park Coalition', 'Ruff Eyque', 'K-Rino', 'The Rhyme Felon",0.777,0.58,0,-6.928,0,0.0525,0.0125,0.0,0.161,0.0636,129.918,178154,4,6
+39,Sewn Shut,The Minerals,0.305,0.969,4,-4.128,1,0.0984,0.00802,0.142,0.209,0.34,138.562,156466,4,4
+40,Tidal Dreams,"Nautilus', 'Ben Barnett",0.189,0.996,10,-23.871,0,0.0485,0.692,0.139,0.923,1e-05,100.555,134264,1,0
+41,Bout Dat - Main Version - Explicit,Huey,0.7,0.716,7,-5.223,1,0.338,0.12,0.0,0.093,0.673,162.05,251080,4,8
+42,Walk Away,Dionne Warwick,0.641,0.373,1,-14.13,1,0.44,0.761,0.0,0.0993,0.282,100.268,120189,4,8
+43,The Man from Yuma,David John and The Comstock Cowboys,0.456,0.852,2,-7.811,0,0.0593,0.27,0.274,0.325,0.736,122.768,246507,4,6
+44,Wine and Women,"""10 'til 11""",0.661,0.836,1,-4.079,0,0.0297,0.00615,0.0,0.032,0.799,137.507,187385,4,6
+45,REWARD TRIP,SPICE,0.362,0.89,1,-4.198,1,0.0572,0.000167,5.15e-06,0.279,0.699,164.163,102400,4,4
+46,I Can't Live Without You,Dennis Jernigan,0.402,0.989,1,-0.572,1,0.153,4.78e-05,6.32e-06,0.339,0.398,179.987,229357,4,4
+47,Johnson's Old Grey Mule,"J.E. Mainer', 'His Mountaineers",0.496,0.507,2,-10.445,1,0.0325,0.557,0.023,0.306,0.931,142.099,137000,4,4
+48,Can't Get Your Love Back,Lexa Terrestrial,0.785,0.497,0,-9.081,1,0.133,0.0202,0.0241,0.244,0.648,89.001,208000,4,4
+49,All I Need Is A Driver,Krista Detor,0.517,0.753,11,-8.766,1,0.0483,0.067,0.0,0.379,0.454,179.973,208667,4,4
+50,Silver Shore,John Mark McMillan,0.456,0.748,9,-6.484,1,0.0493,0.511,0.00377,0.102,0.238,135.778,263680,4,4
+51,The Man Behind the Gun,US Marine Band,0.618,0.217,11,-13.528,1,0.0499,0.739,0.0,0.123,0.465,120.641,182533,4,7
+52,Bill,"Jerome Kern', 'Jane Monheit",0.92,0.654,11,-3.051,0,0.0401,0.0236,0.0158,0.0359,0.847,117.046,293827,4,6
+53,Shows A Little,Tony Scherr,0.633,0.802,0,-5.133,1,0.0292,0.356,0.0,0.103,0.855,96.056,238533,4,4
+54,Come Thou Fount of Every Blessing,Jeff Bjorck,0.346,0.2,3,-11.745,1,0.0326,0.935,1.62e-06,0.0944,0.419,143.655,224000,3,7
+55,They Don't Know,Harriet Harris,0.514,0.727,0,-6.131,1,0.0492,0.126,0.0,0.0978,0.37,147.917,200400,4,4
+56,Marty Mackfly,Noah Archangel,0.458,0.651,2,-11.053,0,0.264,0.481,0.0,0.204,0.886,80.959,155037,4,8
+57,Panis Angelicus,Adrianne Price,0.207,0.0355,2,-26.918,1,0.0436,0.993,0.834,0.0921,0.0517,136.555,152529,5,1
+58,Some Kind of Joke,AWOLNATION,0.484,0.781,1,-4.556,1,0.0303,0.00433,0.0158,0.286,0.295,104.025,292439,4,4
+59,Summer No School,Sachal Vasandani,0.443,0.0526,11,-17.126,1,0.0393,0.974,0.0708,0.0983,0.205,129.571,257849,4,7
+60,"Cinderella, Op. 87: Act II: Pavane","Sergei Prokofiev', 'Royal Scottish National Orchestra', 'Neeme Järvi",0.203,0.143,5,-18.165,1,0.036,0.961,0.818,0.24,0.11,175.39,238133,4,1
+61,String Quartet No. 2 in A Major: II. Andante con variaciones,"Juan Crisóstomo Arriaga', 'Camerata Boccherini",0.328,0.0297,2,-25.254,1,0.0507,0.935,0.685,0.181,0.103,124.541,406080,4,1
+62,"Symphony in D Major, Op. 12, No. 1, G. 503: III. Minue amoroso","Luigi Boccherini', 'German Chamber Academy Neuss', 'Johannes Goritzki",0.255,0.0377,2,-26.672,1,0.0426,0.972,0.765,0.128,0.246,91.843,392533,4,1
+63,"24 Progressive Lessons, Op. 31: Study No. 24 in E Major","Fernando Sor', 'Jeffrey McFadden",0.185,0.176,4,-25.46,1,0.0498,0.99,0.92,0.108,0.92,168.56,50173,4,1
+64,Intro,King Tiger,0.617,0.778,9,-8.872,0,0.027,0.459,0.925,0.128,0.152,100.363,127920,4,3
+65,Petites esquisses d'oiseaux (Little Sketches of Birds): I. Le rouge-gorge (Robin),"Olivier Messiaen', 'Håkon Austbø",0.464,0.0122,8,-29.998,0,0.066,0.968,0.522,0.126,0.296,142.635,145293,4,1
+66,"St. John Passion, BWV 245: Aria: Zerfliesse, mein Herze (Soprano)","Johann Sebastian Bach', 'The Scholars Baroque Ensemble",0.241,0.0226,4,-28.662,0,0.0444,0.985,0.323,0.085,0.0379,114.332,422893,4,1
+67,"Sunflower Cat/It Takes A Lot To Laugh, It Takes A Train To Cry - Live - 1998/99",Bruce Hornsby,0.355,0.81,0,-6.044,1,0.0734,0.36,0.0125,0.973,0.709,204.372,562760,4,0
+68,Como Se Pasa La Vida,Alberto Plaza,0.688,0.607,0,-8.341,1,0.0258,0.707,0.0,0.154,0.373,82.034,217211,4,4
+69,Take Care,The Great Tyrant,0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,277387,4,8
+70,Hours Passing By,"Christina Gustafsson', 'Patrik Skogh', 'Johan Setterlind', 'Eva-Tea Lundberg', 'Hammar, Karin', 'Lisa Bedelius', 'Kristian Lind', 'Fredrik Jonsson', 'Calle Rasmusson', 'Sebastian Notini",0.751,0.654,2,-3.922,1,0.0823,0.0887,0.0,0.0761,0.675,118.115,268224,4,4
+71,Man From Galilee,Ralph Stanley,0.617,0.485,5,-8.227,0,0.115,0.868,3.44e-05,0.115,0.845,82.228,158573,4,6
+72,Algorithm,"Young RJ', 'Mega Ran', 'MC Frontalot', 'Abstract Orchestra",0.398,0.74,2,-3.563,1,0.0343,0.00115,0.0,0.252,0.324,104.549,251927,4,4
+73,Smog,"Droptek', 'Vorso",0.575,0.732,9,-10.418,1,0.0293,0.00167,0.0,0.249,0.876,127.818,174155,4,4
+74,Birdsong,Lhasa,0.664,0.713,1,-8.333,1,0.362,0.354,0.0,0.119,0.38,109.079,207145,5,8
+75,Dreamies Program Ten Part One - 2006 Remaster Version,"""Bill Holt's Dreamies""",0.425,0.298,1,-19.051,1,0.0757,0.529,0.0,0.317,0.217,140.936,237760,4,7
+76,Thermometer,Poppy,0.716,0.695,2,-4.613,1,0.332,0.00893,0.0,0.357,0.905,151.912,151703,4,8
+77,Heart Pump,Spirits,0.596,0.909,10,-8.422,0,0.0685,0.00582,0.824,0.0882,0.476,92.49,270101,4,3
+78,I've Got One Friend,Trance To The Sun,0.585,0.247,1,-12.612,1,0.04,0.452,8.85e-06,0.107,0.591,127.15,223760,4,7
+79,Gettin' Ready,The Cowsills,0.729,0.34,4,-7.546,0,0.0514,0.122,0.0,0.186,0.0752,94.942,183289,4,6
+80,"Die Walkure (Sung in English): Act II Scene 2: Then Siegmund must fall in his fight? (Brunnhilde, Wotan)","Richard Wagner', 'Alberto Remedios', 'Clifford Grant', 'Norman Bailey', 'Margaret Curphey', 'Rita Hunter', 'Anne Howard', 'Katie Clarke', 'Anne Conoley', 'Elizabeth Connell', 'Helen Attfield', 'Anne Evans', 'Sarah Walker', 'Shelagh Squires', 'Anne Collins', 'English National Opera Orchestra', 'Reginald Goodall",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+81,Another Pretty Face (Live),The Brunettes,0.488,0.573,6,-6.778,0,0.0333,0.0553,0.0,0.0613,0.145,124.04,216774,4,6
+82,Entre Estas Cuatro Paredes,Palmenia Pizarro,0.795,0.452,2,-8.751,0,0.0484,0.845,1.15e-06,0.197,0.758,112.94,183925,4,6
+83,Medicine Woman,Robert Finley,0.597,0.773,4,-5.544,0,0.0933,0.167,0.000896,0.126,0.652,104.486,157093,4,6
+84,Pictures at an Exhibition (Orch. M. Ravel): IX. The Hut on Fowl's Legs (Baba-Yaga) - X. The Great Gate of Kiev,"Modest Mussorgsky', 'Maurice Ravel', 'Orchestre National De Lyon', 'Leonard Slatkin",0.293,0.112,3,-20.845,1,0.0421,0.926,0.823,0.093,0.131,113.392,545387,4,1
+85,A L'amour,Nota Bene,0.817,0.876,10,-5.981,0,0.338,0.142,0.151,0.301,0.592,130.012,305423,4,8
+86,Venha...,Carlos Dafé,0.715,0.92,3,-4.254,0,0.0737,0.357,0.0,0.817,0.883,141.959,121867,4,0
+87,Tupac Shakur,Bynoe,0.916,0.844,7,-3.967,1,0.236,0.0394,0.0,0.0778,0.586,95.19,312627,4,8
+88,Давай останемся дома - DJ Karimov & DJ Mephisto Remix,"Olga Buzova', 'DJ Karimov', 'DJ Mephisto",0.844,0.922,9,-5.166,0,0.0735,0.0325,0.099,0.107,0.695,120.001,245505,4,6
+89,Burn Clean,Westside Gunn,0.463,0.588,9,-8.076,0,0.0391,0.301,0.00312,0.0853,0.424,105.988,233387,4,6
+90,Траафтверк (feat. Thefaded),"kizaru', 'BMB', 'thefaded",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+91,"Isle Of Man [""O Land Of Our Birth…""]","Slovak Radio Symphony Orchestra', 'Peter Breiner",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+92,Wings of the Storm Interview - The Wagging Tongue Edition; 2019 Remaster,Whitesnake,0.657,0.356,7,-16.891,1,0.717,0.965,0.0,0.332,0.907,84.314,117248,4,8
+93,Dear Life,"Vakill', 'Slug from Atmosphere', 'Copywrite', 'Camu Tao', 'Breeze Evahflowin', 'Jakki Tha Mota Mouth",0.511,0.672,1,-5.44,1,0.0279,0.0026,0.00688,0.254,0.553,165.997,224237,4,4
+94,5.9 (The Percent Of The Beast),Crucial Dudes,0.482,0.981,2,-5.371,1,0.124,3.69e-05,0.000262,0.103,0.308,95.065,149507,4,4
+95,Perceval la quete du Graal: Le Vendredi Saint Chez L'Ermite (Holy Friday with the Hermit): De Pascha (Chorus),"Sylvain Bergeron', 'Daniel Taylor', 'Claire Gignac', 'Viviane LeBlanc', 'Catherine Herrmann', 'Rafik Samman', 'Hugues Saint-Gelas', 'La Nef",0.245,0.0419,1,-27.587,0,0.0442,0.839,0.0,0.108,0.311,101.274,139200,4,1
+96,In A Sentimental Mood,Dave Glasser,0.464,0.305,3,-12.435,0,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,4,7
+97,I Long For Thy Virginitie,"Anonymous', 'Fires Of Love",0.422,0.21,1,-18.163,0,0.0589,0.987,0.847,0.104,0.208,125.983,330120,4,1
+98,Dragqueen,Atomic Bitch,0.669,0.751,9,-10.482,1,0.0539,0.00118,0.798,0.0996,0.87,134.997,360920,4,3
+99,Va det då?,Molly Sandén,0.627,0.489,10,-7.701,1,0.0296,0.0518,0.0,0.0928,0.597,130.021,199573,4,4
+100,Wings Of Fang,Red Fang,0.253,0.926,1,-3.993,1,0.0715,1.31e-06,0.875,0.218,0.443,86.881,169347,4,3
+101,Come the Morning Down on Me,Dan Craig,0.441,0.378,7,-9.498,1,0.0284,0.553,0.00629,0.133,0.228,120.679,289040,3,7
+102,Organically Grown,"Steve Morse', 'Dave LaRue', 'Van Romain",0.828,0.463,2,-11.586,1,0.167,0.000483,0.0162,0.0909,0.0709,140.062,198857,4,4
+103,"Ein deutsches Requiem (A German Requiem), Op. 45: Denn alles Fleisch ist wie Gras","Johannes Brahms', 'Miriam Gauci', 'Eduard Tumagian', 'Slovak Philharmonic Chorus', 'Slovak Radio Symphony Orchestra', 'Alexander Rahbari",0.174,0.142,10,-16.895,1,0.0381,0.958,0.932,0.0879,0.0838,110.678,872533,3,1
+104,"Don Giovanni, K. 527 (Arr. F. Sor): Batti, batti, o bel Masetto","Wolfgang Amadeus Mozart', 'Nerea Berraondo', 'Eva Beneke",0.515,0.0679,4,-23.803,1,0.0556,0.984,0.000734,0.108,0.476,75.653,178800,4,7
+105,Roses and Gold,Robin Jackson,0.621,0.532,7,-8.791,0,0.161,0.238,0.0387,0.148,0.384,84.999,194732,4,6
+106,The Spirit,Saint,0.365,0.924,4,-7.066,1,0.0488,0.0144,0.000254,0.423,0.632,135.811,296467,4,4
+107,It's a Hit,50 Cent,0.522,0.865,0,-5.502,1,0.0413,0.148,0.0,0.0973,0.741,117.123,268333,4,4
+108,Brain Explosion!,Texas Terri Bomb!,0.588,0.966,10,-4.854,0,0.137,0.00554,0.0,0.322,0.755,154.87,193548,4,6
+109,I Am Rose,"Carole Farley', 'Ned Rorem",0.463,0.674,7,-5.422,1,0.0319,0.0115,0.0,0.123,0.259,84.039,255234,4,4
+110,Gentle Anxious,Anamanaguchi,0.146,0.151,0,-24.866,1,0.0364,0.922,0.944,0.109,0.0385,77.525,214667,4,1
+111,Old John Braddelum,"Sharon, Lois & Bram",0.871,0.21,0,-12.241,1,0.0597,0.562,0.0,0.0875,0.907,75.864,93213,4,4
+112,Three Little Words,Alex Pangman,0.865,0.739,2,-5.077,0,0.0645,0.0264,2.48e-05,0.0664,0.709,121.992,184918,4,6
+113,"Preludes, Op. 23: No. 4 in D","Sergei Rachmaninoff', 'Alexis Weissenberg",0.275,0.0147,2,-27.933,1,0.0364,0.994,0.911,0.075,0.0691,78.197,276560,1,1
+114,Château rouge - Version album,Leeroy,0.62,0.803,5,-5.356,0,0.0369,0.00143,0.000473,0.196,0.884,146.078,189160,4,6
+115,"Les saisons (The Seasons), Op. 37b (arr. P. Breiner): IV. April: Snowdrop","Peter Breiner', 'Pyotr Ilyich Tchaikovsky', 'Takako Nishizaki', 'Queensland Symphony Orchestra",0.174,0.0227,10,-27.306,1,0.0498,0.985,0.776,0.21,0.0402,166.259,217427,3,1
+116,Nobody Else,The Simple Pleasure,0.569,0.291,0,-14.509,1,0.043,0.744,0.0,0.137,0.313,151.659,197480,4,7
+117,Ever,Ellen Allien,0.471,0.924,8,-3.906,1,0.0586,0.00301,0.0,0.313,0.725,154.961,177280,4,4
+118,Table,Maria Levitov,0.949,0.525,1,-7.096,1,0.169,0.00716,0.0,0.101,0.26,100.068,155500,4,4
+119,Der King vom Prenzlauer Berg,City,0.572,0.851,10,-9.956,1,0.0514,0.154,0.00319,0.55,0.61,85.188,292333,4,0
+120,Sanctuary Act Iii: Exiled to the Void - Remastered,Persefone,0.263,0.979,10,-4.617,1,0.216,0.000204,0.201,0.643,0.325,129.803,495293,3,0
+121,"Lullay my Liking, Op. 34, No. 2","Gustav Holst', 'David Reece', 'Gary Wilson', 'Dale Warland Singers', 'Dale Warland",0.255,0.0158,7,-31.274,1,0.0588,0.993,0.251,0.0905,0.0399,108.181,221000,4,1
+122,Burning Down Paradise,Tokyo Blade,0.488,0.94,8,-7.94,1,0.0687,0.00037,0.324,0.163,0.151,137.003,211500,4,3
+123,Fractured,Joe Locke/Geoffrey Keezer Group,0.401,0.582,10,-9.838,0,0.123,0.222,0.0137,0.282,0.156,103.092,201992,4,6
+124,I've Always Loved You,Mac Powell,0.549,0.77,4,-4.842,1,0.0247,0.17,0.000724,0.245,0.246,95.047,267640,4,4
+125,Why Did You Do It,Gary Barden,0.748,0.755,6,-7.28,0,0.0782,0.0554,0.0,0.0628,0.886,98.284,211907,4,6
+126,Wind Beneath My Wings,"Janno Gibbs', 'Bing Loyzaga",0.51,0.458,10,-7.566,1,0.0289,0.551,0.0,0.0853,0.177,123.694,293853,4,7
+127,Wrap Your Troubles in Dreams,The Stephane Wrembel Trio With David Grisman,0.624,0.127,4,-17.382,0,0.0347,0.991,0.527,0.106,0.373,98.901,306893,4,7
+128,Milky Way Wishes,"""Kirby's Dream Band""",0.323,0.795,7,-7.52,1,0.0612,4.55e-05,0.862,0.292,0.329,154.918,196678,4,3
+129,Fake Empire - Live at Berkeley 9/24/18,The National,0.279,0.636,0,-13.581,1,0.073,0.00179,0.434,0.945,0.164,104.945,235675,3,0
+130,"Symphony No. 2 in B-Flat Major, Op. 4, B. 12: IV. Finale. Allegro con fuoco","Antonín Dvořák', 'Staatskapelle Berlin', 'Otmar Suitner",0.239,0.233,10,-16.131,1,0.0353,0.958,0.916,0.0991,0.126,95.302,695667,4,1
+131,"Sorceress Adagio (from ""The Prophecy"")",Roger Bellon,0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+132,"Evocation, Op. 37: II. Adagio con tenerezza","Marcel Dupré', 'Mary Preston",0.131,0.000382,11,-41.792,1,0.0445,0.863,0.919,0.136,0.0448,72.616,474227,3,1
+133,"Shh, It's A Secret",Red Elvises,0.415,0.844,2,-9.397,1,0.0679,0.0762,0.0,0.809,0.484,179.972,241947,4,0
+134,Rise Of The Machine - Jason Page C64 Remix,"Chris Huelsbeck', 'Jason Page",0.523,0.97,8,-8.841,1,0.138,0.108,0.959,0.095,0.259,174.93,354859,4,3
+135,A Door,Aaron Tippin,0.333,0.0578,3,-22.271,1,0.0454,0.996,0.907,0.105,0.046,67.088,38387,4,1
+136,Cutter,James McMurtry,0.471,0.955,7,-5.219,1,0.121,0.00485,1.44e-06,0.162,0.35,139.266,232746,4,4
+137,Two Rings,R. Mutt,0.434,0.749,11,-7.15,1,0.0524,0.52,0.0,0.376,0.8,167.749,198173,4,4
+138,Translucent Space - Instrumental,Isadar,0.673,0.66,0,-11.607,1,0.0364,0.3,0.716,0.291,0.894,100.036,109472,4,4
+139,A New Way,Crayon Jones,0.378,0.895,1,-4.347,1,0.0531,4.96e-05,0.0252,0.15,0.258,155.946,226400,4,4
+140,Love Has No End,Kashif,0.646,0.499,7,-9.785,0,0.0437,0.228,0.000429,0.0737,0.431,87.935,370600,4,6
+141,Doux,Marjo,0.642,0.102,6,-24.128,1,0.168,0.858,0.82,0.117,0.996,77.39,76000,3,1
+142,"12 Lieder von Franz Schubert, S. 558: No. 4, Erlkönig","Franz Liszt', 'Murray Perahia",0.239,0.218,7,-18.514,0,0.0397,0.985,0.866,0.198,0.0713,87.854,248853,4,1
+143,Neva Be The Same,Hillside Stranglaz,0.508,0.603,1,-10.193,1,0.441,0.232,0.0,0.0896,0.467,84.582,205611,4,8
+144,Remember Me - Aesthetische Remix,Stray,0.719,0.752,6,-6.758,0,0.0368,0.00287,0.684,0.258,0.379,120.089,339413,4,3
+145,"(sic) - Live at the Download Festival, 2009",Slipknot,0.247,0.988,6,-4.575,1,0.19,2.3e-06,0.57,0.428,0.116,103.37,225227,4,3
+146,He Said,Calling Blue Jay,0.694,0.709,7,-6.205,0,0.103,0.0966,0.0,0.267,0.566,114.966,188000,4,6
+147,Heavy Legs in the Mansion,Realize,0.323,0.615,4,-7.459,0,0.0284,0.894,0.909,0.128,0.249,82.661,116000,4,3
+148,Odd Reflections,Shulman,0.691,0.595,0,-5.109,0,0.353,0.635,0.000791,0.117,0.744,81.029,201424,4,8
+149,She's Leaving Home,Al Jarreau,0.381,0.214,4,-11.629,1,0.0337,0.944,0.0,0.106,0.393,127.581,215160,3,7
+150,Tell Me,Wayne Baker Brooks,0.66,0.76,2,-5.726,1,0.0787,0.291,0.0,0.632,0.394,127.984,180129,4,0
+151,Joan of Arc - Digitally Remastered,"Jennifer Warnes', 'Leonard Cohen",0.547,0.3,6,-12.561,1,0.0282,0.454,3.57e-06,0.0492,0.146,134.505,480627,3,7
+152,Dreaming with Tears In My Eyes,Bono,0.716,0.249,3,-13.117,1,0.0313,0.984,0.0,0.245,0.493,134.188,178160,3,7
+153,Mount of Olives Dub,Augustus Pablo,0.872,0.433,0,-10.772,1,0.111,0.165,0.0,0.0983,0.703,94.518,221000,4,4
+154,"Concerto for Woodwinds, Harp and Orchestra: II. Grazioso","Paul Hindemith', 'Jiří Válek', 'František Kimel', 'Ivan Doksanský', 'Jiri Seidl', 'Jana Boušková', 'Czech Philharmonic Orchestra', 'Jiří Bělohlávek",0.445,0.145,10,-23.773,0,0.0375,0.963,0.711,0.133,0.214,79.226,177650,3,1
+155,German Love Song,Dj Real,0.443,0.0879,10,-20.173,1,0.0788,0.971,0.926,0.107,0.126,130.021,202170,3,1
+156,I Will Bow and Be Simple (arr. K. Siegfried),"Traditional', 'Kevin Siegfried', 'Tudor Choir, The', 'Doug Fullington",0.464,0.0421,2,-22.486,1,0.0331,0.994,1.64e-05,0.118,0.378,87.278,100773,4,7
+157,The Damage Is Already Done,The Wood Floors,0.636,0.864,11,-3.919,1,0.0491,0.0314,0.0,0.102,0.892,160.009,199512,4,4
+158,Wings,"Marquel Deljuan', 'Tony Choc",0.656,0.33,8,-8.771,1,0.162,0.818,0.00386,0.107,0.349,119.057,250120,4,7
+159,I Don't Wanna Fight The Soviet,Angelic Upstarts,0.611,0.854,7,-6.958,1,0.0322,0.236,0.000161,0.68,0.686,136.258,182013,4,0
+160,Who Am I,The Sun Paulo,0.545,0.472,11,-7.552,1,0.0279,0.434,0.0,0.0684,0.193,134.027,335907,4,7
+161,El Ultimo Cafe,Maria Volonte,0.268,0.0387,4,-24.746,1,0.0361,0.868,0.954,0.11,0.085,129.267,277773,4,1
+162,Zum Gali Gali (feat. Lil' Rev),"Fox & Branch', ""Lil' Rev""",0.651,0.235,11,-11.744,0,0.0596,0.841,0.0114,0.075,0.756,126.017,167213,4,6
+163,What We Wanted (Instrumental),Setting Sun,0.628,0.309,10,-10.671,1,0.0279,0.449,0.719,0.354,0.367,71.902,213304,4,3
+164,Remnant of a Hopeless Path,Deicide,0.581,0.965,10,-7.69,1,0.158,0.0077,0.821,0.364,0.0974,109.523,178733,4,3
+165,Wasting Away,"Myke Bogan', 'Kazadi",0.432,0.934,6,-2.124,0,0.0926,0.0107,0.0,0.369,0.615,158.02,170587,4,6
+166,Naturaleza Sangre,Fito Paez,0.451,0.944,4,-4.0,0,0.0581,0.000807,2.33e-06,0.405,0.557,136.29,173360,4,6
+167,Kissing a Fool - Instrumental Remastered,George Michael,0.373,0.306,5,-13.012,1,0.0372,0.216,0.733,0.114,0.129,77.855,273653,4,3
+168,Friends 'Til the End Pt I,The Written Punishment,0.391,0.427,3,-15.124,1,0.0646,0.99,0.923,0.108,0.557,78.936,121234,3,1
+169,Zwartkop (feat. The We're Home Family Drum Brigade),"KiloWatts', ""The We're Home Family Drum Brigade""",0.741,0.599,10,-9.871,0,0.0484,0.416,0.891,0.0947,0.166,115.021,505790,4,3
+170,Köthener Trauermusik BWV 244a: Und du betrübtes Fürstenhaus (Rezitativ),"Johann Sebastian Bach', 'Núria Rial', 'Julia Schröder",0.486,0.0542,11,-17.567,0,0.0776,0.988,0.0,0.101,0.159,80.251,65560,1,7
+171,The Pajama Game: Overture,"Richard Adler', 'Jerry Ross', 'Pajama Game Orchestra', 'Hal Hastings', 'The Original Broadway Cast Of The Pajama Game",0.321,0.475,5,-10.434,1,0.0443,0.864,0.698,0.0946,0.382,142.478,293933,4,7
+172,Dirty Harry,DIRTY SONGS,0.625,0.877,10,-7.176,0,0.162,0.0315,0.0811,0.672,0.865,192.296,230426,4,0
+173,Palindrome,"""Patrick Cress' Telepathy""",0.815,0.976,1,-3.757,1,0.0854,0.0108,0.594,0.26,0.861,127.946,121357,4,4
+174,"Satanella, Act III: Act III Scene 2: Concerted piece: A fair Circassian (Bracaccio, Hortensius, Karl, Rupert, Lelia, Satanella)","Michael William Balfe', 'Frank Church', 'Quentin Hayes', 'Anthony Gregory', 'Kang Wang', 'Catherine Carby', 'Victorian Opera Orchestra', 'Richard Bonynge",0.485,0.0607,9,-25.271,1,0.0661,0.923,0.0,0.0765,0.242,127.601,139107,3,7
+175,Kickin' Rocks (Titus Jones Remix),MC Crumbsnatcher,0.704,0.81,0,-5.969,1,0.144,0.0499,0.0,0.222,0.923,89.993,188004,4,4
+176,Shoot Speed Kill Light,Sshh,0.37,0.979,2,-5.066,1,0.0633,0.00109,0.00287,0.326,0.197,142.995,314584,4,4
+177,Metallurgical King (Live),Skullflower,0.173,0.976,6,-6.376,0,0.1,0.678,0.886,0.212,0.0362,78.801,390533,4,3
+178,Esta Noche Es Nochebuena,Raya Real,0.72,0.447,0,-11.217,1,0.249,0.251,0.0,0.114,0.922,108.605,161040,4,8
+179,Bad Boy,Pop Girls,0.697,0.674,1,-6.326,1,0.0533,0.00215,0.0,0.138,0.198,81.535,157355,4,4
+180,Betcha,Megan Rochell,0.43,0.56,3,-9.62,1,0.0268,0.362,0.000107,0.495,0.391,72.238,253005,4,0
+181,Deploy,"Daniel Suett', 'Skip Armstrong",0.529,0.796,0,-6.725,1,0.131,0.411,0.048,0.0753,0.607,168.04,261581,4,4
+182,Tocohara,16,0.62,0.59,0,-5.511,0,0.0532,0.229,0.0,0.0693,0.863,180.143,139431,4,6
+183,Barren History,Audiomachine,0.351,0.386,5,-11.767,0,0.0303,0.0562,0.892,0.113,0.0431,140.114,178347,3,3
+184,Ruined Election Dinner,Christophe Beck,0.3,0.732,1,-10.349,1,0.046,0.000326,0.816,0.339,0.399,163.883,259520,4,3
+185,When I Met You,Sarah Geronimo,0.551,0.262,10,-16.354,1,0.049,0.626,0.0,0.108,0.442,72.135,258493,4,7
+186,"Walzer, Op.138, ""Schlittschuhlaufer""","Émile Waldteufel', 'Schwanen Salon Orchestra', 'Georg Huber",0.232,0.1,9,-16.063,1,0.0397,0.931,0.159,0.0943,0.155,166.537,514533,3,7
+187,What It Is,Hayes Carll,0.84,0.304,0,-6.52,1,0.101,0.0732,1.76e-05,0.115,0.656,76.474,143476,4,4
+188,I'll Be A Friend To Jesus,David Parmley & Continental Divide,0.46,0.443,0,-6.462,1,0.0339,0.737,0.0,0.152,0.87,197.139,126040,4,4
+189,Blue Rooster,Branson Anderson,0.584,0.278,4,-18.566,1,0.0312,0.55,0.21,0.255,0.75,81.712,215027,4,7
+190,The More You Want - Dance Trax Reprise,Groove Box,0.712,0.746,4,-11.304,0,0.0454,0.00947,0.81,0.0576,0.172,125.052,366650,4,3
+191,You Can't Hide,"DJ Jean Maron', 'M.O.P.",0.742,0.552,10,-8.021,0,0.0883,0.151,0.00236,0.125,0.712,86.541,268526,4,6
+192,Life Without a Car,Pale Man Made,0.59,0.546,7,-10.213,1,0.0436,0.301,0.0,0.0936,0.855,114.04,168640,4,4
+193,Requiem in F Major: Dies Irae: Inter oves,"Antonio Lotti', 'Thomas Hengelbrock",0.266,0.213,6,-16.878,0,0.0414,0.962,0.491,0.11,0.0491,99.944,76280,4,1
+194,"Der Schleier der Pierrette (The Veil of Pierrette), Op. 18 (version for orchestra): Merry Funeral March","Ernst von Dohnányi', 'BBC Philharmonic', 'Matthias Bamert",0.235,0.0155,7,-32.315,1,0.0349,0.904,0.825,0.0856,0.109,135.776,169200,4,1
+195,Farewell,The Missing Parts,0.89,0.664,4,-6.625,0,0.106,0.00487,0.0,0.257,0.467,93.007,247733,4,6
+196,"The Times They Are A-Changin' - Live at Royal Festival Hall, London, UK - May 1964",Bob Dylan,0.577,0.271,7,-15.535,1,0.0353,0.382,0.0,0.975,0.529,96.392,212493,1,0
+197,call of the wild,Bellevue Cadillac,0.555,0.636,4,-11.547,0,0.0497,0.0688,0.0,0.106,0.402,98.391,195200,4,6
+198,Risk and Reward,Yasuharu Takanashi,0.234,0.522,7,-17.61,1,0.0664,0.0374,0.867,0.0952,0.106,83.963,50000,4,3
+199,Ring of Fire,Hushabye Baby,0.659,0.585,7,-8.189,1,0.0288,0.623,0.000213,0.348,0.784,104.111,158427,4,4
+200,Don't Stop Me Now,Countermeasure,0.563,0.865,5,-5.277,1,0.16,0.0472,0.000191,0.77,0.601,156.271,209413,4,0
+201,Guiding Star,Elixir,0.524,0.672,7,-10.996,1,0.0435,0.713,0.776,0.0983,0.159,180.014,218087,1,3
+202,Canopy of Stars,Ann Sweeten,0.481,0.327,6,-8.468,1,0.0367,0.845,1.22e-06,0.0862,0.205,74.25,220760,4,7
+203,Christmas Joy,Ellis Marsalis,0.508,0.814,0,-2.014,1,0.0431,0.00447,1.39e-06,0.359,0.528,119.916,125400,4,4
+204,"11 Chorale Preludes, Op. 122: O Welt, ich muss dich lassen","Johannes Brahms', 'Robert Parkins",0.11,0.00115,5,-38.022,1,0.0437,0.94,0.986,0.114,0.147,93.945,152000,3,1
+205,Make Believe,Elvis Presley,0.465,0.841,0,-4.35,1,0.0724,0.123,0.0,0.138,0.672,83.965,142026,4,4
+206,Crazy,Duke Robillard & Sunny Crownover,0.729,0.73,11,-5.14,0,0.261,0.00165,4.33e-05,0.118,0.41,156.953,191399,4,6
+207,Red Haired Boy,Tom Breiding,0.467,0.513,2,-15.876,1,0.0363,0.656,0.798,0.128,0.901,119.311,203960,4,3
+208,Keep Prayin',The Outlaws,0.394,0.456,0,-7.809,1,0.0337,0.592,0.0,0.057,0.264,79.962,457327,4,7
+209,Wait Right Here,The Moth & The Flame,0.285,0.428,2,-8.346,1,0.0298,0.818,0.146,0.0872,0.502,151.916,228827,3,7
+210,Caribbean Magic,Dennis Bourke,0.79,0.396,5,-16.195,1,0.111,0.154,0.716,0.0999,0.961,132.037,133252,4,4
+211,The Master's Garden,The Greer Family Band,0.42,0.614,7,-6.848,1,0.0681,0.516,2.33e-05,0.122,0.456,173.288,947253,4,4
+212,Alferes,João Bosco,0.652,0.514,2,-10.014,0,0.0398,0.516,0.899,0.0952,0.318,168.566,113933,4,3
+213,Destructor,Korupture,0.473,0.898,6,-3.537,0,0.0363,7.34e-06,0.56,0.311,0.405,104.031,347941,4,3
+214,Decomposed - Remastered,Mentallo & The Fixer,0.629,0.684,10,-9.055,0,0.0365,0.00113,0.0204,0.06,0.577,120.278,390680,4,6
+215,Old Quaker Blues,Jimmy Yancey,0.611,0.225,8,-19.787,1,0.0459,0.994,0.872,0.156,0.766,83.389,158537,4,1
+216,"String Quartet No. 11 in F Major, Op. 89: IV. Allegro leggiero","Mieczysław Weinberg', 'Quatuor Danel",0.256,0.00383,5,-38.568,1,0.0448,0.956,0.00465,0.0623,0.0379,140.683,369067,3,1
+217,The Witch of Atlas: H. Più tranquillamente - Tempo I - Molto lento,"Granville Bantock', 'BBC National Orchestra Of Wales', 'Rumon Gamba",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+218,Stockholm Syndrome,The Ivins,0.678,0.933,2,-4.959,1,0.14,0.0734,0.0,0.0863,0.336,120.572,214720,4,4
+219,Do What We Gotta Do,Mnmsta,0.865,0.665,7,-6.289,1,0.073,0.0453,0.0,0.224,0.331,111.113,268827,4,4
+220,"Misty Mountains (From ""The Hobbit"")",Camille and Kennerly,0.184,0.173,9,-15.146,0,0.0407,0.942,0.924,0.111,0.0409,77.444,151480,5,1
+221,Vom Sprengen Des Gartens,Das Kapital,0.36,0.0172,10,-29.889,1,0.188,0.69,3.49e-05,0.591,0.0261,135.947,293347,3,0
+222,I Know I'm Not Wrong - 2015 Remaster,Fleetwood Mac,0.583,0.758,0,-9.181,1,0.0279,0.0187,0.023,0.0603,0.854,79.35,181853,4,4
+223,Der Schwere Abend (Psy'Aviah Mix),Schwarzblut,0.622,0.831,0,-6.316,0,0.0319,0.138,0.364,0.161,0.524,120.03,245720,4,6
+224,"Electra, Act II: Electra: ""That I Would Counsel You...""","Mikis Theodorakis', 'St. Petersburg State Academic Capella Orchestra",0.31,0.231,7,-14.494,1,0.0433,0.953,0.000183,0.142,0.0986,96.362,201947,4,7
+225,Invincible,Muse,0.548,0.732,11,-5.652,0,0.336,0.125,0.0,0.269,0.612,142.791,127547,4,8
+226,Watching The Signs,Amanda Rheaume,0.41,0.321,9,-11.771,1,0.0292,0.771,3.34e-06,0.103,0.301,86.553,185160,4,7
+227,Rappin Cat,Yusef Lateef aka Barocka,0.628,0.465,5,-9.178,1,0.456,0.0126,0.0,0.137,0.665,120.457,265172,5,8
+228,Reflections,Kevin M. Thomas,0.648,0.594,11,-7.027,0,0.0293,0.114,0.0462,0.116,0.544,113.983,244013,4,6
+229,Interlude,"Big Pokey, E.S.G.",0.469,0.309,7,-13.694,1,0.091,0.965,0.0,0.115,0.235,112.412,52600,4,7
+230,El Toro Requeson,Trio Xoxocapa,0.636,0.881,8,-4.331,1,0.139,0.49,0.0,0.1,0.842,146.445,211426,4,4
+231,"The Well-Tempered Clavier Book I in B Major, BWV 868: The Well-Tempered Clavier Book I: Fugue No. 23 in B Major, BWV 868","Johann Sebastian Bach', 'John Butt",0.435,0.109,11,-24.506,1,0.0426,0.993,0.876,0.12,0.418,130.315,135950,4,1
+232,Evil Dermis,Frontierer,0.272,0.997,6,-2.469,0,0.174,2.11e-05,0.977,0.344,0.0652,121.207,204660,3,3
+233,Cold Lamping,Readymade,0.796,0.654,0,-13.737,1,0.258,0.036,0.0,0.215,0.738,107.715,257533,4,8
+234,Elevator,Young Rival,0.772,0.586,10,-10.434,0,0.301,0.0234,0.000722,0.0562,0.643,85.068,265200,4,8
+235,Heart Attack,Darren Hayes,0.504,0.785,8,-4.802,1,0.104,0.0738,0.0,0.239,0.502,173.968,210840,4,4
+236,Realize,Marvillous Beats,0.693,0.594,1,-6.408,1,0.0325,0.13,0.0,0.115,0.192,123.932,244107,4,4
+237,That's What I Think,Cyndi Lauper,0.767,0.92,0,-6.026,1,0.041,0.201,4e-05,0.71,0.8,103.035,257107,4,0
+238,Six Feet Under,Ego Spank,0.576,0.307,11,-12.732,0,0.0428,0.807,0.000355,0.0792,0.157,67.513,189613,4,7
+239,Piano Puzzlers: When the Saints Go Marching In,"Bruce Adolphe', 'Carlo Grante",0.402,0.113,8,-20.933,1,0.0358,0.994,0.924,0.109,0.257,69.046,84533,4,1
+240,Safe in the City,"Company', 'Paul Baker",0.596,0.786,0,-9.094,1,0.0537,0.00163,0.196,0.213,0.608,160.006,166800,4,4
+241,Fonda,Ryley Walker,0.769,0.473,7,-9.646,0,0.188,0.418,1.39e-05,0.11,0.427,144.006,154265,4,6
+242,"Mikrokosmos, BB 105, Vol. 3: Vol. 3, No. 87. Variations: Allegro moderato","Béla Bartók', 'Balazs Szokolay",0.297,0.0367,7,-30.272,1,0.0616,0.994,0.923,0.102,0.43,71.977,70667,3,1
+243,Watjalarinyi,Tjupi Band,0.483,0.605,0,-8.569,1,0.0324,0.298,0.00034,0.0629,0.967,136.959,340240,4,4
+244,Wildfire - Piano and Violin Version,SYML,0.322,0.254,8,-9.956,0,0.0453,0.932,0.726,0.104,0.0939,128.695,235429,4,1
+245,Song for Aaron,"Turn', 'Jonathan Hofmeister', 'Florian Herzog', 'Jan F. Brill",0.509,0.145,11,-22.768,0,0.0317,0.93,0.898,0.116,0.317,134.676,382013,4,1
+246,The Touch Of Your Lips,Even Quartet,0.478,0.00776,10,-24.986,1,0.0614,0.983,0.78,0.105,0.215,114.27,499533,4,1
+247,Higher,Kevin M. Thomas,0.459,0.83,2,-6.254,1,0.0364,5.15e-05,0.00014,0.206,0.431,155.827,316733,4,4
+248,Let's,Nicolette Emanuelle,0.869,0.648,11,-8.698,0,0.0633,0.121,2.17e-05,0.126,0.9,125.035,339320,4,6
+249,Concierto de Aranjuez: II. Adagio,"Joaquín Rodrigo', 'Norbert Kraft', 'Northern Chamber Orchestra', 'Nicholas Ward",0.281,0.0174,11,-27.288,0,0.0459,0.895,0.901,0.0784,0.0477,130.911,653267,3,1
+250,Lobotomie Matricielle,Aiboforcen,0.722,0.902,7,-10.854,1,0.0682,0.0786,0.834,0.0994,0.142,120.017,184160,4,3
+251,Night's Queen,Voices of Decay,0.251,0.686,8,-8.315,1,0.0463,0.055,0.193,0.121,0.15,90.305,259250,4,4
+252,Night Spots - 2016 Remaster,The Cars,0.671,0.931,9,-7.09,1,0.0349,0.138,0.00358,0.653,0.964,130.71,193893,4,0
+253,Heaven Knows (Feels so Good),Jaki Graham,0.55,0.733,0,-9.957,1,0.0413,0.307,3.17e-05,0.11,0.574,90.133,302853,4,4
+254,Good Times,Moonshine Bandits,0.697,0.761,11,-7.647,0,0.302,0.157,0.0,0.789,0.666,81.728,211493,4,0
+255,The Sweetest Taboo - Live,Sade,0.585,0.867,10,-9.408,0,0.0424,0.038,0.0904,0.981,0.731,91.476,361000,4,0
+256,Risin' River,Wo Fat,0.643,0.138,4,-17.292,1,0.0334,0.938,0.0172,0.0953,0.122,89.649,232573,4,7
+257,"Saffo, Act II: Act II: Recitativo: Ciascun mi fugge (Faone)","Johann Simon Mayr', 'Jaewon Yun', 'Concerto de Bassus', 'Franz Hauk",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+258,Die Liebe lebt,Münchener Freiheit,0.608,0.627,2,-4.461,1,0.0484,0.0534,0.0,0.145,0.26,149.832,207320,4,4
+259,the follly of wisdom,"the olllam', 'John McSherry', 'Michael Shimmin', 'Tyler Andrew Duncan",0.62,0.469,10,-12.641,1,0.0363,0.636,0.836,0.185,0.26,152.984,257773,4,3
+260,Just Got Back From The City - (1966 Demo),Captain Beefheart,0.681,0.641,9,-9.474,1,0.0398,0.0352,5.55e-05,0.337,0.961,97.976,113693,4,4
+261,Noyade,Jucifer,0.684,0.504,11,-10.672,0,0.0321,0.655,0.69,0.114,0.0394,114.982,188729,4,3
+262,Amapola,Stuart Matthewman,0.784,0.689,4,-8.216,0,0.0385,0.759,0.00536,0.143,0.332,124.025,205716,4,6
+263,Paris In The Rain,"Alcazar', 'Alexander Bard', 'Anders Hansson', 'Johan Strandkvist",0.426,0.408,3,-9.419,1,0.0524,0.771,7.88e-06,0.394,0.528,76.309,204712,4,7
+264,Seeing Daylight,The Mountain Goats,0.656,0.264,5,-12.833,1,0.0468,0.786,0.0982,0.0964,0.182,119.268,200427,4,7
+265,Many Things,Soapbox Symphony,0.682,0.837,5,-5.821,0,0.0317,0.00103,0.0557,0.195,0.963,96.264,483439,4,6
+266,"Saved Herself, Shaved Herself",Circus Devils,0.323,0.589,4,-6.48,1,0.0323,0.0591,3.87e-05,0.31,0.218,96.973,163347,4,4
+267,Give It Up (Instrumental),KC & The Sunshine Band,0.852,0.611,11,-8.18,0,0.125,0.00894,0.673,0.136,0.684,170.015,238333,4,6
+268,Last Day on Earth,Kinski,0.494,0.553,5,-5.57,1,0.197,0.413,4.17e-05,0.218,0.359,82.061,172756,4,4
+269,What If Love Hangs On,Travis Tritt,0.582,0.411,7,-9.38,1,0.0279,0.506,0.0,0.0941,0.263,119.972,242107,4,7
+270,Danza de los ojos verdes,"Enrique Granados', 'Orquestra Simfònica de Barcelona i Nacional de Catalunya', 'Pablo González",0.327,0.0529,10,-27.695,0,0.0372,0.958,0.779,0.0942,0.307,121.607,228493,1,1
+271,Escape A Sales Job,Jonathan Ian,0.652,0.626,3,-7.186,0,0.0387,0.929,0.173,0.0568,0.962,125.515,74480,4,6
+272,MARBLE TEA,Shawn Wasabi,0.416,0.66,7,-4.377,1,0.0384,0.726,0.0203,0.294,0.242,140.14,145950,4,4
+273,Soul Man - Live,The Blues Brothers,0.629,0.857,9,-7.059,1,0.0705,0.0157,0.00396,0.755,0.528,116.254,180973,4,0
+274,Domestic Violence,RZA,0.465,0.485,2,-9.665,1,0.239,0.223,0.0,0.284,0.306,88.9,119333,3,8
+275,"Burns Carpenter, Man of Science",Airport 5,0.643,0.807,9,-6.231,0,0.0337,0.438,8.75e-06,0.194,0.395,96.537,220227,4,6
+276,Slide (feat. Blueface & Lil Tjay),"French Montana', 'Blueface', 'Lil Tjay",0.532,0.704,5,-3.895,0,0.26,0.093,0.0,0.184,0.591,96.004,186344,4,8
+277,Amor Amo De Mi Vida,Xochitl Mejia Y Su Grupo Destacados,0.689,0.556,10,-4.776,1,0.0305,0.0254,0.0,0.0942,0.795,132.851,208160,4,4
+278,Variatio 10 a 1 Clav. Fughetta,Cécile Bogaerts,0.275,0.329,7,-15.509,1,0.0374,0.973,0.881,0.166,0.874,186.273,64293,4,7
+279,Rinaldo: Lascia ch'io pianga,"George Frideric Handel', 'Niklas Eklund', 'Susanne Rydén', 'London Baroque', 'Charles Medlam",0.235,0.0175,4,-23.931,1,0.0462,0.979,8.51e-05,0.19,0.138,88.147,270973,5,7
+280,Land: Horses / Land of a Thousand Dances / La Mer(de),Patti Smith,0.477,0.654,9,-10.408,1,0.324,0.121,0.000247,0.155,0.571,148.143,565453,4,8
+281,"The Four Seasons, Violin Concerto in F Major, Op. 8 No. 3, RV 293 ""Autumn"": II. Adagio molto","Antonio Vivaldi', 'Roland Roberts', 'City Of Oxford Orchestra', 'Levon Parikian",0.0932,0.0257,2,-36.11,1,0.0347,0.378,0.512,0.103,0.0354,77.418,125520,4,1
+282,Willow Weep For Me,Dominick Farinacci,0.51,0.236,7,-15.62,1,0.0345,0.742,0.617,0.0916,0.215,129.408,387373,4,7
+283,Hermaphrodite,Shat,0.483,0.424,0,-7.724,1,0.0292,0.498,0.0,0.1,0.256,114.717,169213,4,7
+284,The Last Way of Madness,Suffocation Of Soul,0.278,0.975,0,-4.387,1,0.074,0.00013,0.224,0.067,0.291,108.91,552733,4,4
+285,"Piano Sonata No. 14 in C Minor, K. 457: III. Molto allegro","Wolfgang Amadeus Mozart', 'Jenő Jandó",0.396,0.183,0,-22.87,0,0.0517,0.988,0.894,0.115,0.371,103.195,297533,1,1
+286,Sonata XI a 5,"Heinrich Ignaz Franz von Biber', 'Purcell Quartet",0.381,0.0964,7,-22.537,0,0.0432,0.99,0.923,0.209,0.325,111.844,464933,4,1
+287,Pea Vne Special,People vs. Larsen,0.503,0.387,1,-8.996,1,0.0285,0.518,0.00557,0.364,0.306,88.257,166387,4,7
+288,Charade,Kat Edmonson,0.631,0.932,7,-7.224,0,0.0371,0.346,0.358,0.112,0.866,110.226,317571,4,6
+289,Would You,714,0.605,0.864,6,-5.365,1,0.0292,0.13,0.000827,0.113,0.736,122.918,228187,4,4
+290,Embracing the Immortal Wine (Communion),Akrabu,0.475,0.245,10,-18.533,1,0.052,0.962,0.9,0.0961,0.477,110.996,182610,4,1
+291,Knocks Me Off My Feet,Donell Jones,0.469,0.594,7,-8.209,1,0.0403,0.0663,0.0,0.0806,0.485,167.223,222760,4,4
+292,#6 (Garden Grey),Shirk Circus,0.48,0.974,10,-6.942,1,0.125,0.00632,1.05e-05,0.334,0.422,104.04,86040,4,4
+293,Comment 10,Al Cook,0.392,0.202,10,-15.911,1,0.0292,0.883,0.00148,0.0998,0.336,142.591,357160,4,7
+294,The Bell of Chicago,"John Philip Sousa', 'C.W. Hewitt', 'Williams Fairey Band', 'Peter Parkes",0.591,0.473,1,-10.373,0,0.124,0.000916,0.0,0.146,0.517,72.157,187542,4,6
+295,I Missed Her,Ray Lambiase,0.418,0.294,1,-10.303,1,0.0387,0.628,0.0,0.159,0.397,99.738,238413,3,7
+296,"Beethoven - Symphony No. 8 in F Major, S. 464/R. 128: I. Allegro vivace e con brio","Franz Liszt', 'Konstantin Scherbakov",0.353,0.18,5,-20.37,1,0.0777,0.982,0.875,0.088,0.272,176.243,515733,3,1
+297,Zambi,Chicago Afrobeat Project,0.309,0.649,7,-8.994,1,0.035,0.0158,0.00591,0.367,0.312,166.915,306440,4,4
+298,Tomorrow,"""Soggy Po' Boys""",0.441,0.644,11,-5.774,1,0.0363,0.56,0.0,0.109,0.349,141.733,220173,4,4
+299,The Downfall (Interlude),Man Down,0.641,0.388,7,-13.261,1,0.0348,0.801,0.0,0.0624,0.678,126.004,147120,4,7
+300,Perfect One,Lit,0.647,0.823,2,-5.231,1,0.0762,0.0598,0.0,0.119,0.396,99.933,230333,4,4
+301,In Times Like This - Ziggy Funk Remix,"DJ Hypnosis', 'Decency', 'Ziggy Funk",0.74,0.881,1,-8.496,0,0.0362,0.00697,0.706,0.0577,0.975,124.006,598000,4,6
+302,Them Dance Hall Girls,Keith Miles,0.35,0.434,2,-9.975,1,0.0264,0.804,0.00286,0.0762,0.578,147.132,193373,4,7
+303,We All Kings,Prince Shepherd,0.665,0.686,0,-5.849,1,0.0268,0.0518,0.000176,0.174,0.275,96.848,185694,3,4
+304,This Time Next Year,John Callaghan,0.376,0.868,2,-4.981,1,0.0418,1.17e-05,0.00596,0.0755,0.471,90.979,170293,4,4
+305,Infected with Hemiola,The Matt Savage Trio,0.485,0.324,3,-13.245,1,0.0331,0.959,0.839,0.143,0.842,102.509,164733,4,7
+306,"Demetrio e Polibio, Act I: Andiamo taciti (Live)","Gioachino Rossini', 'Poznan Camerata Bach Choir', 'Virtuosi Brunensis', 'Luciano Acocella",0.361,0.0708,2,-28.17,1,0.037,0.988,0.0182,0.308,0.0695,103.317,80173,3,7
+307,My Puzzle Of Dreams,"Vanilla Ninja', 'Piret Järvis', ""John O'Flynn"", 'Lenna Kuurmaa",0.617,0.722,0,-6.005,1,0.0312,0.0705,1.52e-06,0.0638,0.461,111.994,204533,4,4
+308,Sky Is Falling,"Darren Styles', 'Stonebank', 'EMEL",0.803,0.587,1,-7.016,1,0.234,0.037,0.000283,0.484,0.559,94.118,146560,4,8
+309,The Maid Who Sold the Barley,Julee Glaub,0.615,0.274,0,-13.697,0,0.0656,0.916,0.000774,0.0919,0.845,116.754,173107,4,7
+310,Ci sarà - Live,Al Bano And Romina Power,0.476,0.711,2,-5.072,0,0.0623,0.464,0.0,0.975,0.266,114.813,244680,4,0
+311,Moment,Shepherds,0.544,0.855,6,-7.461,1,0.093,0.0426,0.157,0.167,0.517,171.349,129543,4,4
+312,Orbits of Existence,Chris Haigh,0.494,0.987,6,-3.39,1,0.148,6.15e-05,0.00292,0.0859,0.141,140.028,265716,4,4
+313,Trapped,Pollari,0.819,0.698,1,-8.148,1,0.0339,0.503,0.000323,0.113,0.787,119.006,214347,4,4
+314,Lames,"Ancient', 'Hippie Rockso",0.555,0.204,7,-16.191,0,0.375,0.529,0.0,0.147,0.35,95.872,166478,4,8
+315,"Fantastic Dances, Op. 2: No. 4. Dance of Ecstasy","Loris Tjeknavorian', 'Tara Kamangar",0.338,0.145,11,-21.594,1,0.03,0.986,0.887,0.128,0.0867,77.219,161813,4,1
+316,Ancient Monks Retreat - Perfect for Relaxation and Meditation,Ethereal Dreams,0.133,0.0183,0,-30.112,0,0.0421,0.918,0.863,0.115,0.0368,67.589,3586600,3,5
+317,The Moon Kid,Asterhouse,0.649,0.659,0,-8.924,1,0.066,0.638,2.71e-05,0.359,0.497,90.991,210893,4,4
+318,Jack'in Steal'in,D. Lew,0.764,0.514,0,-12.063,1,0.199,0.00229,0.0,0.165,0.49,78.06,237253,4,4
+319,Down Here Where I Am,Blaze Foley,0.569,0.34,4,-16.607,0,0.0264,0.351,0.416,0.472,0.565,98.664,173831,4,6
+320,Blood Orgy of the She-Devils,Hellripper,0.312,0.998,1,-2.231,1,0.152,0.000539,1.11e-05,0.273,0.186,161.053,167120,4,4
+321,Put Out Or Get Out Feat: Howie Simon & Lizzy Devine,Tuff,0.435,0.911,9,-4.483,1,0.0654,0.000181,2.79e-06,0.044,0.497,134.052,158853,4,4
+322,"3 Caprices, Op. 27: No. 3 in G Minor: Adagio - Allegro l'istesso tempo","Karol Lipinski', 'Xi Chen",0.399,0.0827,7,-20.281,1,0.0669,0.977,0.0756,0.0747,0.316,83.94,929853,4,7
+323,"24 Preludes, Op. 28: Prelude No. 15 in D-Flat Major, Op. 28, No. 15, ""Raindrop""","Frédéric Chopin', 'Irina Zaritzkaya",0.378,0.00316,1,-32.478,1,0.0485,0.995,0.892,0.0871,0.101,127.511,392787,4,1
+324,Flirtation,Michael Franks,0.828,0.722,0,-6.909,1,0.0543,0.0297,0.814,0.258,0.83,99.195,265427,4,4
+325,Minutes Pass,Daylight Dies,0.687,0.444,1,-6.852,1,0.0447,0.0399,0.0,0.326,0.0906,90.007,252133,4,4
+326,Angels We Have Heard On High,The Galway Christmas Singers,0.456,0.497,5,-10.843,0,0.0399,0.872,0.184,0.101,0.605,119.411,253622,4,6
+327,Every Night - Suburban Nightmare EP,Dwarves,0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+328,Lobos de la Tribu,Curawaka,0.706,0.532,2,-10.167,1,0.0477,0.67,0.0,0.574,0.924,98.027,311002,4,0
+329,Creeps Are Everywhere,Mudhoney,0.615,0.834,9,-7.764,0,0.0337,0.193,0.541,0.176,0.801,104.004,314227,4,6
+330,Saturday Night,Gregory Isaacs,0.551,0.44,10,-8.559,1,0.0985,0.606,3.02e-05,0.11,0.341,167.923,210667,4,7
+331,Born to Arms (Fantasy),Gareth Coker,0.439,0.491,2,-13.336,1,0.0367,0.878,0.922,0.142,0.324,139.931,132712,4,3
+332,"Texas, Texas; No, Tennessee",The Evaluation,0.5,0.523,5,-12.602,0,0.0562,0.919,0.428,0.0926,0.793,191.394,201333,4,6
+333,Hot Potatoes,The Kinks,0.522,0.552,2,-12.083,1,0.0382,0.561,0.0,0.0795,0.822,99.436,209084,4,4
+334,Journey to Paradise,Ricky Tims,0.443,0.755,10,-5.625,1,0.0372,0.483,0.0,0.138,0.567,160.02,213760,4,4
+335,Bounty Hunter,"""The Men They Couldn't Hang""",0.623,0.487,9,-7.247,1,0.0398,0.0681,0.0,0.319,0.285,84.989,152472,4,4
+336,"Concerto In E Major, BWV 1042, Allegro assai","Johann Sebastian Bach', 'Gilles Apap & the Sinfonia Varsovia",0.549,0.225,4,-19.133,1,0.0414,0.918,0.000181,0.199,0.934,98.52,163413,4,7
+337,Mi chica ideal,Banda Machos,0.602,0.623,9,-8.978,0,0.0437,0.128,0.000593,0.0836,0.75,167.907,228387,4,6
+338,"Eugene Onegin, Op. 71 (arr. E. Downes): Minuet","Sergei Prokofiev', 'Sir Edward Downes', 'Royal Scottish National Orchestra', 'Neeme Järvi",0.268,0.161,5,-22.799,1,0.0389,0.594,0.598,0.206,0.251,85.173,88867,3,1
+339,Put That Woman First,Jaheim,0.649,0.536,5,-8.804,0,0.132,0.492,0.0,0.184,0.513,78.935,245773,4,6
+340,Don't Ask Me Why (Remix),"Bizzy Bone', 'Layzie Bone', 'Bone Thugs-N-Harmony",0.595,0.555,4,-7.97,0,0.321,0.0269,0.0,0.113,0.528,84.679,286013,4,8
+341,Mosaico de Merengues: Blanca / Fiesta para Dos / Nena - En Vivo,Orquesta La Reunión,0.527,0.746,0,-4.364,1,0.0468,0.501,1.42e-05,0.201,0.715,140.715,336707,4,4
+342,My Nanny O,"William Forbes', 'Laura Risk', 'Jacqueline Schwab",0.184,0.131,7,-14.915,1,0.0389,0.938,0.816,0.11,0.146,72.652,274587,3,1
+343,Kaleidoscope,"Jesse Terry', 'Sarah Darling",0.709,0.913,7,-5.148,1,0.0748,0.0182,0.0,0.167,0.519,108.024,229320,4,4
+344,Rain Raker,Dauwd,0.506,0.521,7,-13.502,1,0.0325,0.12,0.914,0.753,0.111,123.997,254911,3,0
+345,"Romeo and Juliet, Op. 64 (narrated): Romeo","June Whitfield', 'Ukraine National Symphony Orchestra",0.44,0.118,0,-17.366,1,0.083,0.936,0.244,0.578,0.162,95.401,224440,4,7
+346,"Mensa sonora, seu Musica instrumentalis: Sonata No. 2 in F Major: V. Sarabanda","Heinrich Ignaz Franz von Biber', 'Purcell Quartet",0.338,0.0948,4,-23.799,1,0.0416,0.678,0.0,0.212,0.462,50.207,63973,4,7
+347,The Wind,Martha Johnson,0.499,0.495,5,-10.508,1,0.0501,0.348,0.0286,0.2,0.339,80.086,200733,4,4
+348,Estimated Time of Arrival,Adrian Weiss,0.504,0.801,9,-4.715,1,0.0456,0.0304,0.00107,0.0911,0.305,128.43,272667,4,4
+349,Peru le Peru,"Chaitanya Hari Deuter', 'Adi Pieper",0.68,0.677,1,-8.418,0,0.0963,0.0168,0.0,0.345,0.559,126.693,182680,4,6
+350,The Guitar Man,Ray Parker Jr.,0.521,0.578,4,-6.158,0,0.0305,0.102,4.56e-05,0.223,0.726,155.902,233160,4,6
+351,Me to Meet,Suturee,0.502,0.822,7,-3.21,0,0.0451,0.37,1.85e-06,0.0619,0.759,66.944,167160,4,6
+352,The Illest (feat. VVS Verbal & Skeezo),"Napoleon Da Legend', 'Vvs Verbal', 'Skeezo",0.509,0.727,11,-10.278,0,0.303,0.0075,5.54e-06,0.101,0.545,80.675,176528,4,8
+353,Through That Door,Davis Kathriner,0.443,0.914,9,-5.364,1,0.087,0.00124,0.831,0.142,0.588,145.023,273493,4,3
+354,"Le nymphe di Rheno, Op. 8: Sonata No. 11 in G Major: Allegro - Adagio","Johannes Schenck', 'Les Voix Humaines",0.297,0.0984,5,-21.911,1,0.0445,0.932,0.941,0.131,0.142,117.277,92840,3,1
+355,Darling Nelli Gray,Kyle Creed,0.644,0.105,1,-12.301,1,0.0708,0.972,6.23e-06,0.104,0.476,147.495,159904,4,7
+356,"Goldedn Showers - From ""Piouhgd""",Butthole Surfers,0.442,0.783,7,-6.317,1,0.0318,0.0013,0.379,0.262,0.669,199.714,197187,4,4
+357,Newts On Gas,Cavedoll,0.4,0.873,2,-7.454,1,0.27,0.675,0.0659,0.14,0.379,119.784,729227,4,8
+358,Hot And Anxious,Fletcher Henderson,0.719,0.195,10,-10.049,1,0.0483,0.991,0.522,0.128,0.676,130.641,199373,3,7
+359,"Gloria in D Major, RV 589: V. Propter magnam gloriam","Antonio Vivaldi', 'The Sixteen', 'Harry Christophers",0.346,0.368,4,-17.088,0,0.0429,0.962,0.00174,0.105,0.0787,100.342,54893,4,7
+360,Increase the Peace,"Cartelsons', 'Monster Loco",0.876,0.611,7,-10.98,1,0.297,0.0074,0.0,0.1,0.671,103.053,277227,4,8
+361,Sensual Mujer (Remix) [feat. Mr. Vegas & Mr. Saik],"Boy Wonder CF', 'Jenny ""La Sexy Voz""', 'Mr. Vegas', 'Mr. Saik",0.71,0.909,10,-1.904,0,0.0796,0.0313,0.0,0.438,0.462,98.987,238053,4,6
+362,Las Hectareas Mentadas,Los Cuates de Sinaloa,0.647,0.699,1,-5.237,1,0.0293,0.192,4.17e-06,0.0857,0.558,115.145,180160,3,4
+363,"String Quartet No. 4 in C Major, K. 157: I. Allegro","Wolfgang Amadeus Mozart', 'Chamber Players of Canada",0.337,0.0455,7,-23.018,1,0.0414,0.967,0.932,0.103,0.443,129.898,340587,4,1
+364,"March Of The Children (From ""Village Of The Damned"")",Gareth Williams,0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+365,"Pastorale on Jesu, meine Freude","Barrie Cabena', 'Robert Grogan",0.0569,0.000386,10,-41.01,1,0.0441,0.661,0.954,0.107,0.0384,59.782,255133,4,1
+366,Cold Air,Insision,0.555,0.465,8,-9.474,1,0.0297,0.0678,0.0962,0.245,0.173,115.002,236779,4,4
+367,Blue Moon (Take 5),Elvis Presley,0.506,0.0873,0,-23.857,1,0.037,0.957,0.25,0.131,0.3,84.185,204747,4,7
+368,Tick Tock Part II,Gazpacho,0.5,0.436,2,-12.899,1,0.0327,0.202,0.663,0.129,0.04,110.989,579387,4,3
+369,Strahlensatz,Thomas Fehlmann,0.447,0.393,10,-13.975,1,0.0324,0.258,0.96,0.204,0.0356,115.982,240987,4,3
+370,Сердца стук,Natalia Podolskaya,0.843,0.684,7,-6.097,0,0.187,0.157,0.0,0.188,0.422,138.058,183587,4,6
+371,Join Me (feat. Miles Bonny),"Chrissy', 'Miles Bonny",0.823,0.586,7,-7.003,1,0.0814,0.000113,0.00134,0.462,0.583,119.999,364135,4,4
+372,If You Want To Make Me Happy,Alan Jackson,0.671,0.414,5,-11.808,1,0.0272,0.247,0.000113,0.0977,0.416,103.979,260573,4,4
+373,Curiosity,Nao,0.43,0.256,2,-22.088,1,0.0641,0.985,0.867,0.106,0.173,133.955,155821,4,1
+374,Day After The Party - Scotty Dix Club Mix,Cabballero,0.66,0.998,9,-4.209,1,0.0472,0.00783,0.326,0.0261,0.517,142.004,393773,4,4
+375,Mexico Bound Blues,Joe Dean,0.392,0.0627,8,-13.581,1,0.0519,0.992,0.000108,0.2,0.632,80.363,174427,4,7
+376,Talk To Me,Soce the Elemental Wizard,0.773,0.281,1,-9.781,1,0.11,0.24,0.0,0.112,0.465,102.019,227706,4,4
+377,Floor 67,White Willow,0.408,0.416,5,-10.3,0,0.0307,0.243,0.839,0.287,0.213,110.038,341891,4,3
+378,Dreamcatcher,"Walter Mays', 'North Texas Wind Symphony', 'Eugene Migliaro Corporon",0.675,0.23,1,-10.363,0,0.204,0.191,0.0,0.104,0.101,173.962,211920,4,6
+379,Clown Devil,Stinkaholic,0.605,0.859,2,-6.786,1,0.0945,0.00172,0.000417,0.119,0.133,146.024,397453,4,4
+380,Alone with You,Sonny Burgess,0.567,0.348,10,-12.658,1,0.0667,0.767,0.0145,0.114,0.305,124.692,226278,3,7
+381,"Time, On Fire",H.C. McEntire,0.484,0.804,1,-5.884,1,0.0286,0.0111,0.116,0.268,0.802,92.425,127000,4,4
+382,You Left Me Cryin',Bridget Kelly Band,0.638,0.259,7,-10.706,1,0.0898,0.753,0.0,0.219,0.269,88.485,202827,4,7
+383,Concerto dell'estate: II. Notturno: Largo,"Ildebrando Pizzetti', 'Thessaloniki State Symphony Orchestra', 'Myron Michailidis",0.16,0.016,10,-32.693,1,0.0435,0.968,0.898,0.126,0.0334,68.916,470613,3,1
+384,"Ruslan and Lyudmila, Op. 5, Act IV: No. 19, March of Chernomor","Mikhail Glinka', 'Taras Shtonda', 'Ekaterina Morozova', 'Vadim Lynkovsky', 'Aleksandra Durseneva', 'Panfilov', 'Maria Gavrilova', 'Valery Gilmanov', 'Maksim Paster', 'Irina Dolzhenko', 'Bolshoi Theatre Orchestra', 'Alexander Vedernikov",0.457,0.0312,0,-23.779,1,0.0395,0.862,0.049,0.187,0.371,165.39,294187,4,7
+385,You Got Gold,For Pilots,0.575,0.594,9,-11.024,1,0.0351,0.06,0.000146,0.276,0.825,167.892,278360,4,4
+386,Before I Wake,Roy Schneider,0.893,0.632,9,-7.381,0,0.176,0.0469,4.1e-05,0.098,0.648,95.983,181677,4,6
+387,249 - Monstercat: Call of the Wild,Monstercat Call of the Wild,0.442,0.867,10,-4.039,0,0.156,0.0147,0.00407,0.425,0.234,125.024,3715078,4,5
+388,You,Buva,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,186173,4,4
+389,Burford's Bop - Instrumental,Jimmy Thackery,0.627,0.841,5,-7.674,0,0.0573,0.0139,0.906,0.312,0.651,104.572,250240,4,3
+390,Sweet Heaven,Norman And Nancy Blake,0.78,0.547,0,-9.594,1,0.0526,0.00189,0.918,0.117,0.536,124.99,206027,4,3
+391,Celebrate Christ,Pastor Gary L. Wyatt,0.588,0.711,2,-5.93,1,0.0262,0.0124,0.00203,0.124,0.375,98.003,303533,4,4
+392,Angel Come,Secret Machines,0.759,0.335,7,-10.834,1,0.0273,0.681,0.0,0.1,0.622,93.509,221573,4,7
+393,"Bassoon Concerto in B flat major, K. 191 : III. Rondo: Tempo di menuetto","Stepan Turnovsky', 'Vienna Mozart Academy",0.354,0.0721,10,-22.149,1,0.045,0.994,0.764,0.126,0.285,120.588,262429,3,1
+394,I Dig,Nick Moss Band,0.846,0.416,10,-13.767,0,0.118,0.156,9.34e-06,0.238,0.645,96.188,259000,4,6
+395,In This Town,Sawyer Brown,0.685,0.746,5,-4.558,1,0.274,0.0127,0.0,0.32,0.594,64.95,151500,4,8
+396,Polonaise No. 14 in G-Sharp Minor,"Frédéric Chopin', 'Idil Biret",0.291,0.141,8,-21.783,0,0.0401,0.991,0.914,0.11,0.135,138.822,437680,4,1
+397,Troubled Soul,Jesse Sykes & The Sweet Hereafter,0.582,0.508,0,-11.704,1,0.0447,0.125,0.0,0.206,0.516,77.983,408370,4,4
+398,Take You There,Pete Rock & C.L. Smooth,0.752,0.921,5,-4.321,0,0.0696,0.0182,0.0,0.256,0.634,115.033,236693,4,6
+399,"Romanian Rhapsody in A Major, Op. 11 No. 1","George Enescu', 'Royal Scottish National Orchestra', 'Neeme Järvi",0.213,0.253,9,-17.108,1,0.0471,0.894,0.769,0.035,0.0688,89.636,809373,4,1
+400,Concerto for Orchestra: IV. Aubade: Allegretto,"Gerard Schurmann', 'BBC Philharmonic",0.137,0.0577,3,-25.394,1,0.0406,0.968,0.829,0.0757,0.0348,74.799,272160,4,1
+401,Alien's Blues,Bob Margolin,0.467,0.757,3,-5.093,1,0.033,0.0807,0.908,0.0876,0.433,82.282,155933,4,3
+402,Little Church,Miles Davis,0.257,0.14,2,-19.46,1,0.0379,0.755,0.442,0.088,0.0733,92.319,395253,4,1
+403,Everybody Does,Julien Baker,0.656,0.181,5,-8.544,1,0.0322,0.852,0.0,0.061,0.342,111.438,145889,4,7
+404,Pictures At an Exhibition: VI. Samuel Goldenberg and Schmuyle - Orch. Ravel,"Maurice Ravel', 'Modest Mussorgsky', 'Rundfunk-Sinfonieorchester Leipzig', 'Herbert Kegel",0.343,0.117,6,-21.988,0,0.0489,0.92,0.806,0.386,0.0394,113.888,141040,1,1
+405,Womlinba,Obo Okrapong/Addy,0.613,0.636,10,-11.214,0,0.145,0.834,0.0874,0.106,0.281,93.604,366707,3,6
+406,7 Dances: No. 7. Big!,"Andy Scott', 'Aquarelle Guitar Quartet",0.509,0.123,7,-20.381,1,0.0417,0.965,0.877,0.114,0.395,107.74,143267,4,1
+407,Grinding for the Money,Zhadowxxx,0.546,0.617,0,-10.188,0,0.0655,0.00407,0.0,0.451,0.22,140.061,263161,4,6
+408,"Don't Swim, Float","Harry Manx', 'Kevin Breit",0.39,0.826,1,-8.118,1,0.061,0.0031,0.868,0.13,0.394,119.982,217306,4,3
+409,Love You,Jody Whitesides,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,233720,4,8
+410,Through Self-Repulsion,Obscure,0.254,0.876,1,-9.526,1,0.247,0.0474,0.0346,0.132,0.205,101.007,335621,4,4
+411,Amongst The Fallen,Benümb,0.607,0.399,2,-12.163,1,0.036,0.892,0.000317,0.1,0.688,75.476,571080,4,7
+412,A Pot In Which To Piss,Titus Andronicus,0.157,0.802,4,-5.384,1,0.0548,0.244,0.075,0.208,0.17,163.596,533893,4,4
+413,Mary Sunday,Get Back Loretta,0.8,0.697,1,-4.17,1,0.177,0.00273,0.0,0.106,0.818,149.026,186693,4,4
+414,Hopelessly In Love,Prime Time Funk,0.489,0.0132,2,-29.262,1,0.0425,0.995,0.911,0.0917,0.196,91.612,180889,3,1
+415,Who I Am,Doyle Bramhall II,0.463,0.674,7,-5.422,1,0.0319,0.0115,0.0,0.123,0.259,84.039,255234,4,4
+416,Loch Lomond,Mackenzie Tolk,0.381,0.224,8,-9.643,1,0.0274,0.903,0.0,0.103,0.101,144.108,200644,4,7
+417,Christopher Columbus,Nazz,0.899,0.477,1,-7.936,1,0.165,0.119,3.32e-06,0.153,0.383,87.978,182739,4,4
+418,On Choppers,"Big Pokey', 'Big Moe",0.685,0.764,5,-5.818,0,0.0784,0.11,0.0,0.286,0.522,86.022,273333,4,6
+419,Txl / Back in Berlin,Michael Schiefel,0.275,0.0943,11,-15.357,0,0.0338,0.937,9.33e-06,0.115,0.0374,137.931,320176,3,7
+420,Gembe Ng'honela Ng'wana Makanga,Various Artists,0.702,0.0558,9,-18.742,1,0.845,0.946,0.0,0.683,0.68,76.613,36747,3,8
+421,Lost and Aware,Old Man Shattered,0.318,0.632,1,-5.008,1,0.0306,2.37e-05,0.0,0.225,0.29,174.055,229507,3,4
+422,Sweet Inspirations,Sista Monica Parker,0.667,0.678,5,-8.18,1,0.0264,0.168,9.39e-05,0.118,0.921,110.446,175533,4,4
+423,Seafaring Men,David HB Drake,0.594,0.657,6,-9.651,0,0.218,0.816,0.0,0.349,0.871,180.011,215008,4,6
+424,The Clock (arr. for Russian folk instruments),"Evgeny Stetsyuk', 'Johann Baptist Savio', 'Style of Five",0.573,0.217,4,-26.644,1,0.0465,0.732,0.166,0.0462,0.57,156.925,138173,3,7
+425,Wise Old Weak,The Impossible Shapes,0.373,0.499,6,-12.173,0,0.0523,0.467,0.761,0.128,0.489,111.251,148080,4,3
+426,Stolen At Gunpoint,Tijuana No!,0.722,0.659,9,-5.418,0,0.0541,0.0118,5.77e-06,0.219,0.509,92.048,237308,4,6
+427,La Muralla,"Ana Belén', 'Víctor Manuel",0.724,0.856,8,-6.119,0,0.0283,0.0653,1.85e-06,0.354,0.891,129.794,161800,4,6
+428,Can't Be Your Jesus,Brett Knickerbocker,0.293,0.971,4,-3.542,0,0.274,0.0009,1.59e-06,0.198,0.208,172.139,229569,4,8
+429,"The Contender (feat. Matt Gold, Dave Miller, Matt Ulery & Quin Kirchner)",Greg Ward Presents Rogue Parade,0.38,0.451,1,-12.339,1,0.0436,0.317,0.0146,0.0717,0.694,171.778,507428,1,7
+430,Karmic Lemonade,Velvet Starlings,0.442,0.94,0,-3.474,1,0.0425,4.29e-05,3.61e-05,0.127,0.518,129.989,227467,4,4
+431,I Love Everybody (I Love Everything),Marshall Chapman,0.729,0.722,5,-5.733,0,0.051,0.0891,2.91e-05,0.173,0.691,130.046,274707,4,6
+432,Spillane,Thingy,0.669,0.667,6,-7.028,0,0.362,0.187,0.0,0.172,0.512,77.985,293874,4,8
+433,Dertli,Niyaz,0.655,0.484,4,-7.485,0,0.0419,0.675,0.0,0.122,0.519,115.486,260555,4,6
+434,Be Strong,"Mariahlynn', 'Shatta Wale', 'mixedbykamillion",0.545,0.569,7,-7.265,0,0.286,0.746,0.0,0.266,0.681,149.243,220344,4,8
+435,"The Hours: Morning Passages (From ""The Hours"")","Philip Glass', 'Nicolas Horvath",0.263,0.134,3,-21.538,1,0.0392,0.977,0.897,0.139,0.0347,64.822,305440,4,1
+436,If,Elaine Stritch,0.575,0.644,6,-5.68,0,0.0309,0.271,0.0,0.131,0.626,80.07,195013,4,6
+437,Israel: II. Allegro agitato,"Ernest Bloch', 'Slovak Radio Symphony Orchestra', 'Dalia Atlas",0.212,0.0652,4,-23.545,0,0.0387,0.778,0.908,0.124,0.0381,121.839,855440,3,1
+438,Las Cosas de la Vida,Aterciopelados,0.569,0.88,1,-4.098,1,0.0435,0.0606,0.0,0.108,0.748,98.001,207187,4,4
+439,Stalker!,Marcus Anderson,0.651,0.309,11,-12.794,0,0.032,0.21,0.0,0.0994,0.65,120.134,175000,4,6
+440,Before We Wake Up,New Duo,0.648,0.356,9,-11.583,0,0.0631,0.575,0.00217,0.115,0.177,145.96,146340,4,6
+441,Etheros,Au5,0.0876,0.294,0,-17.091,1,0.042,0.228,0.977,0.152,0.0323,86.392,414939,4,1
+442,ARRIVAL,PRICE,0.101,0.0162,2,-30.002,1,0.0442,0.975,0.974,0.104,0.162,88.996,185841,4,1
+443,Nigun Rikud II,Zalman Goldstein,0.512,0.712,7,-7.081,0,0.0401,0.136,1.15e-06,0.206,0.847,140.068,173801,4,6
+444,Awakening Spirits,Ephemeral Mists,0.292,0.201,11,-14.846,0,0.0346,0.988,0.897,0.1,0.104,115.773,303373,4,1
+445,Soledad,ChiChi Peralta,0.726,0.177,1,-14.824,0,0.0353,0.896,2.14e-06,0.116,0.618,92.934,214547,4,7
+446,Sprung a Leak,Superchunk,0.427,0.201,8,-13.044,1,0.0317,0.745,0.263,0.109,0.0668,105.218,232147,4,7
+447,Puerto Allegre Jam,Rick Braun,0.735,0.854,8,-8.506,1,0.0364,0.194,0.281,0.0886,0.815,103.972,340920,4,4
+448,Undertow (The Albatross II),A Storm of Light,0.0585,0.815,2,-15.601,1,0.107,0.781,0.959,0.326,0.037,68.218,195560,4,1
+449,Leichtes Lied,Strom & Wasser,0.444,0.616,6,-10.11,0,0.046,0.584,0.000799,0.325,0.664,172.095,400987,4,6
+450,Loose Lips,The Mighty Blue Kings,0.603,0.429,2,-9.668,1,0.25,0.734,0.0,0.265,0.799,144.7,147987,4,8
+451,Big Kids,John Lithgow,0.763,0.713,5,-0.991,1,0.156,0.237,0.0,0.115,0.952,89.168,153380,4,4
+452,Ca Ira - The Yorkshire Lass,"Traditional', 'Pinkney', 'Coldstream Guards Regimental Band', 'T.L. Sharpe",0.676,0.297,3,-21.062,1,0.037,0.943,0.957,0.0748,0.896,113.229,92800,4,7
+453,Двое на качелях,Alsou,0.67,0.789,6,-4.914,1,0.0309,0.33,2.26e-05,0.0782,0.625,90.003,194667,4,4
+454,Like A Train Needs A Track,Lonesome River Band,0.643,0.786,6,-5.691,1,0.0306,0.498,1.55e-05,0.138,0.94,129.969,175147,4,4
+455,Champagne,Django Django,0.423,0.667,6,-7.012,0,0.326,0.758,0.0,0.246,0.496,86.743,336511,4,8
+456,Oscurità,Ancient Bards,0.437,0.932,9,-5.046,0,0.0695,0.0043,0.000662,0.0764,0.141,90.038,379747,4,6
+457,Self-Regulating System,Pharmakon,0.292,0.948,1,-3.611,1,0.0648,1.39e-05,0.818,0.336,0.0341,128.1,382994,3,3
+458,Poseidon,Mythark,0.882,0.368,2,-8.742,1,0.0504,0.043,0.0436,0.109,0.111,130.027,181290,4,4
+459,Beneath the Deep Blue Sea,Martin Zarzar,0.595,0.878,5,-4.341,0,0.0401,0.000293,0.00266,0.174,0.465,93.94,214533,4,6
+460,Universal Enlightment,Innerzone,0.459,0.98,7,-8.29,1,0.0562,0.0557,0.862,0.354,0.58,139.98,582857,4,3
+461,"Apres un reve, Op. 7, No. 1 (arr. for cello and guitar): 3 Songs, Op. 7: No. 1. Apres un reve (arr. for cello and guitar)","Gabriel Fauré', 'Claremont Duo",0.226,0.0609,5,-25.674,0,0.0532,0.982,0.875,0.0946,0.0836,89.794,170933,4,1
+462,Affirmation,George Benson,0.481,0.782,8,-8.145,1,0.0717,0.0102,1.77e-06,0.127,0.648,169.985,295800,4,4
+463,Darkness Within,Astral Chaos,0.271,0.903,7,-5.708,1,0.182,0.0152,6.21e-05,0.103,0.0865,149.677,387843,4,4
+464,Anybody Killa,Tha Dogg Pound,0.687,0.705,7,-6.539,1,0.115,0.0205,0.0,0.356,0.519,77.002,261840,4,4
+465,Je ne suis qu'une chanson,Ginette Reno,0.556,0.661,9,-4.316,0,0.0334,0.217,0.0,0.117,0.199,80.064,287891,4,6
+466,Sassy,Matt Johnson,0.744,0.76,0,-5.381,1,0.183,0.287,6.4e-05,0.0791,0.494,97.02,186065,4,4
+467,Ponte Bellaca (Veron Ray Mix) [feat. John O & E.Q.],"RhythmDB', 'John O.', 'E.Q.",0.713,0.825,8,-11.532,1,0.0407,0.222,0.774,0.1,0.107,125.0,298080,4,3
+468,The 3rd Floor (Night Version),B! Machine,0.806,0.579,10,-10.276,0,0.06,0.00487,0.613,0.0464,0.555,123.026,320360,4,6
+469,When You Wish Upon a Star - From Pinocchio,"""Pickin' On Series""",0.602,0.0102,0,-29.986,1,0.0487,0.992,0.915,0.097,0.331,63.586,153846,4,1
+470,Once In A Blue Mood,"Bill Bickford', 'Wolfgang Schmid', 'Billy Cobham",0.351,0.253,5,-17.08,0,0.0301,0.0241,0.716,0.075,0.273,172.925,454333,3,3
+471,"Suite bergamasque, L. 75: IV. Passepied","Claude Debussy', 'Jean-Efflam Bavouzet",0.365,0.0216,6,-30.717,0,0.036,0.993,0.927,0.102,0.227,92.086,224040,4,1
+472,One and Only,Mystic-Force,0.528,0.468,5,-5.306,1,0.0287,0.295,0.0,0.165,0.185,154.974,348227,3,4
+473,"Mazurkas, Op. 33: No. 4 in B Minor","Frédéric Chopin', 'Alessandro Deljavan",0.342,0.0139,7,-30.757,1,0.0438,0.992,0.926,0.113,0.103,99.35,298720,3,1
+474,Magnificat Tone VIII: Quia respexit humilitatem ancillae suae - Quia fecit mihi magna qui potens est,"Pierre de la Rue', 'Viva-Voce', 'Peter Schubert",0.205,0.138,0,-23.076,1,0.0505,0.991,0.00422,0.246,0.121,79.294,116987,1,1
+475,Ikaw,Sarah Geronimo,0.513,0.38,11,-11.091,1,0.0336,0.12,0.0,0.0924,0.323,120.952,263500,4,4
+476,Kids These Days,Shakey Graves,0.501,0.839,0,-5.3,1,0.0433,0.187,4.18e-05,0.205,0.51,121.891,222513,4,4
+477,White Balance,Buttness,0.0822,0.412,5,-29.86,0,0.0574,0.0991,0.439,0.191,0.0245,167.344,144000,4,1
+478,Fighter Pilot,Guided By Voices,0.604,0.574,6,-5.127,1,0.941,0.799,0.0,0.908,0.561,83.311,178137,3,8
+479,11/26,After The Burial,0.46,0.985,1,-3.602,1,0.145,1.93e-05,0.431,0.629,0.152,95.002,308371,3,0
+480,The Impossible Dream,"""Joker's Wild""",0.442,0.371,11,-9.759,1,0.0282,0.868,0.0,0.0733,0.38,93.039,139027,3,7
+481,Polonaise No. 15 in B-Flat Minor,"Frédéric Chopin', 'Idil Biret",0.351,0.0269,10,-28.267,0,0.0378,0.992,0.878,0.116,0.0899,68.506,327480,4,1
+482,"Concertango, Op. 55: IV. Amortango","Paolo Pessina', 'Adriatic Symphony Orchestra",0.236,0.0345,7,-20.505,0,0.047,0.919,0.499,0.0809,0.0391,77.93,246333,3,1
+483,Atras Da Porta,"Brian Lynch', 'Bill Charlap', 'Dwayne Burno', 'Joe Farnsworth",0.316,0.223,11,-14.091,0,0.0343,0.334,0.00964,0.19,0.126,183.3,168093,4,7
+484,Dogs On the East Side,Last Train Home,0.512,0.791,0,-6.208,1,0.0391,5.03e-05,0.0,0.308,0.57,149.998,245714,4,4
+485,Reflections,Bobby Broom,0.648,0.594,11,-7.027,0,0.0293,0.114,0.0462,0.116,0.544,113.983,244013,4,6
+486,The Thunderer,"Gramercy Brass', 'John Henry Lambert",0.601,0.469,10,-15.303,1,0.0524,0.973,0.905,0.121,0.86,121.327,161006,4,3
+487,Salt Mine,Joyero,0.594,0.435,0,-6.754,1,0.0272,0.0763,0.0,0.315,0.375,136.089,248097,3,4
+488,Sunshine,Mike Charles,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,163855,4,4
+489,Black Point Road,Red Rooster,0.542,0.592,9,-8.014,1,0.0458,0.709,0.00458,0.111,0.304,172.145,255720,4,7
+490,And So It Goes,Jori Chisholm,0.433,0.0871,0,-14.532,1,0.0341,0.91,1.98e-05,0.113,0.336,135.498,217573,4,7
+491,Since I've Had You On My Mind,Rita Chiarelli,0.51,0.328,2,-9.047,1,0.0337,0.811,0.0,0.142,0.378,179.769,205356,4,7
+492,If I Ever Fall In Love,Eclipse 6,0.402,0.205,6,-11.232,1,0.038,0.758,0.0,0.147,0.42,143.994,189027,4,7
+493,The Offering,Janiece Jaffe,0.48,0.861,6,-6.836,1,0.0477,0.00329,0.0559,0.0907,0.377,135.055,349653,4,4
+494,Blue Christmas,Sawyer Brown,0.465,0.27,4,-16.661,1,0.0425,0.9,0.00104,0.145,0.58,94.518,129173,4,7
+495,Drive,Modern Diet,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,242013,4,7
+496,Waves Drift Ashore,Tribe of Heaven,0.257,0.24,7,-8.963,1,0.0318,0.756,0.0,0.109,0.207,85.744,186267,4,7
+497,How Long - Single Version,Ace,0.715,0.402,0,-13.858,0,0.0301,0.58,0.134,0.101,0.725,123.213,200947,4,6
+498,Headaches,Allan Sherman,0.442,0.528,10,-9.269,1,0.0562,0.565,0.029,0.0944,0.233,132.932,311537,4,7
+499,"Your Love - 7"" Version",Norman Connors,0.697,0.793,8,-6.133,0,0.0302,0.0706,0.00127,0.054,0.708,116.65,216520,4,6
+500,Buildings,Out Out,0.472,0.604,6,-6.508,0,0.0279,0.0421,0.201,0.0818,0.322,88.969,288733,4,6
+501,Kerosene,Excizen,0.628,0.92,7,-3.252,1,0.0287,0.00687,5.34e-05,0.337,0.808,126.998,185800,4,4
+502,Love-In-Tokyo,Television Robbers,0.559,0.65,6,-7.346,0,0.437,0.899,0.886,0.138,0.347,179.952,358113,4,8
+503,The Hour of the Sheep (Matsuridaiko),Synergy,0.311,0.00441,7,-46.598,0,0.0469,0.0965,0.945,0.092,0.7,104.443,44773,4,1
+504,When I Have You,Red Mitchell,0.592,0.685,0,-8.946,1,0.0337,0.0749,2.19e-05,0.0971,0.396,81.492,277267,4,4
+505,Soul Addiction,Sylar,0.244,0.934,1,-4.468,0,0.434,0.00125,0.0,0.317,0.267,197.869,209267,4,8
+506,Julen I Hjertet,"Janne Mark', 'Arve Henriksen",0.49,0.494,2,-8.408,1,0.0254,0.452,0.0,0.103,0.06,75.053,244514,4,7
+507,Paperdollz,ThaGataNegrra,0.446,0.339,2,-8.266,0,0.03,0.0936,0.00364,0.103,0.281,109.17,205400,4,6
+508,Carrboro,Schooner,0.817,0.305,9,-10.975,1,0.07,0.523,0.0,0.0325,0.809,108.358,186720,4,4
+509,Ideal simplifié,Laurent Voulzy,0.753,0.447,7,-13.486,1,0.0296,0.238,0.0,0.0962,0.748,113.32,270840,4,4
+510,100 Years,Alex Seifert,0.643,0.569,7,-7.459,1,0.0276,0.544,2.17e-05,0.178,0.275,120.507,244600,4,4
+511,WRAITH,Thouxanbanfauni,0.873,0.582,5,-9.901,1,0.047,0.0282,0.0699,0.182,0.77,122.005,255613,4,4
+512,Farewell My Love,Libitina,0.162,0.237,4,-15.332,0,0.0411,0.848,0.719,0.285,0.119,39.882,167800,3,1
+513,"Too Much In Love To Care (From ""Sunset Boulevard"")",Stars Of the London Stage,0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+514,"Don Giovanni, K. 527: Madamina","Wolfgang Amadeus Mozart', 'Andrea Martin', 'Donna Robin', 'Vienna Mozart Orchestra', 'Konrad Leitner",0.351,0.185,2,-17.693,1,0.0441,0.99,0.0169,0.109,0.311,130.24,343267,4,7
+515,Represent,Retic,0.708,0.832,1,-4.964,1,0.318,0.02,2.8e-06,0.189,0.618,92.428,252600,4,8
+516,Together Burning Bright,The Used,0.519,0.741,5,-7.547,1,0.0308,0.0147,0.000418,0.235,0.426,150.0,231280,4,4
+517,Cedar Grove,Bill Clifton,0.65,0.772,8,-7.973,0,0.332,0.263,0.0,0.232,0.791,172.093,179252,4,8
+518,昨天你去哪啊,Anita Mui,0.553,0.328,6,-10.827,1,0.0355,0.537,3.43e-05,0.105,0.224,118.108,275466,4,7
+519,Romanian Fantasy No. 1,Alicia Svigals,0.467,0.165,11,-19.13,0,0.0668,0.833,4.13e-05,0.0504,0.61,84.09,205600,4,7
+520,Quietly There,Tracy Jane Comer,0.289,0.139,0,-18.59,0,0.0305,0.645,0.147,0.097,0.046,81.576,368160,4,7
+521,December,The Jigsaw Seen,0.737,0.495,1,-13.489,1,0.027,0.0588,9.12e-06,0.0542,0.967,104.409,197147,4,4
+522,Shaolin Warrior Dub,Dubmatix,0.78,0.438,11,-11.337,1,0.059,0.0934,0.609,0.179,0.65,110.972,243987,4,3
+523,Turn It Around,Matana Roberts,0.528,0.908,2,-5.609,0,0.0608,0.00438,0.000577,0.335,0.477,121.494,208280,4,6
+524,Karlsruhe,Demian Band,0.787,0.728,8,-13.099,0,0.0685,0.0063,0.87,0.11,0.125,124.946,563907,4,3
+525,Blue Launch,Mark Egan,0.554,0.175,1,-16.063,0,0.0701,0.4,0.841,0.0869,0.114,90.41,92403,4,3
+526,Shadows Of War,Erik Ekholm,0.176,0.0316,4,-27.2,0,0.0302,0.961,0.895,0.108,0.0306,65.525,55613,4,1
+527,Life for a Life,Luce,0.297,0.971,10,-2.873,0,0.0941,1.44e-05,0.0,0.0344,0.292,159.949,153964,4,6
+528,Tell Him,"Barbra Streisand', 'Céline Dion",0.655,0.647,1,-9.465,1,0.0903,0.19,0.00877,0.0412,0.931,80.077,280760,4,4
+529,Smoke And Mirrors,Piggy D.,0.594,0.58,2,-7.449,0,0.0268,0.0916,0.000633,0.103,0.287,99.687,282283,4,6
+530,Amma,The Nommos,0.2,0.189,4,-22.053,1,0.0422,0.905,0.728,0.101,0.176,140.192,199024,3,1
+531,Fighter,Christina Aguilera,0.435,0.92,4,-1.357,0,0.201,0.235,0.000353,0.552,0.45,188.899,245960,4,0
+532,What Might Have Been,Buck McCoy,0.621,0.201,7,-15.112,1,0.0296,0.623,0.0,0.131,0.146,130.627,238800,4,7
+533,Dead Man,M. Ward,0.505,0.267,9,-13.763,0,0.05,0.279,0.0,0.096,0.439,143.929,247080,4,6
+534,Worship You Lord,Maurette Brown Clark,0.14,0.407,5,-7.658,0,0.0369,0.675,0.0251,0.0946,0.0685,86.389,243252,4,7
+535,White Christmas,The Ray Conniff Singers,0.317,0.158,9,-16.485,1,0.0381,0.673,0.353,0.338,0.247,130.503,177480,3,7
+536,Salute To Satchmo,Al Hirt and His Band,0.649,0.278,0,-16.044,1,0.0431,0.597,4.79e-05,0.218,0.541,110.207,396000,4,7
+537,Pictures at an Exhibition (Orch. M. Ravel): Promenade I,"Modest Mussorgsky', 'St. Louis Symphony', 'Leonard Slatkin",0.345,0.0294,5,-17.627,1,0.0392,0.979,0.962,0.285,0.205,88.097,95400,4,1
+538,Ever Since Ya Pulled Me Under,Big Head Todd and The Monsters,0.603,0.756,9,-7.578,0,0.0526,0.135,8.29e-05,0.0872,0.734,163.977,304893,4,6
+539,Hump Hump,The Nillaz,0.919,0.536,10,-7.069,1,0.0586,0.545,0.000241,0.0908,0.848,128.015,151000,3,4
+540,The Song Of Song,Murray Gold,0.368,0.226,1,-13.759,1,0.0515,0.909,0.861,0.107,0.396,116.124,179547,3,1
+541,The Outlaw Ocean,"tyDi', 'Ian Urbina",0.882,0.535,1,-9.16,1,0.0552,0.248,0.856,0.115,0.0398,121.01,414523,4,3
+542,Freedom Is In the Trying,Wynton Marsalis,0.659,0.579,8,-10.398,1,0.425,0.862,0.000112,0.116,0.825,158.006,165240,4,8
+543,Angels We Have Heard on High,The Irish Rovers,0.456,0.497,5,-10.843,0,0.0399,0.872,0.184,0.101,0.605,119.411,253622,4,6
+544,Tango,"Igor Stravinsky', 'Jenny Lin",0.53,0.519,4,-5.998,0,0.224,0.2,0.0,0.112,0.462,144.993,186056,4,6
+545,Down in the Earth,Pneumatic Detach,0.561,0.821,2,-6.362,1,0.398,0.00156,0.0,0.0854,0.22,174.08,180587,4,8
+546,Mia irmana fremosa / Muiñeira de Poio (con Pat Kilbride),"Luar Na Lubre', 'Pat Kilbride",0.316,0.415,9,-8.728,1,0.0336,0.607,3.65e-05,0.107,0.567,179.294,218881,3,7
+547,Back The Way,Carly Simon,0.609,0.618,0,-4.584,1,0.0318,0.178,0.0,0.169,0.545,80.502,206293,3,4
+548,"Wir gläuben all an einen Gott, BWV 680","Johann Sebastian Bach', 'Jörg Halubek",0.0917,0.11,2,-19.374,0,0.0408,0.983,0.919,0.0837,0.163,52.22,213387,4,1
+549,Hampshire,Original Soundtrack,0.403,0.0273,1,-26.497,1,0.043,0.956,0.948,0.158,0.135,84.169,183391,4,1
+550,Show Me Something,Eleven,0.591,0.862,8,-5.982,1,0.21,0.108,1.29e-05,0.103,0.806,78.444,197043,4,4
+551,Before the Summer's Gone,The Company,0.435,0.496,7,-13.417,1,0.0301,0.333,0.000116,0.219,0.856,84.51,183933,4,4
+552,Jump Jive and Wail,Sister Swing,0.758,0.623,5,-6.505,1,0.055,0.373,1.79e-06,0.0589,0.963,95.992,183320,4,4
+553,Ooh Poo Pah Doo,The Shirelles,0.718,0.653,9,-11.46,1,0.0907,0.267,0.0,0.404,0.781,132.669,141714,4,4
+554,Sage Hill / Catnip Tea,Michael Mendelson & Friends,0.683,0.37,7,-10.816,1,0.0402,0.936,0.852,0.339,0.96,102.103,234800,4,3
+555,Wild Man Blues - Remastered 1992,"Ferdinand ""Jelly Roll"" Morton', 'Louis Armstrong', 'Jelly Roll Morton & His Red Hot Peppers",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+556,Perpetuum Mobile,Comedian Harmonists,0.54,0.322,0,-15.317,1,0.0431,0.907,0.859,0.117,0.786,164.799,269800,4,7
+557,Only Human - Instrumental,12 Stones,0.856,0.779,7,-6.758,0,0.0453,0.0242,0.91,0.0324,0.487,94.011,183014,4,3
+558,Spiral Knells,"Knells, The",0.292,0.738,7,-5.888,1,0.0481,0.0655,0.0143,0.291,0.118,125.649,601227,4,4
+559,Who Gone Be There For You,Just Joey 4L,0.609,0.723,10,-6.838,0,0.189,0.0153,2.03e-05,0.403,0.409,160.001,214413,4,6
+560,Nasty (Who Dat) (feat. Migos),"A$AP Ferg', 'Migos",0.661,0.636,4,-4.551,0,0.118,0.0203,2.25e-05,0.378,0.428,179.041,209813,4,6
+561,Driving Fast and Using a Car Phone to Call the Present Day,Hot Dad,0.513,0.832,7,-6.766,0,0.0267,0.00084,0.852,0.125,0.532,139.022,283000,4,3
+562,I Shall Be Released - Studio Outtake - 1971,Bob Dylan,0.529,0.146,11,-15.114,0,0.0499,0.758,0.000156,0.1,0.407,143.603,182160,4,7
+563,Buenos Aires Hora O,"Astor Piazzolla', 'Alfredo Marcucci', 'Ensemble Piacevole",0.6,0.492,9,-12.463,0,0.0275,0.278,0.652,0.0627,0.543,139.296,166104,4,6
+564,Hey Gyp (Dig the Slowness),The Raconteurs,0.506,0.775,0,-7.533,1,0.152,0.000163,0.00143,0.224,0.349,112.66,145446,4,4
+565,Aldri min sjel,Heidi Hauge,0.592,0.622,2,-7.601,1,0.309,0.331,0.0,0.0714,0.501,105.905,202496,3,8
+566,Recess,52nd Street Blues Project,0.576,0.412,11,-8.184,1,0.0368,0.659,0.0,0.15,0.399,188.821,230501,3,7
+567,Randy's Song,Ann Sweeten,0.898,0.573,8,-5.683,1,0.268,0.0154,0.0,0.0973,0.442,101.949,188291,4,8
+568,Placebo Headwound,"The Flaming Lips', 'Peter Mokran",0.188,0.657,2,-9.991,1,0.0381,0.0152,0.0574,0.302,0.285,183.79,220973,4,4
+569,"La belle animée d,un voyageur",Galant tu perds ton temps,0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+570,Words For Nerds,Spastic Ink,0.716,0.436,0,-14.573,0,0.43,0.737,0.0,0.473,0.818,131.841,161507,4,8
+571,Piano 2: III. -,"Julius Eastman', 'Joseph Kubera",0.326,0.163,1,-19.938,1,0.0325,0.974,0.948,0.153,0.198,98.903,548533,4,1
+572,Cosmetic Surgery,Havok,0.413,0.964,1,-5.993,1,0.144,2.42e-05,0.66,0.213,0.275,164.378,264359,4,3
+573,What Did I Take,Higher Education,0.55,0.927,1,-4.324,1,0.0815,0.00061,0.0135,0.0458,0.347,111.432,430107,4,4
+574,Dominion - Pt. 2 (From League of Legends: Season 2),League of Legends,0.563,0.453,5,-18.987,0,0.0435,0.235,0.871,0.164,0.4,99.969,363500,3,3
+575,Break On Though (To the Other Side),"Chris Washburne', 'The Syotos Band",0.421,0.751,9,-9.584,1,0.0472,0.2,0.0,0.17,0.789,89.839,145867,4,4
+576,Going Back To Mississippi,Carey Bell,0.672,0.648,7,-9.543,1,0.0415,0.172,0.00194,0.363,0.643,121.255,230800,3,4
+577,Guitar Sonata No. 2: I. Allegro deciso e appassionato,"Dušan Bogdanović', 'Goran Krivokapić",0.29,0.0752,11,-25.629,0,0.0625,0.99,0.869,0.115,0.0636,70.141,227560,3,1
+578,Oral History,Meatwound,0.638,0.728,1,-8.11,1,0.0546,0.133,0.0408,0.135,0.263,124.997,302333,4,4
+579,Asmatikon Cherubic Hymn,"Cappella Romana', 'Alexander Lingas",0.115,0.254,0,-16.868,1,0.0425,0.982,0.904,0.0969,0.0385,82.11,775160,1,1
+580,Trains,Steps Ahead,0.638,0.0826,3,-23.58,0,0.0523,0.918,0.882,0.16,0.39,137.965,139130,4,1
+581,Love Me Still,Bruce Hornsby,0.594,0.161,1,-12.692,1,0.03,0.897,0.000461,0.0729,0.46,75.943,207733,4,7
+582,Echoes,Drops of Heart,0.285,0.322,6,-16.58,0,0.0445,0.367,0.649,0.107,0.138,133.577,1412451,4,3
+583,The Big Break,United States Three,0.571,0.862,1,-5.295,0,0.114,0.0289,0.0,0.214,0.74,139.012,278693,4,6
+584,"Viola da Gamba Sonata in G Major, BWV 1027: II. Allegro ma non tanto","Johann Sebastian Bach', 'Hille Perl', 'Michael Behringer",0.501,0.228,7,-21.156,1,0.0356,0.992,0.846,0.152,0.828,102.268,213427,3,1
+585,Kitten Coop,Syko Friend,0.348,0.152,2,-14.263,0,0.0321,0.944,0.874,0.113,0.0496,100.941,264004,4,1
+586,What She Said,Katy Goodman,0.35,0.00844,6,-32.596,1,0.122,0.994,0.915,0.108,0.259,88.937,124803,3,1
+587,Quaker Dog Got Away,Stephen David Heitkotter,0.53,0.679,9,-9.065,1,0.196,0.905,0.000564,0.0892,0.481,100.018,337147,4,7
+588,"Symphony No. 3 in D Minor: Part 2, III. Comodo. Scherzando. Ohne Hast","Gustav Mahler', 'Esa-Pekka Salonen', 'Los Angeles Philharmonic",0.257,0.0449,0,-25.783,1,0.0446,0.949,0.575,0.0659,0.343,177.081,161827,4,1
+589,"Mazurka No. 49 in F minor, Op. 68, No. 4","Frédéric Chopin', 'Lara Downes",0.249,0.00822,7,-33.309,1,0.0414,0.995,0.919,0.0558,0.0385,68.289,173280,4,1
+590,More Than I Do,Luvplanet,0.686,0.712,11,-6.159,1,0.0257,0.121,0.0,0.167,0.572,105.978,214533,4,4
+591,Ages And Ages Ago,The Country Gentlemen,0.456,0.592,10,-6.623,0,0.0587,0.00234,0.384,0.0977,0.168,119.535,215747,4,6
+592,Sunshine,Sound of Mine,0.697,0.875,5,-4.621,1,0.034,0.137,0.0,0.28,0.774,140.069,163855,4,4
+593,Haunted Hill,Bassholes,0.38,0.662,5,-6.379,1,0.0293,0.000409,0.0053,0.0892,0.0443,140.032,230000,4,4
+594,"Deliverance (Raha-Ee), Pt. I","Aldoush', 'Jeff Obee', 'Joe Brigandi', 'Bob Hodas",0.632,0.389,8,-11.842,0,0.0335,0.851,0.0542,0.222,0.428,95.877,471320,3,7
+595,For Red Cloud,Black Crown Initiate,0.318,0.893,1,-5.893,1,0.067,0.000227,0.00022,0.0872,0.121,94.913,408459,4,4
+596,"6 Fanfares (Arr. M. Roberts): No. 4, Moderato","Haydn Wood', 'Onyx Brass', 'John Wilson",0.536,0.367,5,-20.921,1,0.0485,0.805,0.937,0.152,0.217,135.848,23000,4,1
+597,The Old Sheboygan Soft Shoe,Lil Rev,0.547,0.146,5,-18.236,1,0.21,0.976,0.919,0.0906,0.963,117.593,176627,4,7
+598,Amaze,Jimmy Riley,0.561,0.543,1,-8.498,1,0.0324,0.26,0.0,0.124,0.243,139.803,240867,4,4
+599,Gravity Lane,Béla Fleck and the Flecktones,0.42,0.694,5,-9.53,1,0.0274,0.279,0.882,0.0839,0.579,145.602,357947,4,3
+600,"Symphony No. 3 ""The Camp Meeting"": III. Communion","Charles Ives', 'Leonard Bernstein', 'New York Philharmonic",0.0926,0.121,10,-18.897,1,0.0392,0.953,0.88,0.117,0.0358,87.774,442029,3,1
+601,Camping,Jóhann Jóhannsson,0.506,0.261,6,-13.679,1,0.0342,0.813,0.506,0.078,0.438,172.289,145986,4,7
+602,Mr. Lunasicc,Lunasicc,0.547,0.62,6,-7.483,1,0.428,0.0889,0.0,0.521,0.682,74.617,273020,1,8
+603,"7 Variations on Air 'Vien qua, Dorina bella' by Bianchi, Op. 7 (J. 53)","Carl Maria von Weber', 'Alexander Paley",0.227,0.009,0,-35.166,1,0.0649,0.995,0.856,0.0981,0.243,173.036,94040,4,1
+604,Miss Wonderful,"Big B', 'Kottonmouth Kings, TECH N9NE and Sen Dog from Cypress Hill!",0.431,0.681,2,-9.177,1,0.0337,0.0338,0.0,0.387,0.736,132.112,169596,4,4
+605,Immanuel / Behold Now The Kingdom,John Michael Talbot,0.309,0.173,10,-14.189,1,0.0284,0.731,7.44e-06,0.173,0.212,90.272,231493,4,7
+606,Miserable De Mí,Annette Moreno,0.566,0.894,0,-4.45,1,0.0344,0.00409,1.29e-05,0.117,0.587,108.972,229387,4,4
+607,"Symphony No. 6 In A Major, WAB 106: II. Adagio: Sehr Feierlich","New Zealand Symphony Orchestra', 'Anton Bruckner",0.14,0.0491,5,-22.788,1,0.0429,0.955,0.822,0.0833,0.0339,101.311,918708,4,1
+608,Morbid Shape in Black - Rough Mix,Deceased…,0.161,0.981,6,-7.672,1,0.197,1.75e-05,0.942,0.113,0.24,167.275,347533,4,3
+609,Birthday Wish,Scott Hiltzik,0.738,0.464,10,-10.749,1,0.538,0.296,0.0,0.0789,0.501,139.845,220128,4,8
+610,"19 Hungarian Rhapsodies, S. 244: No. 5 in E Minor ""Héroïde-élégiaque""","Franz Liszt', 'Balint Vázsonyi",0.47,0.0324,0,-22.109,1,0.0542,0.991,0.897,0.082,0.0526,70.483,520400,4,1
+611,Reel,"Roger McGuinn', 'Eliza Carthy",0.754,0.342,10,-8.677,0,0.0991,0.073,0.0,0.193,0.423,128.981,121347,4,6
+612,Gladiator,Nasty Savage,0.54,0.78,9,-5.872,1,0.0418,0.0263,7.12e-06,0.35,0.514,144.011,188333,4,4
+613,Anos Blues,Clarice Assad,0.48,0.129,5,-15.918,0,0.0848,0.917,1.23e-06,0.105,0.205,182.511,189933,3,7
+614,voyage,Idealism,0.416,0.12,5,-16.755,1,0.0912,0.858,0.935,0.692,0.373,134.042,110397,1,0
+615,LoveStoned / I Think She Knows - Tiësto Remix,"Justin Timberlake', 'Tiësto",0.745,0.681,5,-7.227,0,0.0434,0.000269,0.403,0.182,0.779,130.009,311373,4,6
+616,Presto: Violin Concerto in a minor,Georg Philipp Telemann,0.391,0.299,1,-16.328,1,0.0951,0.681,0.541,0.344,0.159,151.057,39533,4,7
+617,L'eternel Desir,"Philip Catherine', 'Martin Wind",0.378,0.147,7,-20.812,1,0.0567,0.904,0.916,0.111,0.157,65.77,97144,3,1
+618,"Symphony No. 19 in E-Flat Major, K. 132: IV. Allegro","Wolfgang Amadeus Mozart', 'Northern Chamber Orchestra', 'Nicholas Ward",0.397,0.113,3,-17.275,1,0.0347,0.988,0.923,0.104,0.33,105.985,260960,4,1
+619,Late At Night,The Subdudes,0.643,0.403,1,-11.254,0,0.41,0.343,0.0,0.138,0.111,98.54,174682,4,8
+620,"Sonata For Violin and Turntables, Part 1",Daniel Bernard Roumain,0.42,0.834,9,-5.977,0,0.0793,0.0954,0.537,0.0641,0.274,120.263,518920,4,3
+621,Big Iron,Jim Byrnes,0.726,0.474,1,-7.834,0,0.0491,0.803,0.0,0.258,0.57,116.027,235733,4,6
+622,Rosen für die Senorita,Die Flippers,0.567,0.889,8,-4.439,1,0.0413,0.3,2.04e-06,0.229,0.559,124.986,186573,5,4
+623,Shoulda' Known Better,Possessed by Paul James,0.562,0.819,7,-7.475,1,0.0621,0.575,0.0227,0.143,0.544,178.072,184960,4,4
+624,Reboot (SD-KRTR Remix),"""Humans Can't Reboot"", 'SD-KRTR",0.727,0.794,4,-5.317,0,0.0245,0.014,0.0,0.0971,0.339,95.002,161691,4,6
+625,Ladybug,MoShang,0.148,0.00215,2,-32.153,1,0.0372,0.98,0.816,0.095,0.0727,64.37,189500,4,1
+626,Fighting in the Dark - Cinema,Dna,0.462,0.632,8,-15.662,1,0.0827,0.0366,0.778,0.0831,0.0945,165.066,211240,3,3
+627,The Hornet's Nest,The Blake Robinson Synthetic Orchestra,0.591,0.764,2,-7.272,1,0.0286,1.83e-05,0.915,0.119,0.506,128.045,136021,4,3
+628,One Hour Mama,Saffire-The Uppity Blues Women,0.697,0.205,1,-10.698,1,0.0499,0.924,0.000338,0.119,0.494,85.002,322493,4,7
+629,Killing Games,Ike Moriz,0.783,0.322,6,-12.525,1,0.178,0.697,0.0,0.105,0.638,135.052,129000,4,7
+630,Madonna Whore,Cyndi Lauper,0.703,0.852,2,-3.883,0,0.0345,0.00314,2.34e-06,0.0775,0.615,113.969,191634,4,6
+631,Chase - Lupin Remix,"Lupin', 'Zyce & Flegma",0.592,0.879,6,-9.69,0,0.0509,0.00179,0.767,0.279,0.161,135.984,532487,4,3
+632,More,Aretha Franklin,0.62,0.869,6,-5.479,1,0.0462,0.615,0.0,0.131,0.597,126.019,216573,4,4
+633,I Wished on the Moon,Chris Connor,0.65,0.247,3,-12.112,1,0.0565,0.739,1.08e-06,0.238,0.527,122.924,208907,3,7
+634,Let's Talk About It 201,Topic626,0.561,0.721,11,-7.634,0,0.523,0.12,0.0,0.3,0.278,82.236,186265,4,8
+635,Goin' To Town,"Luis Russell', 'Albert Nicholas', 'Henry', 'J. C. Higginbotham', 'Charlie Holmes', 'George",0.577,0.827,9,-4.978,1,0.0497,0.00561,0.0183,0.0929,0.678,114.568,196960,4,4
+636,Laurie Ann,Chuck Pyle,0.617,0.697,3,-9.744,1,0.0545,0.813,0.527,0.327,0.901,165.57,165000,4,4
+637,Infidel,Final Stage,0.495,0.921,2,-5.694,1,0.12,0.000168,0.000929,0.0407,0.109,99.982,243525,4,4
+638,Saya Djangaro,Kaouding Cissoko,0.669,0.555,11,-14.424,0,0.0499,0.1,0.827,0.119,0.67,156.47,258200,4,3
+639,The Andyland Farm,Andy Z,0.751,0.401,7,-12.897,1,0.947,0.497,0.0,0.485,0.496,58.148,70467,4,8
+640,Haters Better Duck (SLABed),"Trae Tha Truth', 'Brandon', ""Jay'ton"", 'Raw-D', 'J-DUB', ""Lil' T"", 'Pimp Skinny', 'Dougie D', 'Lil B', 'Mouthpiece",0.826,0.643,1,-7.25,1,0.358,0.572,0.0,0.033,0.772,84.981,441987,4,8
+641,Dont Worry About Me,Songs To Your Eyes,0.533,0.597,5,-9.18,1,0.0368,0.0217,0.638,0.145,0.286,90.074,192589,4,3
+642,Buttaflybeat,Koushik,0.805,0.547,0,-11.403,1,0.0455,0.0457,0.696,0.199,0.852,111.249,61947,4,4
+643,About My Lighter,Lambchop,0.589,0.444,7,-12.707,1,0.0301,0.435,0.516,0.118,0.44,145.678,291453,4,3
+644,Hidden Track,69 Fingers,0.832,0.665,1,-8.524,1,0.155,0.171,0.00136,0.0808,0.421,93.526,119629,4,4
+645,Your Smiling Face,James Taylor,0.683,0.515,1,-10.932,1,0.0592,0.137,6.66e-06,0.0816,0.767,88.827,165400,4,4
+646,All I Used to Know,Think Again,0.722,0.597,4,-5.964,0,0.0264,0.174,0.183,0.181,0.389,103.975,166482,4,6
+647,On Christmas Night: Adam lay ybounden,"Bob Chilcott', 'Anonymous', 'Traditional', 'Josef Mohr', 'Cecil Frances Alexander', 'Theodore Baker', 'Catherine Winkworth', 'Phillips Brooks', 'John Freeman Young', 'Laurie Ashworth', 'Commotio', 'Alice James', 'Tim Elton', 'Tanya Houghton', 'Richard Pearce', 'Matthew Berry",0.17,0.0825,5,-21.072,1,0.0367,0.985,0.951,0.0725,0.105,77.414,105160,3,1
+648,Atlantic Limited,Julian Lage,0.592,0.345,7,-11.562,1,0.0306,0.606,0.921,0.1,0.369,128.119,231174,4,3
+649,Placeholder,Elliott Smith,0.416,0.969,2,-2.361,1,0.0611,0.0595,0.0,0.104,0.449,182.038,185733,4,4
+650,Just Like Today,Suzi Katz,0.517,0.183,0,-14.032,1,0.0317,0.899,0.00518,0.129,0.292,112.345,360840,4,7
+651,Christmas Party Shuffle - Instrumental,Lowell Fulson,0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+652,Heart and Mind,David Piltch,0.593,0.28,3,-9.318,1,0.0268,0.925,0.0867,0.106,0.155,139.935,221360,3,7
+653,Wings,Little Mix,0.656,0.33,8,-8.771,1,0.162,0.818,0.00386,0.107,0.349,119.057,250120,4,7
+654,The Great Paradox,space cadet,0.125,0.704,11,-10.44,0,0.118,0.789,0.602,0.47,0.156,59.985,329500,4,0
+655,Mon roman d'amour,Renée martel,0.463,0.144,2,-13.824,1,0.0322,0.833,0.000433,0.106,0.161,101.237,175726,4,7
+656,Stayed Down,Taco,0.63,0.639,11,-5.09,0,0.238,0.373,3.07e-06,0.289,0.307,128.016,165068,4,6
+657,Pathos! - Prologo,Argine,0.281,0.431,4,-8.11,0,0.0286,0.155,0.79,0.168,0.15,143.92,281840,3,3
+658,Places I've Been,Sam Webster,0.668,0.595,7,-11.024,1,0.0505,0.335,0.231,0.48,0.204,150.003,144092,4,0
+659,"Piano Sonata No. 1 in C Minor, Op. 4: III. Larghetto","Frédéric Chopin', 'Idil Biret",0.331,0.00337,8,-35.161,1,0.0426,0.991,0.931,0.0981,0.0809,127.705,258467,4,1
+660,Got the Feeling,Jeff Beck,0.677,0.819,0,-3.654,0,0.0304,0.0776,5.61e-05,0.0756,0.529,124.01,178912,4,6
+661,"Symphony No. 7, ""Delle canzoni"": III. Allegro impetuoso","Gian Francesco Malipiero', 'Moscow Symphony Orchestra', 'Antonio de Almeida",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+662,The Lure,Eleventh Dream Day,0.416,0.236,9,-16.198,1,0.0341,0.934,0.841,0.105,0.213,137.339,184793,4,1
+663,Tight And Long,"""Kevin O'Donnell's Quality Six""",0.494,0.946,4,-2.757,1,0.0637,0.00129,0.0,0.398,0.741,103.408,169027,4,4
+664,Medley Of Blues,Freeman Stowers,0.457,0.808,7,-6.221,1,0.0629,0.197,0.0,0.191,0.604,97.026,189010,3,4
+665,Turning Point,Trevor Morris,0.387,0.976,0,-4.145,0,0.0598,5.91e-05,0.0785,0.148,0.432,186.032,191973,4,6
+666,Cuban Link,ABG Neal,0.694,0.652,5,-8.751,1,0.296,0.248,0.0,0.0293,0.759,87.966,192183,4,8
+667,Viento (Interlude),Maluma,0.459,0.283,0,-10.026,0,0.17,0.889,0.0,0.112,0.48,138.298,162485,4,7
+668,"Wind Quintet in G Major, Op. 99 No. 6: III. Minuetto: Allegro","Antoine Reicha', 'Albert Schweitzer Quintet",0.443,0.113,7,-23.978,1,0.0474,0.994,0.891,0.192,0.182,144.12,237733,4,1
+669,Devil in the Details,Mike McNutt,0.656,0.741,4,-8.557,0,0.0464,0.534,0.00157,0.0953,0.292,128.137,246320,4,6
+670,Steel Hammer: Mountain,"Julia Wolfe', 'Bang On A Can All-Stars', 'Trio Mediæval",0.377,0.637,0,-10.486,0,0.0377,0.239,0.15,0.102,0.0475,129.931,530814,4,6
+671,Nobody Safe,24Heavy,0.881,0.677,1,-5.168,1,0.401,0.0568,0.0,0.12,0.159,109.362,140122,5,8
+672,Turnt Up,"Jipsta', 'Levonia Jenkins",0.87,0.58,1,-6.404,1,0.274,0.343,0.0,0.13,0.182,76.513,114078,4,8
+673,Benzodiabolic Suite No.2 Simplex Vs. Complex,Textual,0.458,0.868,4,-9.271,0,0.0592,0.648,0.562,0.313,0.505,119.992,143960,4,6
+674,My Sex My Violin,Ky,0.231,0.0547,1,-23.453,0,0.0509,0.989,0.000139,0.18,0.124,89.357,284373,4,1
+675,El Matador,Vallejo,0.561,0.901,4,-10.309,0,0.0732,0.0389,0.029,0.0558,0.631,193.559,274093,4,6
+676,Spoon River,"Percy Grainger', 'Moray Welsh', 'Philip Martin', 'Bournemouth Sinfonietta', 'Kenneth Montgomery",0.452,0.12,7,-22.611,0,0.0359,0.977,0.945,0.112,0.157,91.204,249960,4,1
+677,Quetzatl - adapto synchrono,Quetzatl,0.888,0.861,10,-9.252,0,0.248,0.325,0.5,0.152,0.641,136.089,234120,4,6
+678,Insidious Muckbubbles,"Bodhisattva 13:20', 'Konflux",0.591,0.923,9,-9.283,1,0.0362,2.31e-05,0.805,0.427,0.599,148.017,480000,4,3
+679,Somewhere Else Before,Esbjörn Svensson Trio,0.45,0.0674,0,-23.12,1,0.0301,0.877,0.388,0.11,0.0596,130.811,335693,4,7
+680,The Last Time - Demo Version,Within Temptation,0.489,0.863,2,-5.654,0,0.0304,3.65e-05,4.8e-06,0.279,0.374,99.016,270667,4,6
+681,Intro,Douleur2vivre,0.617,0.778,9,-8.872,0,0.027,0.459,0.925,0.128,0.152,100.363,127920,4,3
+682,The Business - Betamorphose Remix,XMH,0.549,0.969,7,-5.231,1,0.0674,2.13e-05,0.741,0.145,0.221,137.799,257741,4,3
+683,Answr,Allem Iversom,0.352,0.838,8,-6.465,0,0.0496,0.00329,5.74e-06,0.115,0.475,72.291,230067,4,6
+684,3 Ballades de François Villon: I. Faulse beauté qui tant me coûte cher,"Claude Debussy', 'Stephen Lancaster', 'Martin Katz",0.322,0.185,2,-15.772,1,0.0674,0.984,0.000207,0.0881,0.108,82.693,251293,3,7
+685,J'veux m'en r'tourner Chez nous ( Alcohol...),Plume Latraverse,0.413,0.516,0,-7.211,1,0.0352,0.841,0.0,0.131,0.341,148.316,181533,4,7
+686,I Guess I've Been Dreaming Again,Spade Cooley,0.514,0.25,10,-14.415,1,0.0371,0.93,0.101,0.308,0.834,166.991,153067,4,7
+687,Exotique,The Tikiyaki Orchestra,0.497,0.274,4,-18.01,0,0.0702,0.633,0.758,0.114,0.764,84.803,257933,4,3
+688,Mirrors,Zavala,0.574,0.512,5,-6.664,0,0.0503,0.234,0.0,0.0946,0.512,76.899,484147,4,6
+689,Nun komm der Heiden Heiland,"Dietrich Buxtehude', 'Joseph Payne",0.156,0.0266,7,-28.661,0,0.0373,0.988,0.945,0.148,0.2,65.703,57267,4,1
+690,"Julebudet til dem, der bygge (The Christmas message) (arr. B. Holten)","Bo Holten', 'Johann Peter Emilius Hartmann', 'Musica Ficta",0.205,0.152,4,-24.375,1,0.0578,0.993,0.000417,0.217,0.117,72.761,162000,1,1
+691,The Scythe Pendulum Swing,Dizzy Mystics,0.568,0.812,7,-7.156,1,0.0323,0.000541,0.236,0.135,0.413,92.059,453267,4,4
+692,Missionary Man,"Eurythmics', 'Annie Lennox', 'Dave Stewart",0.607,0.807,1,-5.191,1,0.036,0.00427,0.000967,0.124,0.413,128.008,222840,4,4
+693,ONCE UPON A DECEMBER,Jackie Evancho,0.166,0.288,11,-12.45,0,0.0389,0.917,1.89e-05,0.0889,0.0748,174.166,179840,4,7
+694,Happy Xmas (War Is Over) (feat. Sean Ono Lennon),"Miley Cyrus', 'Mark Ronson', 'Sean Ono Lennon",0.284,0.637,9,-4.893,1,0.0486,0.0626,0.0,0.371,0.197,92.045,220589,4,4
+695,Rae's Ring,Mike McCready,0.787,0.882,6,-4.518,0,0.297,0.0337,0.0,0.0559,0.504,103.72,320200,4,8
+696,"Symphony No. 9 In D Minor, WAB 109: I. Feierlich, Misterioso - 1894 Version","Anton Bruckner', 'Royal Scottish National Orchestra",0.0774,0.233,2,-14.268,0,0.0379,0.904,0.878,0.131,0.0371,70.349,1302840,3,1
+697,Family Meeting (Bonus Track),Marah,0.422,0.634,2,-6.316,1,0.0294,0.518,3.04e-05,0.353,0.435,87.886,123853,4,4
+698,O Eleanor,Demander,0.18,0.0545,0,-28.084,1,0.0312,0.981,0.962,0.0894,0.0506,71.586,231116,4,1
+699,Unifunk (It's Time),Blindstone,0.341,0.876,11,-4.679,0,0.178,0.0646,0.0,0.178,0.776,169.91,304747,4,6
+700,Beyond The Beyond (Heart Of Perfect Wisdom),Robert Gass & On Wings Of Song,0.103,0.126,2,-20.736,1,0.0423,0.508,0.946,0.0749,0.0356,90.734,442360,3,1
+701,"The Nutcracker, Op. 71a: Act II, No. 12d, Trepak - Russian Dance",The Invincible Czars,0.489,0.606,7,-12.734,1,0.0518,0.424,0.0566,0.421,0.971,86.847,60600,4,4
+702,"Lullaby, Lullaby",Connie Kaldor,0.699,0.0134,2,-18.066,1,0.0538,0.995,0.921,0.102,0.591,70.321,101382,3,1
+703,Remember The Poor Tramp Has To Live,Ernest V. Stoneman,0.527,0.228,0,-11.41,1,0.0368,0.892,1.48e-05,0.0911,0.596,140.927,216520,4,7
+704,1000 - Instrumental,"Jay Jiggy', 'INBEATABLES",0.656,0.101,7,-22.844,1,0.089,0.853,0.764,0.104,0.5,143.93,254854,4,1
+705,"2nd Perception of Light, Moon, Mist and Rainbow","Philip Glass', 'DJ Esp",0.635,0.996,7,-6.386,1,0.0589,4.5e-05,0.929,0.0486,0.797,133.318,432253,4,3
+706,Reese Witherspoon Poops,The Toilet Bowl Cleaners,0.554,0.24,0,-10.493,1,0.0667,0.873,0.000274,0.148,0.161,72.431,133200,4,7
+707,I Want You (Original Version) - 2020 Remaster,Modoc,0.454,0.852,9,-7.783,1,0.0377,0.00634,0.000206,0.365,0.424,140.053,174253,3,4
+708,Inside,Chomsky,0.483,0.818,11,-7.666,1,0.0444,0.114,0.0,0.367,0.691,175.668,219467,4,4
+709,Slow Dance (feat. Olivia Olson),"Adventure Time', 'Olivia Olson",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+710,Peculiar Hop,Rick Holmstrom,0.663,0.482,4,-11.288,0,0.0385,0.28,0.873,0.152,0.439,109.996,139020,4,3
+711,Hold On,Sisters of Unbreakable love S.O.U.L,0.618,0.443,2,-9.681,1,0.0526,0.469,0.0,0.0829,0.167,119.949,198853,4,7
+712,Rainer,Jack Hardy,0.38,0.726,9,-6.303,0,0.0653,0.154,0.0142,0.0712,0.259,154.034,246234,4,6
+713,Higher (Live),Alphawaves,0.693,0.678,8,-7.159,1,0.0324,0.0151,5.71e-06,0.101,0.404,103.952,228267,4,4
+714,Radiant Shaking Leaves,Laura Cannell,0.122,0.159,9,-14.123,0,0.0458,0.995,0.964,0.0407,0.139,81.55,368073,4,1
+715,New Orleans,The Strangeloves,0.639,0.815,11,-4.962,0,0.252,0.232,0.0,0.299,0.4,159.903,243280,4,6
+716,The Abandoned Orchestra: Plumescent,Alexander Berne,0.259,0.286,1,-19.098,1,0.0435,0.862,0.697,0.0455,0.0323,137.846,394933,1,1
+717,History Has Its Eyes On You,John Legend,0.438,0.373,0,-9.769,0,0.0291,0.803,0.0,0.123,0.274,77.415,97050,4,7
+718,"String Quartet No. 15 in D Minor, K. 421: I. Allegro","Wolfgang Amadeus Mozart', 'Eder Quartet",0.284,0.0568,2,-22.006,0,0.0408,0.907,0.173,0.0663,0.311,181.45,317880,4,7
+719,One & Only (Live 1993),Ynot?!,0.548,0.924,11,-6.249,0,0.09,0.566,2.44e-06,0.824,0.779,111.247,245573,4,0
+720,"Sonata in C Major for Bassoon & Continuo, FaWV N:C1: IV. Allegro assai","Johann Friedrich Fasch', 'Mathieu Lussier', 'Amanda Keesmaat', 'Sylvain Bergeron', 'Mélisande Mcnabney",0.399,0.0978,6,-29.738,1,0.0425,0.996,0.902,0.0845,0.809,168.265,233693,3,1
+721,Дендрарий,"ПОЕХАЛИ', 'dj cat",0.938,0.473,4,-13.28,0,0.274,0.604,0.00705,0.299,0.591,119.929,146542,4,8
+722,"Les euménides, Op. 41, Act III: Act III: Ouverture","Darius Milhaud', 'University of Michigan Percussion Ensemble', 'University of Michigan Symphony Orchestra', 'Kenneth Kiesler",0.0657,0.161,5,-25.495,0,0.0438,0.839,0.959,0.597,0.0381,65.1,397480,4,1
+723,"4 Romantic Pieces, Op. 75, B. 150: No. 2. Allegro maestoso","Antonín Dvořák', 'Ivan Zenaty', 'Antonin Kubalek",0.512,0.207,2,-22.144,0,0.0371,0.961,0.0788,0.301,0.566,109.713,146339,4,7
+724,Kimpa kisangameni,"Franco', 'TPOK Jazz",0.614,0.67,10,-11.45,1,0.24,0.57,3.03e-06,0.239,0.901,115.984,607667,4,8
+725,I Am the Earth,Lower Dens,0.0585,0.978,9,-3.674,1,0.131,1.53e-06,0.0146,0.279,0.0395,53.402,365480,4,4
+726,Coming Down,The Love X Nowhere,0.305,0.991,1,-2.927,0,0.488,0.000619,0.0,0.11,0.187,76.374,241227,4,8
+727,"Well, My Heart",Wolf Krakowski,0.0723,0.254,11,-20.045,0,0.0363,0.909,0.946,0.114,0.04,77.435,193825,4,1
+728,The Language Of Love,Rick Springfield,0.644,0.651,2,-6.319,1,0.0294,0.0963,0.000638,0.353,0.906,122.454,224707,4,4
+729,What's the Meaning of This Magic?,Day Laborers & Petty Intellectuals,0.482,0.963,2,-2.042,0,0.0981,0.000639,0.000154,0.311,0.295,93.927,237733,4,6
+730,Little Girl,H-Blockx,0.769,0.619,11,-4.403,0,0.0423,0.115,0.0,0.112,0.796,113.961,137800,4,6
+731,Lay Me Down,Meniketti,0.468,0.19,4,-11.138,1,0.0373,0.919,0.0,0.107,0.326,125.319,219536,4,7
+732,Angels (version for 6 trumpets),"Carl Ruggles', 'Studio Brass Ensemble', 'Michael Tilson Thomas",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+733,For Sure,Future Islands,0.587,0.766,10,-5.735,1,0.0305,0.0406,0.249,0.0833,0.758,134.977,205246,4,4
+734,Run-ra,SGNL_FLTR,0.552,0.587,7,-7.374,1,0.217,0.031,7.09e-06,0.136,0.484,139.136,244376,4,4
+735,Zombie - GMS Remix,"Juno Reactor', 'GMS",0.665,0.876,7,-7.691,1,0.0477,0.000722,0.82,0.657,0.0977,135.008,412500,4,0
+736,Luv Beast,Abel Mouton,0.551,0.955,11,-5.756,0,0.0781,0.00478,5.48e-05,0.503,0.351,139.091,227680,4,6
+737,Skin and Bone,The Mercators,0.539,0.788,9,-3.227,0,0.0396,0.0089,0.0,0.29,0.357,159.986,196173,4,6
+738,Red Gal,The Stairwell Sisters,0.732,0.768,6,-8.396,0,0.0557,0.0304,0.371,0.125,0.194,118.029,156229,4,6
+739,Kno The Meaning,Future,0.875,0.381,5,-7.176,0,0.379,0.207,4.87e-06,0.104,0.318,100.014,225213,4,8
+740,This Is What You Wanted,Mesh,0.612,0.942,7,-4.549,1,0.0568,0.016,0.0,0.137,0.807,106.57,209347,4,4
+741,Our Luv,Blake Baxter,0.574,0.764,1,-5.286,1,0.0344,0.104,5.03e-06,0.107,0.621,105.823,218249,4,4
+742,Sloppy Drunk Blues,Sonny Boy Williamson I,0.528,0.0716,8,-13.083,1,0.0494,0.992,1.15e-05,0.125,0.338,141.709,195973,3,7
+743,Collie Herb,Horace Andy,0.797,0.52,8,-6.444,0,0.104,0.303,2.68e-05,0.224,0.933,148.044,190680,4,6
+744,Emmott's Song,Bella Hardy,0.86,0.225,2,-8.261,0,0.0745,0.564,3.46e-06,0.107,0.724,117.669,194333,4,6
+745,Crepuscule with Nellie,Esbjörn Svensson Trio,0.557,0.0861,3,-14.155,1,0.0431,0.963,0.846,0.136,0.237,105.06,230188,4,1
+746,Florida,"Diana Braithwaite', 'Chris Whiteley",0.157,0.523,5,-28.309,0,0.0666,0.0027,0.764,0.0936,0.0384,89.925,175314,3,1
+747,Qohelet - Audiotree Live Version,Rosetta,0.271,0.743,8,-7.362,1,0.032,0.000526,0.543,0.664,0.0423,111.346,446475,3,0
+748,Breathe Again - Reprise,Toni Braxton,0.552,0.345,5,-13.102,1,0.0396,0.69,0.0,0.177,0.286,153.702,76667,4,7
+749,Yolanda,Orquesta San Lucas,0.495,0.639,0,-11.488,0,0.128,0.146,1.46e-05,0.358,0.733,165.278,184285,4,6
+750,120 Over 80,Cruciform Injection,0.384,0.545,7,-12.89,1,0.0315,0.36,0.849,0.108,0.268,117.67,456084,4,3
+751,Wein nicht um mich Argentinien,Helen Schneider,0.346,0.148,0,-12.807,1,0.0299,0.857,1.88e-06,0.158,0.112,93.317,238907,4,7
+752,Jingle Holiday,Stephen Bishop,0.629,0.657,4,-7.771,1,0.0313,0.169,2.74e-05,0.454,0.603,120.013,142893,4,4
+753,Sleep Of The Black Lotus,Wo Fat,0.192,0.868,5,-7.635,1,0.0671,3.23e-05,0.787,0.0917,0.104,126.25,614293,4,3
+754,Adamante Notare,Aornos,0.166,0.507,1,-4.206,1,0.0646,2.3e-06,0.914,0.378,0.0585,117.59,437841,4,3
+755,Bean Time,Leo Kottke,0.691,0.895,9,-5.926,0,0.0462,0.0266,0.723,0.353,0.305,128.021,222187,4,3
+756,Hipocresía,Marc Anthony,0.646,0.807,11,-3.993,0,0.0316,0.591,0.0,0.029,0.848,96.426,271707,4,6
+757,See You Soon,Blackberry Breeze,0.369,0.295,4,-12.779,1,0.0351,0.657,1.54e-05,0.107,0.211,92.226,171373,4,7
+758,"Klarinettenkonzert A-Dur, K. 622: 2. Adagio (Jenseits von Afrika): Clarinet Concerto in A Major, K. 622: II. Adagio","Wolfgang Amadeus Mozart', 'Ernst Ottensamer', 'Vienna Mozart Orchestra', 'Johannes Wildner",0.1,0.00784,2,-26.228,1,0.0453,0.98,0.0295,0.0938,0.0651,89.504,439533,4,1
+759,Georgia Time,Charlotte Park Rangers,0.594,0.621,6,-6.23,1,0.0274,0.0403,0.0,0.117,0.679,77.005,221200,4,4
+760,Lush Life,"Billy Strayhorn', 'Meridian Arts Ensemble",0.694,0.712,7,-3.923,0,0.046,0.132,0.0,0.211,0.799,98.023,201122,4,6
+761,The Lifespan Of A Glimpse,Subsignal,0.569,0.876,7,-5.618,1,0.0397,0.00404,7.93e-05,0.624,0.436,109.947,371400,4,0
+762,Let Me Down Easy,Chris Isaak,0.606,0.497,1,-5.005,1,0.0278,0.361,0.0,0.106,0.18,125.059,228493,4,4
+763,Long Way From Everything,The Nimmo Brothers,0.321,0.624,5,-10.666,1,0.0258,0.119,0.773,0.43,0.284,129.198,470589,4,3
+764,It's the Things You Do,"Five', 'Tim Lever', 'Michael Percy",0.659,0.751,8,-5.783,0,0.032,0.128,0.0,0.334,0.921,94.02,216107,4,6
+765,Honeysuckle,Brother JT,0.474,0.455,2,-10.467,1,0.0283,0.318,0.00558,0.141,0.402,149.93,223963,4,4
+766,Crash Upon Your Shore,Alfie Smith,0.685,0.307,0,-17.283,1,0.0305,0.797,0.28,0.0988,0.559,114.981,266194,4,7
+767,Kitty's Rambles - Dan the Cobbler : Jigs,Jimmy Power,0.551,0.591,6,-11.692,1,0.285,0.917,0.837,0.385,0.924,120.531,140667,4,8
+768,Takes Two,Anders Osborne,0.59,0.345,7,-11.072,0,0.0654,0.607,0.000577,0.104,0.172,94.012,225960,4,6
+769,Moth 19,Mick Turner,0.278,0.00448,1,-32.897,1,0.0528,0.993,0.926,0.0579,0.0391,70.871,333707,1,1
+770,Greeting Prelude (for the Eightieth Birthday of Pierre Monteux),"Igor Stravinsky', 'Michael Tilson Thomas",0.537,0.114,7,-19.032,1,0.0372,0.984,0.763,0.29,0.722,111.017,49598,3,1
+771,Never Scared (feat. Juice WRLD),"G Herbo', 'Juice WRLD",0.515,0.742,1,-5.941,1,0.212,0.0599,1.54e-06,0.107,0.145,81.968,200490,4,4
+772,This Planet Belongs to Us,Tarek Mansur,0.402,0.677,5,-9.844,0,0.0284,0.00114,0.0,0.0908,0.303,79.976,140284,4,6
+773,Do You,Koven,0.306,0.121,0,-15.551,0,0.0554,0.85,0.000176,0.257,0.166,174.053,206507,4,7
+774,Woke Up This Morning,Ken Whiteley,0.616,0.806,1,-7.427,1,0.0722,0.083,1.57e-05,0.938,0.443,89.414,249240,4,0
+775,Le roi Lear (orch. J. Roger-Ducasse): Fanfare d'ouverture,"Jean Roger-Ducasse', 'Claude Debussy', 'Orchestre National De Lyon', 'Jun Markl",0.223,0.0584,0,-19.554,1,0.0414,0.989,0.902,0.0688,0.272,73.616,96640,1,1
+776,They Can't Take that Away from Me: Shall We Dance: They Can't Take that Away from Me,"Theo Bleckmann', 'Barbara Walker', 'Uri Caine Ensemble",0.278,0.0198,8,-20.58,1,0.0413,0.991,0.857,0.0742,0.0805,63.647,336000,4,1
+777,Toccata in G Minor (Turin manuscript),"Girolamo Frescobaldi', 'Martha Folts",0.252,0.357,1,-17.694,0,0.0349,0.918,0.484,0.0711,0.422,79.02,240827,3,1
+778,Ang Pasko'y Ipagdiwang,Fred Larosa & Reycard,0.561,0.361,6,-8.438,1,0.0268,0.794,0.0,0.0992,0.393,144.818,164354,3,7
+779,The Teacher And The Pupils,"Yoyoy Villame', 'The Village Angels",0.826,0.731,2,-6.889,1,0.153,0.634,0.0,0.0693,0.902,108.673,198267,4,4
+780,Spiritual Riddim,Sarz,0.815,0.383,0,-10.646,0,0.159,0.0067,0.559,0.0474,0.618,138.361,239667,4,6
+781,If I Could Change Your Mind,Sloan,0.671,0.85,2,-5.557,0,0.0426,0.0183,9.82e-05,0.0766,0.736,125.004,229373,4,6
+782,Box of Life,Moths,0.245,0.177,7,-19.837,1,0.0543,0.833,0.936,0.0992,0.0395,144.251,164504,4,1
+783,No Rest For the Wicked,The Man From RavCon,0.636,0.849,0,-7.075,1,0.106,0.0438,0.0,0.372,0.917,156.036,175493,4,4
+784,Rise of the Salmon,µ-Ziq,0.202,0.381,6,-7.869,0,0.039,0.000158,0.886,0.294,0.153,99.478,232547,4,3
+785,Cry!,Caroline Rose,0.957,0.437,11,-7.882,1,0.359,0.00402,0.0,0.219,0.616,130.058,137984,4,8
+786,Hit List,Grandmaster Mele Mel,0.71,0.696,2,-2.895,0,0.458,0.464,3.7e-06,0.274,0.773,139.892,207426,4,8
+787,Nuclear Nights,Impalers,0.618,0.754,1,-8.907,1,0.0333,0.0325,3.01e-06,0.224,0.48,122.001,268640,4,4
+788,Summer's Gone,American Blackout,0.599,0.585,9,-10.076,1,0.0554,0.108,0.000982,0.121,0.177,145.933,213699,4,4
+789,Ooh La La,"Prozzak', 'Wackyboyz', 'Catey Shaw",0.601,0.574,2,-8.166,1,0.03,0.579,1.14e-05,0.216,0.8,147.964,214080,4,4
+790,Aufwärts,Traumhaus,0.644,0.473,4,-17.917,0,0.0887,0.988,0.932,0.0749,0.32,124.973,218880,4,3
+791,Acquanetta (Chamber Version): Beautiful Monster,"Michael Gordon', 'Deborah Artman', 'Mikaela Bennett', 'Choir of Trinity Wall Street', 'Bang on a Can Opera Ensemble', 'Daniela Candillari",0.377,0.356,2,-10.869,0,0.0299,0.406,0.000126,0.184,0.104,117.97,639360,3,7
+792,The Last Farewell,Roger Whittaker,0.452,0.344,8,-13.903,1,0.0315,0.213,0.03,0.115,0.459,90.101,220600,4,7
+793,Astral Annihilation,Unleash The Archers,0.217,0.976,9,-4.432,0,0.221,0.000141,0.0169,0.185,0.24,74.96,263213,4,6
+794,Enviro-Girl,Corky and the Juice Pigs,0.56,0.821,4,-9.024,1,0.0976,0.449,1.76e-06,0.436,0.961,148.251,153560,4,4
+795,Horseman Outro,Richard Webb,0.718,0.466,1,-5.831,0,0.0681,0.482,2.29e-05,0.105,0.437,180.021,176039,4,6
+796,"Piano Sonata in G Minor, Op. 3: II. Pastorale: Allegro grazioso quasi andantino","Harald Sæverud', 'Einar Steen-Nøkleberg",0.368,0.02,3,-27.442,0,0.05,0.994,0.875,0.0922,0.0394,78.635,314747,3,1
+797,Praise and Worship,Liv.e,0.656,0.101,7,-22.844,1,0.089,0.853,0.764,0.104,0.5,143.93,254854,4,1
+798,Hot (feat. Celph Titled & Apathy),"Cunninlynguists', 'Celph Titled', 'Apathy",0.8,0.65,1,-7.804,1,0.212,0.131,0.0,0.466,0.829,87.984,179265,4,8
+799,Horseshoe/ Divorce You,The Fat Man and Team Fat,0.626,0.779,8,-6.626,0,0.0671,0.0166,0.0,0.0505,0.921,91.558,169506,4,6
+800,The Cuckoo,Michael J. Miles,0.326,0.963,5,-29.906,1,0.585,0.926,0.86,0.986,0.0315,116.92,69070,3,0
+801,Stuck in My Ways - Remix,Krayzie Bone,0.701,0.596,9,-11.276,1,0.0858,0.198,0.0,0.192,0.728,84.029,228571,4,4
+802,Mi Amigo Nacho - Remastered,Chava Flores,0.678,0.242,0,-11.653,1,0.395,0.566,0.0,0.335,0.609,140.84,172107,4,8
+803,L'assaut des regards,Kyo,0.369,0.569,9,-11.383,0,0.0532,0.00266,0.000881,0.657,0.137,130.473,326760,4,0
+804,I Won't Lie to You,"""Let's Wrestle""",0.907,0.0804,1,-13.066,1,0.103,0.776,0.162,0.105,0.75,140.093,109725,4,7
+805,Negrita,Edmar Castañeda,0.6,0.616,1,-6.97,1,0.0528,0.229,0.0,0.148,0.873,180.296,247453,4,4
+806,All There Is,Area,0.58,0.158,4,-12.236,1,0.038,0.865,0.00068,0.0984,0.163,131.957,142667,4,7
+807,Miracle Man,AWOLNATION,0.67,0.477,0,-7.774,1,0.0308,0.0932,0.0,0.414,0.662,140.029,125052,4,4
+808,Free Fall,Ziminy,0.623,0.449,5,-13.333,1,0.0253,0.212,0.0,0.0613,0.572,84.383,256000,4,4
+809,Rich Daddy,Dicks,0.869,0.59,11,-8.214,1,0.257,0.07,0.0,0.236,0.479,107.934,151147,4,8
+810,Elena Mi Chilena,Pedro Torres,0.796,0.661,4,-3.215,0,0.0624,0.713,1.49e-06,0.124,0.931,142.603,313693,3,6
+811,C'est ça le fun!?,CEA,0.23,0.131,4,-16.184,1,0.0381,0.814,0.0044,0.162,0.117,71.458,209787,4,7
+812,Gimme More - Paul van Dyk Club - Radio Edit,"Britney Spears', 'Paul van Dyk",0.675,0.892,10,-4.744,0,0.046,0.00555,0.729,0.204,0.273,132.004,222987,4,3
+813,Overcast,David Picco,0.611,0.0581,6,-26.075,0,0.0441,0.837,0.51,0.0944,0.122,74.0,120000,4,1
+814,Pesa position na yo,"Franco', 'TPOK Jazz",0.509,0.71,7,-10.527,1,0.193,0.16,3.63e-06,0.253,0.708,123.554,561747,4,4
+815,Passage Of Time,Elmer Bernstein,0.406,0.0467,4,-22.085,0,0.0327,0.963,0.719,0.0784,0.19,93.661,152107,4,1
+816,Don't Leave Me Now,Elvis Presley,0.324,0.11,9,-19.78,0,0.0351,0.0847,0.777,0.621,0.0393,123.534,255934,3,0
+817,Brand New Pack,Eric Straumanis,0.875,0.658,0,-3.641,1,0.359,0.275,0.0,0.122,0.661,92.038,274093,4,8
+818,Things Might Never Be the Same Again,Pete Roe,0.647,0.575,2,-8.741,1,0.0425,0.0178,0.000682,0.0951,0.905,110.106,102178,4,4
+819,Bring Back The Time When (If),Keith Jarrett,0.415,0.465,0,-13.836,0,0.0335,0.257,0.316,0.157,0.453,108.425,589693,4,6
+820,"Serenade No. 4, Op. 28: IV. Capriccio","Vincent Persichetti', 'Hasse Borup', 'Heather Conner",0.429,0.287,2,-18.401,0,0.0382,0.987,0.898,0.0982,0.605,156.692,86267,4,1
+821,Haunted Head,Kid Congo & the Pink Monkey Birds,0.495,0.672,9,-6.185,1,0.0288,0.0212,3.89e-06,0.158,0.842,201.915,289000,4,4
+822,"Come Ye Sons of Art, Away: Sound the Trumpet",Dream Baby,0.552,0.246,1,-17.754,1,0.0353,0.96,0.0,0.0707,0.58,104.374,147027,4,7
+823,Times Square,Chris Staples,0.483,0.373,3,-9.325,1,0.124,0.922,1.23e-05,0.108,0.358,93.934,198474,4,7
+824,Yield - EP Version,People Under The Stairs,0.832,0.793,11,-7.796,0,0.192,0.339,5.72e-06,0.0741,0.769,95.128,223643,4,6
+825,Eklabati,"Deborah Martin', 'Cheryl Gallagher",0.167,0.654,5,-16.527,1,0.456,0.57,0.892,0.772,0.0838,147.87,381267,3,0
+826,Song of the Siren,Third Eye Blind,0.522,0.668,7,-4.971,1,0.04,0.269,0.0,0.238,0.357,117.842,226127,3,4
+827,Would I Lie to You? - ET Mix,"Eurythmics', 'Annie Lennox', 'Dave Stewart",0.512,0.963,2,-4.164,1,0.0525,0.00934,0.00377,0.291,0.713,132.197,294773,4,4
+828,Balulalow,"James Burton', ""Choir of St. John's College, Cambridge"", 'Andrew Nethsingha",0.181,0.0607,2,-25.486,1,0.0518,0.995,0.806,0.0906,0.0365,136.937,133213,1,1
+829,Ferry Me Over,Andy M. Stewart,0.306,0.205,0,-11.794,1,0.0275,0.582,0.000625,0.129,0.218,85.038,265467,4,7
+830,Snowfell Summer,Madigan,0.517,0.81,2,-3.914,1,0.094,0.121,7.82e-05,0.0804,0.523,153.81,270307,4,4
+831,The Check In,EMC,0.492,0.792,7,-7.676,1,0.0357,0.0748,0.802,0.181,0.502,112.078,340947,4,3
+832,"Mazurka No. 14 in G Minor, Op. 24, No. 1","Frédéric Chopin', 'Idil Biret",0.402,0.0125,7,-29.286,0,0.0498,0.995,0.894,0.0549,0.0741,69.975,184307,4,1
+833,Romantic Journey - Remastered,Norman Connors,0.686,0.73,9,-8.938,0,0.0565,0.0227,0.0025,0.0587,0.845,115.693,349667,4,6
+834,Sidewinder,7 Minutes Dead,0.537,0.953,2,-4.335,0,0.0654,0.00184,3.53e-05,0.334,0.397,123.163,421653,4,6
+835,Week-end - Live,Lorie,0.816,0.888,5,-8.482,0,0.065,0.000342,0.748,0.175,0.619,126.026,80239,4,6
+836,In The Sunshine (apres Beach Mix),Sunburn In Cyprus,0.58,0.897,2,-7.878,1,0.0787,0.192,0.357,0.131,0.528,192.098,305040,4,4
+837,All The Little Lights Going Out,The Village Orchestra,0.62,0.53,7,-13.114,1,0.0507,0.634,0.662,0.0916,0.466,112.006,490480,4,3
+838,Cara de Pizza,Cuca,0.383,0.962,8,-7.526,1,0.285,0.01,2.85e-06,0.227,0.361,183.989,213467,4,8
+839,St James Infirmary,Tripdavon,0.718,0.348,5,-10.751,0,0.131,0.889,0.0507,0.193,0.703,117.347,183400,4,6
+840,Friday,No Bird Sing,0.824,0.862,2,-3.424,1,0.126,0.0076,0.000132,0.303,0.801,122.98,169153,4,4
+841,Boys Of Summer,Codeseven,0.516,0.549,6,-13.741,1,0.0373,0.501,0.00572,0.184,0.907,176.941,288733,4,4
+842,Heaven's on Fire,Kelly Jones,0.679,0.866,0,-6.053,1,0.0635,0.00376,3.1e-05,0.312,0.785,124.324,201400,4,4
+843,Come Back Home,Carly Simon,0.598,0.559,5,-5.835,1,0.0387,0.019,0.0,0.17,0.19,122.066,179853,4,4
+844,Responsorium II: Et apertis thesauris suis (Chorus),"Francisco Courcelle', 'Tamara Matthews', 'Scot R. Cameron', 'Eduardo Santamaria', 'Gregorio Poblador Fuente', 'Madrid Barroco', 'Grover Wilkins",0.25,0.164,11,-17.709,1,0.0326,0.933,0.895,0.145,0.513,91.694,99693,4,1
+845,Bad Dog,Stephen Bennett,0.4,0.976,9,-6.113,0,0.156,0.00532,0.688,0.22,0.422,164.656,250360,4,3
+846,La Grange,Yo La Tengo,0.545,0.64,4,-9.937,0,0.224,0.00249,0.0304,0.196,0.606,80.544,230480,4,6
+847,Caravan/Kni Im Balig (Caravan/Sleep My Child),Djivan Gasparyan,0.141,0.0932,0,-18.9,1,0.0464,0.993,0.93,0.117,0.0778,92.575,199680,3,1
+848,Pathetic Oasis,Pierrot Lunaire,0.131,0.939,6,-6.798,0,0.453,0.99,0.251,0.0969,0.158,76.793,690621,4,8
+849,Stigmata 2010,Amgod,0.571,0.772,1,-11.156,0,0.0281,0.00247,0.782,0.107,0.36,119.99,469867,4,3
+850,Think of Me,Paula Frazer,0.349,0.101,3,-20.304,1,0.0387,0.943,0.0,0.0798,0.306,100.857,220827,3,7
+851,Ramling Gambling Rag,"The Masters', 'Eddie Adcock",0.49,0.785,2,-8.562,1,0.0372,0.163,0.942,0.307,0.94,119.102,153400,4,3
+852,Volvamos Otra Vez,Juan Gabriel,0.394,0.238,8,-13.303,1,0.0298,0.568,0.0,0.0953,0.174,179.375,183733,4,7
+853,Sister Ray,Mike Rep and the Quotas,0.635,0.873,5,-5.403,0,0.0412,0.0229,1.33e-06,0.0693,0.575,123.037,219866,4,6
+854,Broken from the Start,Dropkick,0.244,0.582,11,-7.171,1,0.0817,0.0727,0.00216,0.143,0.178,139.784,318857,4,4
+855,La Cancion De Manuel,Gabrielle Roth & The Mirrors,0.284,0.359,0,-9.496,1,0.0298,0.886,0.101,0.145,0.318,112.683,88467,3,7
+856,Tapwire,The Swiss Army,0.453,0.171,10,-13.355,0,0.0604,0.921,0.0129,0.0988,0.104,183.855,249192,4,7
+857,Why,Sébastien Izambard,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,161124,4,4
+858,The Man Most Likely,Morton Valence,0.312,0.929,7,-6.791,1,0.046,3.06e-06,0.766,0.17,0.617,102.774,171440,4,3
+859,Get You Somebody New (feat. Patti LaBelle),"LaBelle', 'Patti LaBelle",0.544,0.842,11,-12.431,0,0.106,0.088,0.00157,0.288,0.806,102.892,368627,4,6
+860,6/20 Song,Dan Israel,0.616,0.28,9,-9.707,1,0.0277,0.658,0.0,0.102,0.136,72.07,242933,4,7
+861,Cloud IX (feat. Mookie Da 1),Hydro,0.214,0.922,4,-4.422,0,0.189,0.161,0.0,0.772,0.644,92.395,179618,4,0
+862,The Zahir,Vaura,0.836,0.662,11,-4.189,0,0.0381,0.109,0.181,0.332,0.328,98.016,168646,4,6
+863,We Shall Walk Through The Valley,Long John Baldry,0.167,0.0193,3,-31.271,1,0.0417,0.993,0.708,0.0796,0.0627,128.984,224960,3,1
+864,Would You?,Amber Pacific,0.605,0.864,6,-5.365,1,0.0292,0.13,0.000827,0.113,0.736,122.918,228187,4,4
+865,"4 Lieder, Op. 100: No. 2, Lob des Frühlings","Felix Mendelssohn', 'MDR Leipzig Radio Chorus', 'Horst Neumann",0.405,0.0664,9,-21.482,1,0.0456,0.996,0.0291,0.106,0.296,74.15,79000,4,7
+866,"Got's 2 Be Everything (featuring Lil Flex, Lil James, DenDen & Solo-D) (feat. C-Nile & Solo-D)","Yungstar', 'C-Nile', 'Solo D",0.718,0.544,4,-7.53,0,0.405,0.403,0.0,0.204,0.39,172.072,286053,4,8
+867,Voracious Souls,Death Angel,0.192,0.988,7,-2.681,1,0.262,2.29e-05,8.82e-06,0.219,0.181,162.068,339000,4,8
+868,What'cha Gonna Do 'Bout Me #2,James Harman,0.707,0.763,10,-6.086,0,0.0505,0.679,0.0192,0.221,0.797,99.247,279387,4,6
+869,"Violin Partita No. 3 in E Major, BWV 1006: IV. Menuett I","Johann Sebastian Bach', 'Christiane Edinger",0.366,0.146,1,-16.933,0,0.0483,0.989,0.0158,0.0995,0.591,112.672,113333,3,7
+870,Get on Your Feet,Gloria Estefan,0.724,0.779,9,-10.036,1,0.037,0.102,0.00152,0.129,0.93,123.934,218133,4,4
+871,Angel,Modern Meditations,0.74,0.766,6,-2.939,1,0.178,0.116,0.0,0.0406,0.807,170.531,235133,4,4
+872,ユーティー,YELLOW MAGIC ORCHESTRA,0.591,0.93,7,-7.191,1,0.0706,0.00129,0.704,0.124,0.515,136.975,273827,4,3
+873,4 O'Clock Blues,Skip James,0.514,0.706,7,-10.112,0,0.0864,0.341,0.0396,0.988,0.654,134.328,891427,3,0
+874,Le décompte,Urbain Desbois,0.704,0.935,10,-6.025,1,0.0534,0.0643,0.0067,0.147,0.656,119.994,116249,4,4
+875,Fopspeen (Bound 2 U),"Hush', 'All About She",0.684,0.536,2,-6.852,1,0.0536,0.105,0.0,0.299,0.523,82.503,216727,4,4
+876,Uyai,Ibibio Sound Machine,0.782,0.669,1,-4.58,1,0.213,0.0733,0.0,0.111,0.598,143.992,186678,4,4
+877,Red Barchetta,James Labrie,0.528,0.921,2,-7.64,1,0.0524,0.0174,0.000186,0.0472,0.298,144.368,370427,4,4
+878,Returner,Liturgy,0.448,0.695,0,-7.76,1,0.0325,0.429,1.34e-06,0.217,0.533,140.061,283359,4,4
+879,The Circle of Suns and Moons,"John Luther Adams', 'John Luther Adams Ensemble",0.155,0.0344,4,-25.828,0,0.0362,0.966,0.465,0.104,0.028,134.426,467613,1,1
+880,Ghost Whispers,Under A Nightmare,0.39,0.129,5,-14.75,1,0.0378,0.934,0.000135,0.111,0.112,168.365,193760,4,7
+881,Good As Ever,Works Progress Administration,0.571,0.704,9,-8.393,1,0.0525,0.0289,0.00285,0.345,0.482,153.023,215200,4,4
+882,Glitches (The Skin You're In)(featuring The Roots) - Radio Edit,"Amel Larrieux', 'Ahmir K. Thompson', 'Tarik Trotter', 'Guesley Larrieux', 'Scott Storch', 'The Roots",0.84,0.481,2,-5.991,0,0.281,0.0556,1.15e-05,0.182,0.714,95.371,244000,4,8
+883,"Maskarade, FS 39, Act III: Act III: Gor Plads! Gor Plads! (Master of the Masquerade)","Carl Nielsen', 'Guido Paevatalu', 'Danish National Symphony Orchestra', 'Michael Schønwandt",0.369,0.0521,4,-21.145,1,0.0549,0.937,0.0613,0.21,0.11,93.911,333907,4,7
+884,Love Has Found a Way,Spirit,0.502,0.446,2,-9.596,0,0.0299,0.069,1.55e-06,0.54,0.208,113.25,162027,4,0
+885,i used to - electric lady sessions,LCD Soundsystem,0.484,0.896,4,-7.972,0,0.035,0.000635,0.0755,0.12,0.933,116.395,279973,4,6
+886,King,James D. Stark,0.73,0.445,6,-8.376,0,0.0446,0.142,0.00109,0.107,0.075,105.976,280131,4,6
+887,Save Me,"Eugene Capper', 'Rhodri Brooks",0.677,0.404,0,-9.552,1,0.027,0.653,0.0,0.249,0.355,83.087,240723,3,7
+888,"I Love You, Lord",Studio Musicians,0.194,0.131,5,-14.686,1,0.0342,0.945,0.0,0.101,0.105,80.15,142400,4,7
+889,Pause - Radio Version,Run–D.M.C.,0.737,0.797,6,-9.829,0,0.188,0.0137,5.04e-05,0.322,0.673,106.091,228267,4,6
+890,First Nation (feat. Jessica Mauboy & Tasman Keith),"Midnight Oil', 'Jessica Mauboy', 'Tasman Keith",0.65,0.747,9,-6.691,0,0.0283,0.0291,7.98e-05,0.45,0.256,108.013,291507,4,6
+891,"Symphony No. 14 in A Major, K. 114: IV. Molto allegro","Wolfgang Amadeus Mozart', 'Northern Chamber Orchestra', 'Nicholas Ward",0.413,0.0761,9,-20.313,1,0.0401,0.978,0.511,0.0618,0.406,79.411,199067,4,1
+892,"Herr Gott, dich loben wir BWV 16: Aria: Geliebter Jesu, du allein","Johann Sebastian Bach', 'Ton Koopman', 'Amsterdam Baroque Orchestra & Choir', 'Johannete Zomer', 'Sandrine Piau', 'Sibylla Rubens', 'The Amsterdam Baroque Orchestra & Opera', 'Johannette Zomer",0.304,0.201,5,-16.111,1,0.0515,0.966,1.73e-05,0.285,0.635,134.586,410000,3,7
+893,Suicide On the Hillside,Dave Manning,0.289,0.213,0,-12.014,1,0.0288,0.966,0.0084,0.156,0.226,91.248,372413,4,7
+894,Celtic Kalkadunga Polka,"Polkastra', 'William Barton",0.453,0.488,9,-5.252,1,0.0408,0.629,0.15,0.287,0.488,126.046,457400,4,4
+895,Pute Prada,"Golya Guzman', 'HrPelle",0.869,0.575,6,-4.359,0,0.083,0.348,0.0,0.0918,0.641,120.029,214016,4,6
+896,"Behold, Malevolence",Enterprise Earth,0.309,0.984,8,-7.249,1,0.272,0.00507,0.189,0.145,0.0385,125.164,246849,3,8
+897,Dreams,Hiroshima,0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151,257800,4,4
+898,"Clarinet Sonata in F Minor, Op. 120, No. 1: II. Andante un poco adagio",Johannes Brahms,0.195,0.00302,8,-30.221,1,0.0491,0.994,0.856,0.0908,0.0632,130.784,297827,4,1
+899,Giù x Terra,Ghali,0.629,0.634,6,-8.866,1,0.0741,0.0823,4.39e-05,0.136,0.283,99.144,133636,4,4
+900,Complete Loss of Reality,"Mentallo', 'The Fixer",0.456,0.998,0,-3.977,0,0.141,0.0416,0.928,0.334,0.0539,105.006,155440,4,3
+901,Ragmala in Khammaj and Bhatiyalli Dhun,"Vilayat Khan', 'Zakir Hussain",0.432,0.543,1,-10.062,1,0.0378,0.746,0.487,0.677,0.327,134.318,807818,3,0
+902,Its Unheard Of,Thaddeus Carlton,0.44,0.284,2,-9.092,1,0.0304,0.764,0.0392,0.076,0.225,79.666,275628,4,7
+903,"Cello Suite No. 3 in C Major, BWV 1009: III. Courante","Johann Sebastian Bach', 'Yiorgos Kaloudis",0.35,0.158,6,-24.614,1,0.0616,0.976,0.866,0.288,0.803,86.183,201167,4,1
+904,You're Singin' My Song,Durwood Haddock,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,190440,4,6
+905,Butterfly Angels,John Boda,0.697,0.638,8,-6.536,1,0.0296,0.00131,0.0622,0.184,0.595,111.981,252558,4,4
+906,Suitcase Song,Framing the Red,0.391,0.34,0,-13.3,1,0.0403,0.758,0.000224,0.117,0.26,99.605,280187,3,7
+907,SSI Intro,Purple Motion,0.758,0.467,11,-11.419,0,0.206,0.482,0.00665,0.0899,0.232,119.914,103267,4,6
+908,Sugar,Jelly Roll Johnson,0.494,0.842,7,-4.784,1,0.0843,0.00579,0.0,0.122,0.574,162.011,229093,4,4
+909,Bethlehem Blue,The Crossing,0.382,0.062,8,-22.542,1,0.0449,0.996,0.967,0.109,0.292,76.806,118654,4,1
+910,Suspension Without Suspense,Rockabye Baby!,0.49,0.626,7,-6.899,1,0.031,0.157,0.0,0.111,0.195,124.975,250587,4,4
+911,"Flute Sonata in B Minor, BWV 1030: I. Andante","Johann Sebastian Bach', 'Pauliina Fred', 'Aapo Häkkinen",0.336,0.141,2,-20.141,0,0.0392,0.937,0.000825,0.0913,0.35,114.048,520507,4,7
+912,Goin' To Miami,"""Todor 'Toscho' Todorovic""",0.729,0.61,2,-6.905,1,0.0376,0.46,0.0,0.115,0.171,114.947,185953,4,4
+913,Bandamix de Lalo Tzul: Haydee / Que Te Ha Dado Esa Mujer / Se Fué Mi Amor / Adiós Mi Amor,Banda Santa Cecilia,0.349,0.57,0,-7.552,1,0.0455,0.0685,2.69e-06,0.28,0.688,201.266,337615,4,4
+914,Livin' In Debt,Thaddeus Carlton,0.677,0.638,8,-8.631,1,0.333,0.589,0.0,0.193,0.435,82.81,211497,4,8
+915,The Collector,Suffering And The Hideous Thieves,0.663,0.964,0,-3.987,1,0.0707,0.0017,0.0637,0.137,0.4,138.009,187493,3,4
+916,Sonata for Violin and Harpsichord in C Minor: II. Presto,"Johann Georg Pisendel', 'Rachel Podger",0.378,0.3,11,-19.267,0,0.0342,0.807,0.000279,0.302,0.599,106.258,205947,4,7
+917,Variation 6: L'istesso tempo,"Felix Mendelssohn', 'Emanuel Gruber', 'Arnon Erez",0.427,0.0921,2,-26.573,1,0.033,0.99,0.974,0.129,0.965,67.466,29960,3,1
+918,Love Me Too,Cody Shuler,0.52,0.573,4,-5.239,1,0.0293,0.181,0.0,0.107,0.207,117.067,251827,3,4
+919,Never Let Me Go,Irene Kral,0.461,0.73,9,-3.262,1,0.0371,0.295,4.31e-06,0.383,0.253,145.197,271013,4,4
+920,Le plus beau voyage,Claude Gauthier,0.36,0.4,2,-8.229,1,0.031,0.579,0.00121,0.114,0.134,77.166,244133,4,7
+921,Die Pig Die,Abscess,0.49,0.813,8,-3.083,1,0.128,0.235,0.0,0.275,0.964,170.511,162507,4,4
+922,Over the Stone: IV. Crossing the Stone,"Karl Jenkins', 'Traditional', 'Catrin Finch', 'The City of Prague Philharmonic Orchestra",0.187,0.208,5,-13.318,0,0.0399,0.937,0.88,0.0831,0.0429,118.207,257200,4,1
+923,Wake Up Time - Home Recording,Tom Petty,0.492,0.175,2,-15.023,1,0.03,0.948,0.000622,0.101,0.237,102.044,340131,3,7
+924,Sidetracked In Miami,Tim Kinsella,0.572,0.135,5,-18.804,1,0.0353,0.943,0.067,0.11,0.0773,109.352,156103,4,7
+925,John Wayne,Cigarettes After Sex,0.638,0.683,6,-5.889,0,0.0275,0.000877,0.000645,0.178,0.615,109.051,295776,4,6
+926,Almost Love - Solo Demo,Andrew Gold,0.515,0.215,2,-13.932,0,0.0453,0.918,0.0,0.101,0.478,169.2,221882,3,7
+927,In The Streets Of London,The Business,0.384,0.274,7,-11.226,1,0.0422,0.693,0.000561,0.448,0.0802,93.274,177333,3,7
+928,Wild Ass,Michael Katon,0.839,0.601,9,-7.608,1,0.25,0.051,0.000223,0.0817,0.479,101.995,200333,4,8
+929,Wir sind die Welt,Eva Luginger,0.581,0.656,10,-11.248,1,0.0505,0.254,0.0,0.215,0.376,136.006,244707,4,4
+930,Piece of Me,EURINGER,0.769,0.638,11,-5.054,1,0.216,0.0902,0.0,0.0857,0.782,115.007,212107,4,8
+931,Everlasting Love,Fifth Harmony,0.546,0.828,4,-4.771,1,0.0394,0.719,0.03,0.372,0.401,121.418,153947,4,4
+932,Void,The Sunless Sea,0.767,0.854,4,-4.57,0,0.0675,0.169,0.000529,0.175,0.519,109.943,230501,4,6
+933,MOVES,"The MessyPainter', 'Izzy",0.722,0.758,11,-4.477,0,0.0471,0.0111,0.0,0.308,0.62,128.047,201160,4,6
+934,Aintcha Bitch,"Krizz Kaliko', 'Tech N9ne",0.784,0.582,3,-6.509,0,0.341,0.0563,0.0,0.352,0.756,73.972,186320,4,8
+935,Offertorium-motet - Sub tuum presidium,"The Anonymous', 'Cappella Pratensis', 'Stratton Bull",0.0927,0.233,11,-17.575,1,0.0377,0.993,0.0569,0.0928,0.0425,75.961,161400,3,7
+936,You Make My Heart Smile,Gary Jess,0.733,0.443,2,-8.14,0,0.0664,0.645,0.0206,0.107,0.562,103.948,157174,4,6
+937,"So Long, Los Guapos",Mating Ritual,0.758,0.175,0,-14.338,1,0.063,0.372,0.916,0.115,0.97,119.998,95428,4,3
+938,They'll Never Take Us Alive,Zig Zags,0.362,0.934,6,-3.458,0,0.0579,0.000119,4.9e-06,0.312,0.514,166.03,205316,4,6
+939,Monument,Gene Parsons,0.706,0.742,1,-3.19,0,0.351,0.471,0.0142,0.0976,0.595,169.921,173647,4,8
+940,Augustine,Swan Dive,0.75,0.606,6,-9.928,1,0.0726,0.153,0.000289,0.316,0.115,119.99,231189,4,4
+941,Searching For A Heart,Don Henley,0.612,0.54,7,-11.244,1,0.0264,0.323,0.0207,0.0872,0.644,109.817,256373,4,4
+942,Animal Attraction,Shoes,0.848,0.559,7,-4.576,1,0.0501,0.000514,0.00181,0.0933,0.964,122.01,220497,4,4
+943,Human Prototype,"APER7URE', '5haus",0.449,0.938,1,-4.944,1,0.056,0.00114,0.473,0.147,0.103,174.017,282759,4,3
+944,The Spacemen Are Coming,Trip Theory,0.671,0.865,2,-9.712,1,0.0675,0.0235,0.38,0.104,0.689,138.039,377333,4,4
+945,Passage,Mad Essence,0.152,0.0621,9,-30.406,0,0.05,0.881,0.91,0.105,0.0769,70.965,177758,4,1
+946,War (Live),Richard Cheese,0.796,0.95,1,-5.107,1,0.127,0.0246,4.34e-05,0.0349,0.769,102.998,411572,4,4
+947,Too Young,Joseph Birdsong,0.602,0.635,4,-6.526,0,0.052,0.271,3.2e-05,0.0829,0.225,123.05,237147,4,6
+948,Gone Wrong,"Wapp', 'Doublecuhh",0.717,0.735,10,-5.764,0,0.0404,0.0504,0.0,0.132,0.787,107.0,164000,4,6
+949,Keeps Me Breathing (Instrumental),Approaching Nirvana,0.597,0.437,9,-8.45,1,0.0363,0.193,0.0673,0.116,0.0792,128.052,213750,4,4
+950,Chicago Blues,"Arthur ""Big Boy"" Crudup",0.332,0.362,10,-16.326,1,0.0355,0.941,0.909,0.933,0.331,79.178,832840,3,0
+951,Citadel,Loney Dear,0.247,0.66,9,-7.631,1,0.0369,0.0148,0.000286,0.0884,0.612,114.801,170840,4,4
+952,Point of Know Return,Kansas,0.687,0.59,5,-5.204,1,0.0367,0.0889,0.000173,0.171,0.653,136.232,190760,4,4
+953,"Fantasia in G Minor, P. 6","John Dowland', 'Nigel North",0.239,0.0102,1,-34.109,0,0.0392,0.992,0.938,0.105,0.121,70.578,229227,4,1
+954,Add This Song(Gluteus Maximus Mix) - Gluteus Maximus Mix Remix,GusGus,0.819,0.438,0,-14.434,1,0.0593,0.0513,0.665,0.0984,0.311,126.014,454316,4,3
+955,A Golden Age,The Peacers,0.426,0.521,5,-6.552,1,0.0674,0.782,0.0,0.293,0.439,94.274,156200,4,7
+956,"String Quartet No. 14 in C-Sharp Minor, Op. 131: VI. Adagio","Ludwig van Beethoven', 'Calder Quartet",0.199,0.0411,8,-27.764,0,0.046,0.963,0.9,0.149,0.0364,90.767,112640,4,1
+957,Cool Black Moon,The Rosedales,0.518,0.888,8,-6.16,1,0.0471,0.000177,0.00299,0.0924,0.88,103.685,110093,4,4
+958,Taps,Timothy Seaman,0.169,0.00744,5,-24.656,1,0.0413,0.995,0.985,0.0778,0.202,68.832,54480,3,1
+959,Shinjuku Station,The Blue Canyon Boys,0.702,0.836,5,-9.798,0,0.0424,0.125,0.805,0.57,0.836,134.98,347507,4,0
+960,Cross Sections/Entropion,Dither,0.398,0.321,9,-13.183,1,0.0446,0.908,0.903,0.142,0.0907,114.554,370387,4,1
+961,"Diabelli Variations, Op. 120: Var. 11, Allegretto","Ludwig van Beethoven', 'Imogen Cooper",0.383,0.02,0,-32.809,1,0.0484,0.996,0.938,0.106,0.219,66.983,68440,4,1
+962,Slow Water,STNNNG,0.318,0.377,1,-44.508,1,0.0952,0.862,0.00313,0.941,0.0267,130.992,443716,4,0
+963,Wandering Away,Carl Verheyen Band,0.423,0.0141,6,-25.915,1,0.036,0.989,0.917,0.114,0.201,89.095,84000,3,1
+964,Free Falling,Narconic,0.546,0.623,6,-8.334,1,0.0561,0.00839,0.0271,0.231,0.251,119.997,226000,4,4
+965,Slow an' Easy,Whitesnake,0.63,0.546,0,-14.802,1,0.0443,0.21,0.00969,0.0632,0.258,106.215,369933,4,4
+966,Gifts,"Dana Alexandra', 'Mark Wesling",0.515,0.841,8,-3.753,1,0.0382,0.266,0.0,0.259,0.82,156.061,202240,4,4
+967,Cicada,Hazmat Modine,0.393,0.0617,0,-45.137,1,0.0512,0.39,0.825,0.14,0.0384,78.664,87532,3,1
+968,"Brandenburg Concerto No. 4 in G Major, BWV 1049: III. Presto","Johann Sebastian Bach', 'English Baroque Soloists', 'John Eliot Gardiner",0.515,0.304,6,-15.994,1,0.0381,0.877,3.02e-06,0.0942,0.642,105.357,284973,4,7
+969,Deal with the Preacher - 2015 Remaster,Bad Company,0.48,0.803,7,-8.059,1,0.0677,0.0628,0.0,0.19,0.815,125.446,302360,4,4
+970,Ventilation Management - Original Composition Inspired by Limp Bizkit,Vitamin String Quartet,0.408,0.53,9,-8.689,1,0.0604,0.12,0.0359,0.116,0.461,183.508,211200,4,4
+971,Let the Wrong One Out,Gaytheist,0.713,0.565,7,-8.692,0,0.0271,0.0276,0.0952,0.0818,0.205,114.999,252227,4,6
+972,Moses,Bigfoot Woman,0.594,0.811,4,-3.754,0,0.0954,0.098,0.0,0.116,0.128,143.912,272693,4,6
+973,"Time Passes Slowly #1 - Alternate Version, New Morning",Bob Dylan,0.559,0.433,11,-9.752,1,0.0545,0.723,0.0,0.122,0.656,145.86,138067,3,7
+974,"Pelleas und Melisande, Op. 5: Sehr langsam -","Arnold Schoenberg', 'Philharmonia Orchestra', 'Robert Craft",0.128,0.0428,1,-26.333,1,0.0375,0.946,0.689,0.119,0.0359,86.862,283600,3,1
+975,"Piano Sonata in F Minor, Op. 2, No. 1: I. Allegro","Ludwig van Beethoven', 'Martin Roscoe",0.245,0.0691,11,-25.879,0,0.0354,0.993,0.899,0.0933,0.0726,58.029,792000,4,1
+976,Introducing Unemployment,Antonelli,0.797,0.437,4,-11.707,0,0.163,0.00821,0.88,0.111,0.206,124.987,242187,4,3
+977,Anarchy,Stay Out,0.552,0.0855,7,-21.638,1,0.101,0.974,0.0,0.137,0.604,83.871,167879,4,7
+978,Anyone Can Whistle,Lee Remick,0.416,0.24,3,-12.151,1,0.0309,0.906,1.8e-06,0.119,0.282,93.138,117533,4,7
+979,Solitary Confinement,"Decadawn', 'Tomas Lindberg",0.603,0.696,2,-3.217,1,0.0278,0.572,0.0,0.141,0.501,99.88,225682,4,4
+980,White Ribbons,George Skaroulis,0.832,0.399,6,-11.664,0,0.0414,0.526,0.000842,0.155,0.775,115.023,196493,4,6
+981,Eating Lunch in My Car,William Rogue,0.854,0.398,2,-13.481,1,0.146,0.084,0.00169,0.0885,0.785,111.001,116920,4,4
+982,Drain You,Horse Feathers,0.325,0.929,11,-5.625,0,0.0695,0.000129,2.22e-06,0.184,0.198,133.358,223880,4,6
+983,Resolution Calling,Petroleum Falcon,0.572,0.991,2,-2.569,1,0.0667,0.0473,3.73e-05,0.219,0.295,123.953,279827,4,4
+984,What You Waiting For?,Gwen Stefani Piano Tribute,0.676,0.948,5,-2.557,1,0.0628,0.0509,8.19e-06,0.384,0.731,136.027,221227,4,4
+985,God Complex,Like Moths To Flames,0.636,0.537,7,-6.559,1,0.0578,0.472,0.0,0.107,0.595,73.99,210000,4,4
+986,Outro,Horrid,0.226,0.261,2,-11.276,1,0.0339,0.0301,0.0677,0.0628,0.084,108.915,247027,4,7
+987,It's Raining Here This Morning,Ralph Stanley II,0.535,0.28,3,-18.386,1,0.0377,0.847,0.00378,0.104,0.773,116.576,217360,4,7
+988,Sie - Piano Sessions,LEA,0.723,0.214,3,-10.593,0,0.0537,0.929,0.0,0.123,0.468,119.871,193387,4,7
+989,Slappin' the Cakes on Me,"Jessica Molaskey,Dave Frishberg",0.637,0.285,10,-13.912,0,0.0712,0.551,0.0,0.136,0.583,121.735,216893,4,6
+990,Rigoletto: Gualtier Maldè... Caro nome che il mio cor,"Giuseppe Verdi', 'Riccardo Muti",0.253,0.0129,4,-30.657,1,0.0663,0.932,0.0,0.0599,0.0391,81.934,394000,3,1
+991,One Note Joe,The Hi-Risers,0.587,0.119,3,-18.476,0,0.0931,0.927,0.0166,0.121,0.401,155.292,303507,4,7
+992,Fast Food,Cowboy5,0.727,0.483,5,-13.068,0,0.203,0.842,0.949,0.195,0.316,147.172,158761,4,3
+993,Profile,Colin Gawel,0.552,0.652,5,-3.232,0,0.0279,0.221,2.53e-05,0.394,0.223,75.009,144009,4,6
+994,Here We Go,Tilo The Godlion,0.469,0.623,1,-4.432,1,0.0302,0.345,0.0,0.588,0.198,134.943,209778,4,0
+995,Give Me One Kiss,"Various Artists', 'Dara Chom Chan",0.681,0.779,7,-9.738,1,0.0452,0.0143,0.484,0.0626,0.963,125.599,185333,4,4
+996,"Piano Sonata in D Major, Op. 28 ‘Pastoral’: IV. Rondo - Allegro ma non troppo","Ludwig van Beethoven', 'Martin Roscoe",0.258,0.0988,2,-24.079,1,0.0418,0.991,0.893,0.102,0.231,86.46,276507,4,1
+997,Little Desert Ambient,All India Radio,0.173,0.0706,0,-26.365,1,0.0349,0.917,0.929,0.0891,0.0327,67.83,220590,4,1
+998,The Path Straight Thru - Mukqs Shortcut,"Fire-Toolz', 'Mukqs",0.201,0.715,4,-8.769,0,0.326,0.517,0.355,0.392,0.275,86.066,326937,1,0
+999,Pale Blue Eyes (Radio Caroline),Radio Caroline,0.523,0.259,7,-10.601,1,0.0325,0.455,6.43e-06,0.0979,0.192,72.938,211040,4,7
+1000,Anal Phase - Demo,Imago Mortis,0.251,0.78,0,-10.253,1,0.0471,0.119,3.56e-05,0.13,0.514,150.567,332573,4,4
+1001,Skulls,The Erotics,0.469,0.852,2,-10.821,1,0.0446,0.422,2.68e-06,0.474,0.344,113.616,118960,4,4
+1002,Only Happy When It Rains,Vitamin String Quartet,0.511,0.827,1,-4.55,0,0.0323,3.77e-05,0.00103,0.208,0.486,121.459,236533,4,6
+1003,Pulsefire Caitlyn (From League of Legends: Season 7),League of Legends,0.607,0.431,2,-11.251,1,0.0282,0.0226,0.903,0.102,0.151,120.007,200000,4,3
+1004,Saturday Night - Single Edit,Robbie Dupree,0.733,0.874,11,-9.065,1,0.0391,0.0334,0.0293,0.214,0.965,129.963,223922,4,4
+1005,Boundaries & Dreams,Midair Dervish,0.275,0.784,10,-4.602,1,0.046,0.526,4.47e-05,0.0613,0.48,88.379,131880,4,4
+1006,Saturday,I Can Lick Any Sonofabitch in the House,0.637,0.864,8,-4.381,1,0.0468,0.484,0.0,0.222,0.706,99.995,214720,4,4
+1007,Spanischer Tanz (from Die Fledermaus),"Johann Strauss II', 'Budapest Strauss Ensemble', 'Istvan Bogar",0.636,0.358,0,-14.581,1,0.0367,0.901,0.235,0.0954,0.73,107.63,73293,1,7
+1008,Before This Time Another Year,Jayme Stone,0.591,0.4,5,-11.032,1,0.132,0.772,0.0,0.359,0.62,171.803,304227,3,7
+1009,I Can Hardly Wait,The Blank Tapes,0.662,0.487,8,-9.25,1,0.028,0.693,0.0,0.2,0.395,120.059,287427,4,7
+1010,Makin' The Game Mistakes,Bob Martin,0.576,0.527,2,-11.528,1,0.089,0.0191,0.0,0.178,0.461,105.36,191200,4,4
+1011,Loch Lomond,"""Newman Sound Men's Choir""",0.381,0.224,8,-9.643,1,0.0274,0.903,0.0,0.103,0.101,144.108,200644,4,7
+1012,If The Fall Don't Get You,Janie Fricke,0.712,0.658,5,-13.54,1,0.0568,0.0603,0.0,0.128,0.926,141.731,168827,4,4
+1013,Lutheran Teens,Tyte Jeff,0.5,0.894,2,-5.036,1,0.06,0.0222,0.00531,0.101,0.408,136.006,266307,4,4
+1014,Shepherd Moons,Vitamin String Quartet,0.321,0.015,5,-28.528,1,0.0334,0.987,0.935,0.108,0.047,64.624,224933,4,1
+1015,Chinese Medicine,King Nun,0.703,0.458,8,-10.646,1,0.0633,0.0541,0.748,0.134,0.274,79.998,96000,4,3
+1016,Play Pimpin (Instrumental),Kydd Trell,0.754,0.828,4,-8.115,1,0.0717,0.0297,0.468,0.272,0.563,91.977,209240,4,4
+1017,Secrets and Lies,X-Ray Dog,0.152,0.399,9,-9.759,0,0.0322,0.0195,0.000393,0.15,0.136,68.826,263929,4,6
+1018,"Nocturne in B Major, Op. 40, B. 47","Antonín Dvořák', 'Baltimore Symphony Orchestra', 'Marin Alsop",0.119,0.0414,11,-28.366,1,0.0429,0.614,0.909,0.135,0.0367,78.906,453787,4,1
+1019,"Chelovek s ruzh'yom (The Man with a Gun), Op. 53: II. October: Allegro moderato","Dmitri Shostakovich', 'BBC Philharmonic', 'Vassily Sinaisky",0.0,0.0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,2
+1020,The Shine,Songs To Your Eyes,0.679,0.553,8,-6.074,1,0.0493,0.266,0.0,0.0841,0.575,99.983,188027,4,4
+1021,Ask Me No Questions,John Campbelljohn,0.608,0.84,10,-5.738,0,0.0799,0.216,0.000351,0.559,0.705,124.423,302640,4,0
+1022,Caleb Meyer,The Greencards,0.685,0.547,8,-6.945,1,0.03,0.693,0.0422,0.0572,0.675,93.367,185067,4,4
+1023,Caldonia,Al & The Coholics,0.465,0.633,0,-6.398,1,0.0676,0.819,6.86e-05,0.132,0.894,165.484,163507,4,4
+1024,Morning Moon,"Holler, Wild Rose!",0.585,0.172,9,-15.14,0,0.0668,0.732,0.918,0.0971,0.0484,79.939,136687,4,1
+1025,Dime at the Bottom of My Purse,Emily Rose,0.443,0.249,3,-14.93,0,0.0394,0.526,3.32e-06,0.118,0.296,77.62,174000,4,7
+1026,La Perla,"Eduard Kutrowatz', 'Elisabeth Kulman",0.664,0.524,7,-10.5,1,0.0509,0.0316,0.892,0.176,0.403,124.0,317004,4,3
+1027,Bear Cat Papa Blues,Gene Autry,0.72,0.18,1,-12.856,1,0.0686,0.986,7.32e-06,0.11,0.707,123.122,168560,3,7
+1028,As You Said,Tortoise,0.456,0.388,2,-15.385,1,0.0314,0.798,0.128,0.144,0.194,85.646,260467,4,7
+1029,Nothing At All,Michael Carpenter,0.557,0.772,4,-5.598,0,0.0573,0.156,0.0,0.125,0.267,141.946,170282,4,6
+1030,Playing Free - Pink Alert Trinidub,"Donna Regina', 'Pink Alert",0.808,0.336,1,-13.753,1,0.0998,8.18e-06,0.944,0.108,0.328,112.978,314093,4,3
+1031,Search On,Aretha Franklin,0.45,0.165,0,-17.54,1,0.0419,0.995,0.939,0.0958,0.429,100.427,97489,3,1
+1032,"Violin Concerto No. 5 in A Minor, MS 78: I. Allegro maestoso (Cadenza by I. Turban)","Niccolò Paganini', 'Ingolf Turban', 'WDR Rundfunkorchester Köln', 'Lior Shambadal",0.413,0.0958,9,-20.05,0,0.0466,0.967,0.655,0.0885,0.225,115.534,1169533,4,1
+1033,Giant,The The,0.192,0.0409,0,-29.467,1,0.0391,0.994,0.98,0.0956,0.0394,69.071,195751,4,1
+1034,What I'm About (Remix) [feat. Bosko],"Cool Nutz', 'Bosko",0.84,0.811,1,-4.189,1,0.212,0.229,8.3e-05,0.0502,0.554,95.514,233787,4,4
+1035,El Secreto,Jaguares,0.718,0.117,0,-16.624,0,0.112,0.725,0.897,0.111,0.434,79.764,87500,4,1
+1036,Long Distance Lover,Babatunde Olatunji,0.879,0.573,11,-8.972,0,0.0458,0.0707,0.0859,0.106,0.962,137.976,264024,4,6
+1037,"Do Right Woman, Do Right Man",Aretha Franklin,0.668,0.284,9,-10.192,1,0.0413,0.706,0.0,0.131,0.491,134.911,196640,3,7
+1038,I Need a Manager,DC Cardwell,0.745,0.646,6,-6.987,0,0.17,0.157,0.0,0.338,0.46,79.993,203908,4,6
+1039,Oraș De Iluzie,Impossible!,0.469,0.623,2,-3.562,0,0.0395,0.0103,0.675,0.0669,0.42,83.862,256580,3,3
+1040,Back to Life,Miriam Tamar,0.467,0.701,4,-4.997,1,0.0302,0.191,0.0,0.0769,0.28,132.041,214219,3,4
+1041,A Brief Stop,Mark Rushton,0.453,0.916,6,-8.239,0,0.218,0.0983,2.19e-06,0.111,0.114,140.08,283360,4,6
+1042,Open Book,Mariana Trench,0.604,0.21,7,-15.42,1,0.0483,0.948,0.804,0.11,0.549,92.595,160853,4,7
+1043,With This Heart,Kansas,0.429,0.913,0,-4.765,1,0.0395,0.0149,0.0251,0.114,0.584,194.905,253627,3,4
+1044,Somebody Else's Love Story,Eric Harper,0.611,0.409,9,-9.465,0,0.0241,0.706,0.00107,0.108,0.229,79.013,269493,4,6
+1045,Management Confidential,Robert Poss,0.586,0.831,5,-9.271,1,0.0529,0.0822,0.933,0.0536,0.361,94.997,250312,4,3
+1046,Monstercat Podcast Ep. 089,Monstercat Call of the Wild,0.415,0.883,11,-4.025,0,0.102,0.00919,0.0214,0.391,0.34,100.46,3505734,4,5
