@@ -1,4 +1,4 @@
-# Song Recommender
+# 🎵 Song Recommender 🎵
 
 #### Business goal:
 
