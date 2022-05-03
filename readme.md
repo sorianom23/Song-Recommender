@@ -1,24 +1,38 @@
-# 🎵 Song Recommender 🎵
+# **🎵 Song Recommender 🎵**
 
-#### Business goal:
+**Date: April 2022**
 
-- Check the `case_study_gnod.md` file.
-- Make sure you've understood the big picture of your project:
 
-  - the goal of the company (`Gnod`),
-  - their current product (`Gnoosic`),
-  - their strategy, and
-  - how your project fits into this context.
+## Description
+This is a simulation of a business case where I have to improve the company's song recommendation sistem.
+In order to accomplish the goal I will be using DBSCAN clustering, a density-based clustering method.
 
-  Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello board with the tasks you think you'll have to accomplish.
+The final product will take a song as an input from the user and will output another song (the recommendation).
 
-#### Instructions - Scraping popular songs
+### Workflow
+![AppWorkFlow]('/Users/mariasoriano/Desktop/final_song_recommender/app_workflow.png')
 
-Your product will take a song as an input from the user and will output another song (the recommendation). In most cases, the recommended song will have to be similar to the inputted song, but the CTO thinks that if the song is on the top charts at the moment, the user will enjoy more a recommendation of a song that's also popular at the moment.
+## Technologies used
+- [Python](https://www.python.org/)
+- [Streamlit](https://streamlit.io/)
+- [Spotify API](https://developer.spotify.com/documentation/web-api/)
 
-You have find data on the internet about currently popular songs. Billboard maintains a weekly Top 100 of "hot" songs here: [https://www.billboard.com/charts/hot-100](https://www.billboard.com/charts/hot-100).
+## Final product
+You can try the song recommender here 👉🏼 https://song-recommendations.herokuapp.com/
 
-It's a good place to start! 
+## Roadmap
+- [x] Webscrapping data for the hot and not hot songs.
+- [x] Make the necessary connections for the Spotify API.
+- [x] Apply k-means method for clustering. (First attempt)
+- [x] Apply DBSCAN method for clustering. (Worked better)
+- [x] Create front end with Streamlit.
 
-**The goal of this lab is to create a function: scrape_hot100()** to scrape the current top 100 songs present at [https://www.billboard.com/charts/hot-100](https://www.billboard.com/charts/hot-100) and their respective artists, put the information into a pandas dataframe, and save the dataframe in a csv file in the current folder. 
+
+## Datasets
+The data was obtained webscrapping the following websites:
+- For the Billboard top 100: https://www.billboard.com/charts/hot-100
+- For the 'not hot songs': 
+
+## Author
+[Maria Clotilde Soriano](https://www.linkedin.com/in/sorianom/)
 
