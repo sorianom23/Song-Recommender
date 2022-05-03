@@ -9,9 +9,6 @@ In order to accomplish the goal I will be using DBSCAN clustering, a density-bas
 
 The final product will take a song as an input from the user and will output another song (the recommendation).
 
-### Workflow
-![AppWorkFlow]('/Users/mariasoriano/Desktop/final_song_recommender/app_workflow.png')
-
 ## Technologies used
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
