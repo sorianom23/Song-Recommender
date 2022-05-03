@@ -2,6 +2,15 @@
 
 **Date: April 2022**
 
+## Table of Contents
+- [Song Recommender](#song-recommender)
+    - [Description](#description)
+    - [Technologies used](#technologies-used)
+    - [Final product](#final-product)
+    - [Roadmap](#roadmap)
+    - [Datasets](#datasets)
+            - [Author:](#author)
+
 
 ## Description
 This is a simulation of a business case where I have to improve the company's song recommendation sistem.
